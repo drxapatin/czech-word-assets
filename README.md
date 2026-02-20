@@ -1,0 +1,1 @@
+# czech-word-assets

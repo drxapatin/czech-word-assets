@@ -1,0 +1,8222 @@
+[
+  {
+    "en": "barn",
+    "cz": "stodola",
+    "img": "image/stodola__barn.png"
+  },
+  {
+    "en": "bale",
+    "cz": "balík",
+    "img": "image/balik__bale.png"
+  },
+  {
+    "en": "cotton",
+    "cz": "bavlna",
+    "img": "image/bavlna__cotton.png"
+  },
+  {
+    "en": "farm",
+    "cz": "farma",
+    "img": "image/farma__farm.png"
+  },
+  {
+    "en": "plow",
+    "cz": "pluh",
+    "img": "image/pluh__plow.png"
+  },
+  {
+    "en": "spade",
+    "cz": "rýč",
+    "img": "image/ryc__spade.png"
+  },
+  {
+    "en": "rice",
+    "cz": "rýže",
+    "img": "image/ryze__rice.png"
+  },
+  {
+    "en": "field",
+    "cz": "pole",
+    "img": "image/pole__field.png"
+  },
+  {
+    "en": "grain",
+    "cz": "zrnko",
+    "img": "image/zrnko__grain.png"
+  },
+  {
+    "en": "fruit",
+    "cz": "ovoce",
+    "img": "image/ovoce__fruit.png"
+  },
+  {
+    "en": "seed",
+    "cz": "semeno",
+    "img": "image/semeno__seed.png"
+  },
+  {
+    "en": "plow",
+    "cz": "orat",
+    "img": "image/orat__plow.png"
+  },
+  {
+    "en": "hay",
+    "cz": "seno",
+    "img": "image/seno__hay.png"
+  },
+  {
+    "en": "vegetable",
+    "cz": "zelenina",
+    "img": "image/zelenina__vegetable.png"
+  },
+  {
+    "en": "tractor",
+    "cz": "traktor",
+    "img": "image/traktor__tractor.png"
+  },
+  {
+    "en": "farmer",
+    "cz": "rolník",
+    "img": "image/rolnik__farmer.png"
+  },
+  {
+    "en": "hayfield",
+    "cz": "louka",
+    "img": "image/louka__hayfield.png"
+  },
+  {
+    "en": "rice",
+    "cz": "rýže",
+    "img": "image/ryze__rice__2.png"
+  },
+  {
+    "en": "windmill",
+    "cz": "větrný mlýn",
+    "img": "image/vetrny_mlyn__windmill.png"
+  },
+  {
+    "en": "sickle",
+    "cz": "srp",
+    "img": "image/srp__sickle.png"
+  },
+  {
+    "en": "fence",
+    "cz": "ohrada",
+    "img": "image/ohrada__fence.png"
+  },
+  {
+    "en": "pasture",
+    "cz": "pastvina",
+    "img": "image/pastvina__pasture.png"
+  },
+  {
+    "en": "irrigation",
+    "cz": "zavlažování",
+    "img": "image/zavlazovani__irrigation.png"
+  },
+  {
+    "en": "greenhouse",
+    "cz": "skleník",
+    "img": "image/sklenik__greenhouse.png"
+  },
+  {
+    "en": "manure",
+    "cz": "hnůj",
+    "img": "image/hnuj__manure.png"
+  },
+  {
+    "en": "pesticide",
+    "cz": "pesticid",
+    "img": "image/pesticid__pesticide.png"
+  },
+  {
+    "en": "scarecrow",
+    "cz": "strašák",
+    "img": "image/strasak__scarecrow.png"
+  },
+  {
+    "en": "beekeeping",
+    "cz": "včelařství",
+    "img": "image/vcelarstvi__beekeeping.png"
+  },
+  {
+    "en": "hedge",
+    "cz": "živý plot",
+    "img": "image/zivy_plot__hedge.png"
+  },
+  {
+    "en": "scythe",
+    "cz": "kosa",
+    "img": "image/kosa__scythe.png"
+  },
+  {
+    "en": "compost",
+    "cz": "kompost",
+    "img": "image/kompost__compost.png"
+  },
+  {
+    "en": "bulldozer",
+    "cz": "buldozer",
+    "img": "image/buldozer__bulldozer.png"
+  },
+  {
+    "en": "pitchfork",
+    "cz": "vidle",
+    "img": "image/vidle__pitchfork.png"
+  },
+  {
+    "en": "mulch",
+    "cz": "mulč",
+    "img": "image/mulc__mulch.png"
+  },
+  {
+    "en": "harvester",
+    "cz": "kombajn",
+    "img": "image/kombajn__harvester.png"
+  },
+  {
+    "en": "mattock",
+    "cz": "motyka",
+    "img": "image/motyka__mattock.png"
+  },
+  {
+    "en": "lawn mower",
+    "cz": "sekačka",
+    "img": "image/sekacka__lawn_mower.png"
+  },
+  {
+    "en": "plain",
+    "cz": "rovina",
+    "img": "image/rovina__plain.png"
+  },
+  {
+    "en": "rain",
+    "cz": "déšť",
+    "img": "image/dest__rain.png"
+  },
+  {
+    "en": "wind",
+    "cz": "vítr",
+    "img": "image/vitr__wind.png"
+  },
+  {
+    "en": "water",
+    "cz": "voda",
+    "img": "image/voda__water.png"
+  },
+  {
+    "en": "wool",
+    "cz": "vlna",
+    "img": "image/vlna__wool.png"
+  },
+  {
+    "en": "ecology",
+    "cz": "ekologie",
+    "img": "image/ekologie__ecology.png"
+  },
+  {
+    "en": "wheat",
+    "cz": "pšenice",
+    "img": "image/psenice__wheat.png"
+  },
+  {
+    "en": "corn",
+    "cz": "kukuřice",
+    "img": "image/kukurice__corn.png"
+  },
+  {
+    "en": "atmosphere",
+    "cz": "atmosféra",
+    "img": "image/atmosfera__atmosphere.png"
+  },
+  {
+    "en": "clover",
+    "cz": "jetel",
+    "img": "image/jetel__clover.png"
+  },
+  {
+    "en": "straw",
+    "cz": "sláma",
+    "img": "image/slama__straw.png"
+  },
+  {
+    "en": "shovel",
+    "cz": "lopatka",
+    "img": "image/lopatka__shovel.png"
+  },
+  {
+    "en": "skin",
+    "cz": "kůže",
+    "img": "image/kuze__skin.png"
+  },
+  {
+    "en": "hair",
+    "cz": "chlup",
+    "img": "image/chlup__hair.png"
+  },
+  {
+    "en": "hair",
+    "cz": "vlasy",
+    "img": "image/vlasy__hair.png"
+  },
+  {
+    "en": "bone",
+    "cz": "kost",
+    "img": "image/kost__bone.png"
+  },
+  {
+    "en": "tooth",
+    "cz": "zub",
+    "img": "image/zub__tooth.png"
+  },
+  {
+    "en": "muscle",
+    "cz": "sval",
+    "img": "image/sval__muscle.png"
+  },
+  {
+    "en": "tongue",
+    "cz": "jazyk",
+    "img": "image/jazyk__tongue.png"
+  },
+  {
+    "en": "mouth",
+    "cz": "ústa",
+    "img": "image/usta__mouth.png"
+  },
+  {
+    "en": "lip",
+    "cz": "pysk",
+    "img": "image/pysk__lip.png"
+  },
+  {
+    "en": "eye",
+    "cz": "oko",
+    "img": "image/oko__eye.png"
+  },
+  {
+    "en": "ear",
+    "cz": "ucho",
+    "img": "image/ucho__ear.png"
+  },
+  {
+    "en": "heart",
+    "cz": "srdce",
+    "img": "image/srdce__heart.png"
+  },
+  {
+    "en": "stomach",
+    "cz": "žaludek",
+    "img": "image/zaludek__stomach.png"
+  },
+  {
+    "en": "blood",
+    "cz": "krev",
+    "img": "image/krev__blood.png"
+  },
+  {
+    "en": "brain",
+    "cz": "mozek",
+    "img": "image/mozek__brain.png"
+  },
+  {
+    "en": "head",
+    "cz": "hlava",
+    "img": "image/hlava__head.png"
+  },
+  {
+    "en": "neck",
+    "cz": "krk",
+    "img": "image/krk__neck.png"
+  },
+  {
+    "en": "throat",
+    "cz": "hrdlo",
+    "img": "image/hrdlo__throat.png"
+  },
+  {
+    "en": "body",
+    "cz": "trup",
+    "img": "image/trup__body.png"
+  },
+  {
+    "en": "chest",
+    "cz": "hrudník",
+    "img": "image/hrudnik__chest.png"
+  },
+  {
+    "en": "back",
+    "cz": "záda",
+    "img": "image/zada__back.png"
+  },
+  {
+    "en": "leg",
+    "cz": "noha",
+    "img": "image/noha__leg.png"
+  },
+  {
+    "en": "foot",
+    "cz": "chodidlo",
+    "img": "image/chodidlo__foot.png"
+  },
+  {
+    "en": "arm",
+    "cz": "paže",
+    "img": "image/paze__arm.png"
+  },
+  {
+    "en": "finger",
+    "cz": "prst",
+    "img": "image/prst__finger.png"
+  },
+  {
+    "en": "knee",
+    "cz": "koleno",
+    "img": "image/koleno__knee.png"
+  },
+  {
+    "en": "toe",
+    "cz": "prst",
+    "img": "image/prst__toe.png"
+  },
+  {
+    "en": "nail",
+    "cz": "nehet",
+    "img": "image/nehet__nail.png"
+  },
+  {
+    "en": "nose",
+    "cz": "nos",
+    "img": "image/nos__nose.png"
+  },
+  {
+    "en": "face",
+    "cz": "tvář",
+    "img": "image/tvar__face.png"
+  },
+  {
+    "en": "shoulder",
+    "cz": "rameno",
+    "img": "image/rameno__shoulder.png"
+  },
+  {
+    "en": "breast",
+    "cz": "prs",
+    "img": "image/prs__breast.png"
+  },
+  {
+    "en": "elbow",
+    "cz": "loket",
+    "img": "image/loket__elbow.png"
+  },
+  {
+    "en": "eyebrow",
+    "cz": "obočí",
+    "img": "image/oboci__eyebrow.png"
+  },
+  {
+    "en": "spinal column",
+    "cz": "páteř",
+    "img": "image/pater__spinal_column.png"
+  },
+  {
+    "en": "intestine",
+    "cz": "střevo",
+    "img": "image/strevo__intestine.png"
+  },
+  {
+    "en": "forehead",
+    "cz": "čelo",
+    "img": "image/celo__forehead.png"
+  },
+  {
+    "en": "buttocks",
+    "cz": "zadek",
+    "img": "image/zadek__buttocks.png"
+  },
+  {
+    "en": "mustache",
+    "cz": "knír",
+    "img": "image/knir__mustache.png"
+  },
+  {
+    "en": "ankle",
+    "cz": "kotník",
+    "img": "image/kotnik__ankle.png"
+  },
+  {
+    "en": "rib",
+    "cz": "žebro",
+    "img": "image/zebro__rib.png"
+  },
+  {
+    "en": "chest",
+    "cz": "hruď",
+    "img": "image/hrud__chest.png"
+  },
+  {
+    "en": "joint",
+    "cz": "kloub",
+    "img": "image/kloub__joint.png"
+  },
+  {
+    "en": "waist",
+    "cz": "pas",
+    "img": "image/pas__waist.png"
+  },
+  {
+    "en": "patella",
+    "cz": "čéška",
+    "img": "image/ceska__patella.png"
+  },
+  {
+    "en": "palate",
+    "cz": "patro",
+    "img": "image/patro__palate.png"
+  },
+  {
+    "en": "prostate gland",
+    "cz": "předstojná žláza",
+    "img": "image/predstojna_zlaza__prostate_gland.png"
+  },
+  {
+    "en": "thymus gland",
+    "cz": "brzlík",
+    "img": "image/brzlik__thymus_gland.png"
+  },
+  {
+    "en": "liver",
+    "cz": "játra",
+    "img": "image/jatra__liver.png"
+  },
+  {
+    "en": "pancreas",
+    "cz": "pankreas",
+    "img": "image/pankreas__pancreas.png"
+  },
+  {
+    "en": "aardvark",
+    "cz": "mravenečník",
+    "img": "image/mravenecnik__aardvark.png"
+  },
+  {
+    "en": "albatross",
+    "cz": "albatros",
+    "img": "image/albatros__albatross.png"
+  },
+  {
+    "en": "alligator",
+    "cz": "aligátor",
+    "img": "image/aligator__alligator.png"
+  },
+  {
+    "en": "anaconda",
+    "cz": "anakonda",
+    "img": "image/anakonda__anaconda.png"
+  },
+  {
+    "en": "anchovy",
+    "cz": "ančovička",
+    "img": "image/ancovicka__anchovy.png"
+  },
+  {
+    "en": "angel shark",
+    "cz": "žralok křídlatý",
+    "img": "image/zralok_kridlaty__angel_shark.png"
+  },
+  {
+    "en": "annelid",
+    "cz": "kroužkovec",
+    "img": "image/krouzkovec__annelid.png"
+  },
+  {
+    "en": "ant",
+    "cz": "mravenec",
+    "img": "image/mravenec__ant.png"
+  },
+  {
+    "en": "antelope",
+    "cz": "antilopa",
+    "img": "image/antilopa__antelope.png"
+  },
+  {
+    "en": "ape",
+    "cz": "opice",
+    "img": "image/opice__ape.png"
+  },
+  {
+    "en": "aphid",
+    "cz": "mšice",
+    "img": "image/msice__aphid.png"
+  },
+  {
+    "en": "armadillo",
+    "cz": "pásovec",
+    "img": "image/pasovec__armadillo.png"
+  },
+  {
+    "en": "wisent",
+    "cz": "pratur",
+    "img": "image/pratur__wisent.png"
+  },
+  {
+    "en": "baboon",
+    "cz": "pavián",
+    "img": "image/pavian__baboon.png"
+  },
+  {
+    "en": "badger",
+    "cz": "jezevec",
+    "img": "image/jezevec__badger.png"
+  },
+  {
+    "en": "barracuda",
+    "cz": "barakuda",
+    "img": "image/barakuda__barracuda.png"
+  },
+  {
+    "en": "basset",
+    "cz": "baset",
+    "img": "image/baset__basset.png"
+  },
+  {
+    "en": "beaver",
+    "cz": "bobr",
+    "img": "image/bobr__beaver.png"
+  },
+  {
+    "en": "bedbug",
+    "cz": "štěnice",
+    "img": "image/stenice__bedbug.png"
+  },
+  {
+    "en": "bee",
+    "cz": "včela",
+    "img": "image/vcela__bee.png"
+  },
+  {
+    "en": "beetle",
+    "cz": "brouk",
+    "img": "image/brouk__beetle.png"
+  },
+  {
+    "en": "bison",
+    "cz": "bizon",
+    "img": "image/bizon__bison.png"
+  },
+  {
+    "en": "blackbird",
+    "cz": "kos",
+    "img": "image/kos__blackbird.png"
+  },
+  {
+    "en": "blindworm",
+    "cz": "slepýš",
+    "img": "image/slepys__blindworm.png"
+  },
+  {
+    "en": "boa",
+    "cz": "hroznýš",
+    "img": "image/hroznys__boa.png"
+  },
+  {
+    "en": "wild boar",
+    "cz": "divočák",
+    "img": "image/divocak__wild_boar.png"
+  },
+  {
+    "en": "brambling",
+    "cz": "pěnkava jikavec",
+    "img": "image/penkava_jikavec__brambling.png"
+  },
+  {
+    "en": "budgerigar",
+    "cz": "papoušek vlnkovaný",
+    "img": "image/papousek_vlnkovany__budgerigar.png"
+  },
+  {
+    "en": "American bison",
+    "cz": "bůvol",
+    "img": "image/buvol__american_bison.png"
+  },
+  {
+    "en": "bulldog",
+    "cz": "buldok",
+    "img": "image/buldok__bulldog.png"
+  },
+  {
+    "en": "bullfrog",
+    "cz": "skokan volský",
+    "img": "image/skokan_volsky__bullfrog.png"
+  },
+  {
+    "en": "bumblebee",
+    "cz": "čmelák",
+    "img": "image/cmelak__bumblebee.png"
+  },
+  {
+    "en": "burbot",
+    "cz": "mník jednovousý",
+    "img": "image/mnik_jednovousy__burbot.png"
+  },
+  {
+    "en": "butterfly",
+    "cz": "motýl",
+    "img": "image/motyl__butterfly.png"
+  },
+  {
+    "en": "buzzard",
+    "cz": "káně",
+    "img": "image/kane__buzzard.png"
+  },
+  {
+    "en": "sperm whale",
+    "cz": "vorvaň",
+    "img": "image/vorvan__sperm_whale.png"
+  },
+  {
+    "en": "camel",
+    "cz": "velbloud",
+    "img": "image/velbloud__camel.png"
+  },
+  {
+    "en": "canary",
+    "cz": "kanárek",
+    "img": "image/kanarek__canary.png"
+  },
+  {
+    "en": "reindeer",
+    "cz": "sob",
+    "img": "image/sob__reindeer.png"
+  },
+  {
+    "en": "carp",
+    "cz": "kapr",
+    "img": "image/kapr__carp.png"
+  },
+  {
+    "en": "cat",
+    "cz": "kočka",
+    "img": "image/kocka__cat.png"
+  },
+  {
+    "en": "caterpillar",
+    "cz": "housenka",
+    "img": "image/housenka__caterpillar.png"
+  },
+  {
+    "en": "catfish",
+    "cz": "sumec",
+    "img": "image/sumec__catfish.png"
+  },
+  {
+    "en": "cattle",
+    "cz": "hovězí dobytek",
+    "img": "image/hovezi_dobytek__cattle.png"
+  },
+  {
+    "en": "centipede",
+    "cz": "stonožka",
+    "img": "image/stonozka__centipede.png"
+  },
+  {
+    "en": "cephalopod",
+    "cz": "hlavonožec",
+    "img": "image/hlavonozec__cephalopod.png"
+  },
+  {
+    "en": "chaffinch",
+    "cz": "pěnkava",
+    "img": "image/penkava__chaffinch.png"
+  },
+  {
+    "en": "chamois",
+    "cz": "kamzík",
+    "img": "image/kamzik__chamois.png"
+  },
+  {
+    "en": "cheetah",
+    "cz": "gepard",
+    "img": "image/gepard__cheetah.png"
+  },
+  {
+    "en": "chicken",
+    "cz": "kuře",
+    "img": "image/kure__chicken.png"
+  },
+  {
+    "en": "story",
+    "cz": "příběh",
+    "img": "image/pribeh__story.png"
+  },
+  {
+    "en": "literature",
+    "cz": "literatura",
+    "img": "image/literatura__literature.png"
+  },
+  {
+    "en": "art",
+    "cz": "umění",
+    "img": "image/umeni__art.png"
+  },
+  {
+    "en": "entertainment",
+    "cz": "obveselení",
+    "img": "image/obveseleni__entertainment.png"
+  },
+  {
+    "en": "band",
+    "cz": "kapela",
+    "img": "image/kapela__band.png"
+  },
+  {
+    "en": "song",
+    "cz": "píseň",
+    "img": "image/pisen__song.png"
+  },
+  {
+    "en": "movie",
+    "cz": "film",
+    "img": "image/film__movie.png"
+  },
+  {
+    "en": "note",
+    "cz": "nota",
+    "img": "image/nota__note.png"
+  },
+  {
+    "en": "music",
+    "cz": "hudba",
+    "img": "image/hudba__music.png"
+  },
+  {
+    "en": "collection",
+    "cz": "sbírka",
+    "img": "image/sbirka__collection.png"
+  },
+  {
+    "en": "baroque",
+    "cz": "baroko",
+    "img": "image/baroko__baroque.png"
+  },
+  {
+    "en": "beauty",
+    "cz": "krása",
+    "img": "image/krasa__beauty.png"
+  },
+  {
+    "en": "collage",
+    "cz": "koláž",
+    "img": "image/kolaz__collage.png"
+  },
+  {
+    "en": "color",
+    "cz": "zabarvení",
+    "img": "image/zabarveni__color.png"
+  },
+  {
+    "en": "color",
+    "cz": "barva",
+    "img": "image/barva__color.png"
+  },
+  {
+    "en": "contour",
+    "cz": "vrstevnice",
+    "img": "image/vrstevnice__contour.png"
+  },
+  {
+    "en": "whirl",
+    "cz": "vír",
+    "img": "image/vir__whirl.png"
+  },
+  {
+    "en": "diversity",
+    "cz": "rozmanitost",
+    "img": "image/rozmanitost__diversity.png"
+  },
+  {
+    "en": "facade",
+    "cz": "průčelí",
+    "img": "image/pruceli__facade.png"
+  },
+  {
+    "en": "picture",
+    "cz": "obraz",
+    "img": "image/obraz__picture.png"
+  },
+  {
+    "en": "image",
+    "cz": "obraz",
+    "img": "image/obraz__image.png"
+  },
+  {
+    "en": "landscape",
+    "cz": "krajina",
+    "img": "image/krajina__landscape.png"
+  },
+  {
+    "en": "paint",
+    "cz": "barva",
+    "img": "image/barva__paint.png"
+  },
+  {
+    "en": "painting",
+    "cz": "obraz",
+    "img": "image/obraz__painting.png"
+  },
+  {
+    "en": "palette",
+    "cz": "paleta",
+    "img": "image/paleta__palette.png"
+  },
+  {
+    "en": "portrayal",
+    "cz": "portrét",
+    "img": "image/portret__portrayal.png"
+  },
+  {
+    "en": "pottery",
+    "cz": "hrnčířství",
+    "img": "image/hrncirstvi__pottery.png"
+  },
+  {
+    "en": "sculpture",
+    "cz": "socha",
+    "img": "image/socha__sculpture.png"
+  },
+  {
+    "en": "shade",
+    "cz": "stín",
+    "img": "image/stin__shade.png"
+  },
+  {
+    "en": "shadow",
+    "cz": "stín",
+    "img": "image/stin__shadow.png"
+  },
+  {
+    "en": "sight",
+    "cz": "zrak",
+    "img": "image/zrak__sight.png"
+  },
+  {
+    "en": "spectrum",
+    "cz": "spektrum",
+    "img": "image/spektrum__spectrum.png"
+  },
+  {
+    "en": "style",
+    "cz": "styl",
+    "img": "image/styl__style.png"
+  },
+  {
+    "en": "poem",
+    "cz": "báseň",
+    "img": "image/basen__poem.png"
+  },
+  {
+    "en": "poetry",
+    "cz": "poezie",
+    "img": "image/poezie__poetry.png"
+  },
+  {
+    "en": "concert",
+    "cz": "koncert",
+    "img": "image/koncert__concert.png"
+  },
+  {
+    "en": "orchestra",
+    "cz": "orchestr",
+    "img": "image/orchestr__orchestra.png"
+  },
+  {
+    "en": "stage",
+    "cz": "jeviště",
+    "img": "image/jeviste__stage.png"
+  },
+  {
+    "en": "vogue",
+    "cz": "móda",
+    "img": "image/moda__vogue.png"
+  },
+  {
+    "en": "dancer",
+    "cz": "tanečník",
+    "img": "image/tanecnik__dancer.png"
+  },
+  {
+    "en": "pen",
+    "cz": "pero",
+    "img": "image/pero__pen.png"
+  },
+  {
+    "en": "shape",
+    "cz": "podoba",
+    "img": "image/podoba__shape.png"
+  },
+  {
+    "en": "paper",
+    "cz": "papír",
+    "img": "image/papir__paper.png"
+  },
+  {
+    "en": "architecture",
+    "cz": "architektura",
+    "img": "image/architektura__architecture.png"
+  },
+  {
+    "en": "museum",
+    "cz": "muzeum",
+    "img": "image/muzeum__museum.png"
+  },
+  {
+    "en": "artist",
+    "cz": "umělec",
+    "img": "image/umelec__artist.png"
+  },
+  {
+    "en": "painter",
+    "cz": "malíř",
+    "img": "image/malir__painter.png"
+  },
+  {
+    "en": "mosaic",
+    "cz": "mozaika",
+    "img": "image/mozaika__mosaic.png"
+  },
+  {
+    "en": "gallery",
+    "cz": "obrazárna",
+    "img": "image/obrazarna__gallery.png"
+  },
+  {
+    "en": "drawing",
+    "cz": "kresba",
+    "img": "image/kresba__drawing.png"
+  },
+  {
+    "en": "gravity",
+    "cz": "gravitace",
+    "img": "image/gravitace__gravity.png"
+  },
+  {
+    "en": "black hole",
+    "cz": "černá díra",
+    "img": "image/cerna_dira__black_hole.png"
+  },
+  {
+    "en": "satellite",
+    "cz": "satelit",
+    "img": "image/satelit__satellite.png"
+  },
+  {
+    "en": "eclipse",
+    "cz": "zatmění",
+    "img": "image/zatmeni__eclipse.png"
+  },
+  {
+    "en": "galaxy",
+    "cz": "galaxie",
+    "img": "image/galaxie__galaxy.png"
+  },
+  {
+    "en": "nebula",
+    "cz": "mlhovina",
+    "img": "image/mlhovina__nebula.png"
+  },
+  {
+    "en": "Uranus",
+    "cz": "Uran",
+    "img": "image/uran__uranus.png"
+  },
+  {
+    "en": "asteroid",
+    "cz": "asteroid",
+    "img": "image/asteroid__asteroid.png"
+  },
+  {
+    "en": "astronaut",
+    "cz": "astronaut",
+    "img": "image/astronaut__astronaut.png"
+  },
+  {
+    "en": "astronomer",
+    "cz": "astronom",
+    "img": "image/astronom__astronomer.png"
+  },
+  {
+    "en": "astronomy",
+    "cz": "astronomie",
+    "img": "image/astronomie__astronomy.png"
+  },
+  {
+    "en": "astrolabe",
+    "cz": "astroláb",
+    "img": "image/astrolab__astrolabe.png"
+  },
+  {
+    "en": "weather",
+    "cz": "počasí",
+    "img": "image/pocasi__weather.png"
+  },
+  {
+    "en": "explosion",
+    "cz": "exploze",
+    "img": "image/exploze__explosion.png"
+  },
+  {
+    "en": "cold",
+    "cz": "chlad",
+    "img": "image/chlad__cold.png"
+  },
+  {
+    "en": "cold",
+    "cz": "studený",
+    "img": "image/studeny__cold.png"
+  },
+  {
+    "en": "comet",
+    "cz": "kometa",
+    "img": "image/kometa__comet.png"
+  },
+  {
+    "en": "constellation",
+    "cz": "souhvězdí",
+    "img": "image/souhvezdi__constellation.png"
+  },
+  {
+    "en": "universe",
+    "cz": "vesmír",
+    "img": "image/vesmir__universe.png"
+  },
+  {
+    "en": "crater",
+    "cz": "kráter",
+    "img": "image/krater__crater.png"
+  },
+  {
+    "en": "distance",
+    "cz": "vzdálenost",
+    "img": "image/vzdalenost__distance.png"
+  },
+  {
+    "en": "Earth",
+    "cz": "Země",
+    "img": "image/zeme__earth.png"
+  },
+  {
+    "en": "ellipse",
+    "cz": "elipsa",
+    "img": "image/elipsa__ellipse.png"
+  },
+  {
+    "en": "equator",
+    "cz": "rovník",
+    "img": "image/rovnik__equator.png"
+  },
+  {
+    "en": "fossil fuel",
+    "cz": "fosilní palivo",
+    "img": "image/fosilni_palivo__fossil_fuel.png"
+  },
+  {
+    "en": "space",
+    "cz": "vesmír",
+    "img": "image/vesmir__space.png"
+  },
+  {
+    "en": "parallel",
+    "cz": "rovnoběžka",
+    "img": "image/rovnobezka__parallel.png"
+  },
+  {
+    "en": "ozone",
+    "cz": "ozón",
+    "img": "image/ozon__ozone.png"
+  },
+  {
+    "en": "planet",
+    "cz": "planeta",
+    "img": "image/planeta__planet.png"
+  },
+  {
+    "en": "planetarium",
+    "cz": "planetárium",
+    "img": "image/planetarium__planetarium.png"
+  },
+  {
+    "en": "rocket",
+    "cz": "raketa",
+    "img": "image/raketa__rocket.png"
+  },
+  {
+    "en": "pulsar",
+    "cz": "pulzar",
+    "img": "image/pulzar__pulsar.png"
+  },
+  {
+    "en": "scientist",
+    "cz": "vědec",
+    "img": "image/vedec__scientist.png"
+  },
+  {
+    "en": "telescope",
+    "cz": "teleskop",
+    "img": "image/teleskop__telescope.png"
+  },
+  {
+    "en": "sextant",
+    "cz": "sextant",
+    "img": "image/sextant__sextant.png"
+  },
+  {
+    "en": "sky",
+    "cz": "obloha",
+    "img": "image/obloha__sky.png"
+  },
+  {
+    "en": "sphere",
+    "cz": "koule",
+    "img": "image/koule__sphere.png"
+  },
+  {
+    "en": "star",
+    "cz": "hvězda",
+    "img": "image/hvezda__star.png"
+  },
+  {
+    "en": "wavelength",
+    "cz": "vlnová délka",
+    "img": "image/vlnova_delka__wavelength.png"
+  },
+  {
+    "en": "zenith",
+    "cz": "zenit",
+    "img": "image/zenit__zenith.png"
+  },
+  {
+    "en": "density",
+    "cz": "hustota",
+    "img": "image/hustota__density.png"
+  },
+  {
+    "en": "map",
+    "cz": "mapa",
+    "img": "image/mapa__map.png"
+  },
+  {
+    "en": "Venus",
+    "cz": "Venuše",
+    "img": "image/venuse__venus.png"
+  },
+  {
+    "en": "Mars",
+    "cz": "Mars",
+    "img": "image/mars__mars.png"
+  },
+  {
+    "en": "Jupiter",
+    "cz": "Jupiter",
+    "img": "image/jupiter__jupiter.png"
+  },
+  {
+    "en": "Saturn",
+    "cz": "Saturn",
+    "img": "image/saturn__saturn.png"
+  },
+  {
+    "en": "Neptune",
+    "cz": "Neptun",
+    "img": "image/neptun__neptune.png"
+  },
+  {
+    "en": "Pluto",
+    "cz": "Pluto",
+    "img": "image/pluto__pluto.png"
+  },
+  {
+    "en": "space shuttle",
+    "cz": "space shuttle",
+    "img": "image/space_shuttle__space_shuttle.png"
+  },
+  {
+    "en": "barn owl",
+    "cz": "sova pálená",
+    "img": "image/sova_palena__barn_owl.png"
+  },
+  {
+    "en": "bird",
+    "cz": "pták",
+    "img": "image/ptak__bird.png"
+  },
+  {
+    "en": "domestic fowl",
+    "cz": "drůbež",
+    "img": "image/drubez__domestic_fowl.png"
+  },
+  {
+    "en": "eagle",
+    "cz": "orel",
+    "img": "image/orel__eagle.png"
+  },
+  {
+    "en": "duck",
+    "cz": "kachna",
+    "img": "image/kachna__duck.png"
+  },
+  {
+    "en": "pigeon",
+    "cz": "holub",
+    "img": "image/holub__pigeon.png"
+  },
+  {
+    "en": "swan",
+    "cz": "labuť",
+    "img": "image/labut__swan.png"
+  },
+  {
+    "en": "parrot",
+    "cz": "papoušek",
+    "img": "image/papousek__parrot.png"
+  },
+  {
+    "en": "turkey",
+    "cz": "krocan",
+    "img": "image/krocan__turkey.png"
+  },
+  {
+    "en": "owl",
+    "cz": "sova",
+    "img": "image/sova__owl.png"
+  },
+  {
+    "en": "sparrow",
+    "cz": "vrabec",
+    "img": "image/vrabec__sparrow.png"
+  },
+  {
+    "en": "goose",
+    "cz": "husa",
+    "img": "image/husa__goose.png"
+  },
+  {
+    "en": "stork",
+    "cz": "čáp",
+    "img": "image/cap__stork.png"
+  },
+  {
+    "en": "cock",
+    "cz": "kohout",
+    "img": "image/kohout__cock.png"
+  },
+  {
+    "en": "woodpecker",
+    "cz": "datel",
+    "img": "image/datel__woodpecker.png"
+  },
+  {
+    "en": "ostrich",
+    "cz": "pštros",
+    "img": "image/pstros__ostrich.png"
+  },
+  {
+    "en": "dove",
+    "cz": "holubice",
+    "img": "image/holubice__dove.png"
+  },
+  {
+    "en": "pheasant",
+    "cz": "bažant",
+    "img": "image/bazant__pheasant.png"
+  },
+  {
+    "en": "hen",
+    "cz": "slepice",
+    "img": "image/slepice__hen.png"
+  },
+  {
+    "en": "raven",
+    "cz": "havran",
+    "img": "image/havran__raven.png"
+  },
+  {
+    "en": "lark",
+    "cz": "skřivan",
+    "img": "image/skrivan__lark.png"
+  },
+  {
+    "en": "partridge",
+    "cz": "koroptev",
+    "img": "image/koroptev__partridge.png"
+  },
+  {
+    "en": "quail",
+    "cz": "křepelka",
+    "img": "image/krepelka__quail.png"
+  },
+  {
+    "en": "vulture",
+    "cz": "sup",
+    "img": "image/sup__vulture.png"
+  },
+  {
+    "en": "swallow",
+    "cz": "vlaštovka",
+    "img": "image/vlastovka__swallow.png"
+  },
+  {
+    "en": "heron",
+    "cz": "volavka",
+    "img": "image/volavka__heron.png"
+  },
+  {
+    "en": "falcon",
+    "cz": "sokol",
+    "img": "image/sokol__falcon.png"
+  },
+  {
+    "en": "hawk",
+    "cz": "jestřáb",
+    "img": "image/jestrab__hawk.png"
+  },
+  {
+    "en": "starling",
+    "cz": "špaček",
+    "img": "image/spacek__starling.png"
+  },
+  {
+    "en": "magpie",
+    "cz": "straka",
+    "img": "image/straka__magpie.png"
+  },
+  {
+    "en": "pelican",
+    "cz": "pelikán",
+    "img": "image/pelikan__pelican.png"
+  },
+  {
+    "en": "osprey",
+    "cz": "orlovec říční",
+    "img": "image/orlovec_ricni__osprey.png"
+  },
+  {
+    "en": "golden eagle",
+    "cz": "orel skalní",
+    "img": "image/orel_skalni__golden_eagle.png"
+  },
+  {
+    "en": "goldfinch",
+    "cz": "stehlík",
+    "img": "image/stehlik__goldfinch.png"
+  },
+  {
+    "en": "nuthatch",
+    "cz": "ořešník",
+    "img": "image/oresnik__nuthatch.png"
+  },
+  {
+    "en": "tinamou",
+    "cz": "koroptev",
+    "img": "image/koroptev__tinamou.png"
+  },
+  {
+    "en": "bald eagle",
+    "cz": "orel bělohlavý",
+    "img": "image/orel_belohlavy__bald_eagle.png"
+  },
+  {
+    "en": "loon",
+    "cz": "potáplice",
+    "img": "image/potaplice__loon.png"
+  },
+  {
+    "en": "wren",
+    "cz": "střízlík",
+    "img": "image/strizlik__wren.png"
+  },
+  {
+    "en": "condor",
+    "cz": "kondor",
+    "img": "image/kondor__condor.png"
+  },
+  {
+    "en": "hummingbird",
+    "cz": "kolibřík",
+    "img": "image/kolibrik__hummingbird.png"
+  },
+  {
+    "en": "tern",
+    "cz": "rybák",
+    "img": "image/rybak__tern.png"
+  },
+  {
+    "en": "Old World oriole",
+    "cz": "žluva",
+    "img": "image/zluva__old_world_oriole.png"
+  },
+  {
+    "en": "robin",
+    "cz": "drozd",
+    "img": "image/drozd__robin.png"
+  },
+  {
+    "en": "hedge sparrow",
+    "cz": "pěvuška modrá",
+    "img": "image/pevuska_modra__hedge_sparrow.png"
+  },
+  {
+    "en": "redtail",
+    "cz": "káně rudoocasá",
+    "img": "image/kane_rudoocasa__redtail.png"
+  },
+  {
+    "en": "crane",
+    "cz": "jeřáb",
+    "img": "image/jerab__crane.png"
+  },
+  {
+    "en": "boat",
+    "cz": "člun",
+    "img": "image/clun__boat.png"
+  },
+  {
+    "en": "ship",
+    "cz": "loď",
+    "img": "image/lod__ship.png"
+  },
+  {
+    "en": "vessel",
+    "cz": "loď",
+    "img": "image/lod__vessel.png"
+  },
+  {
+    "en": "yacht",
+    "cz": "jachta",
+    "img": "image/jachta__yacht.png"
+  },
+  {
+    "en": "schooner",
+    "cz": "škuner",
+    "img": "image/skuner__schooner.png"
+  },
+  {
+    "en": "galley",
+    "cz": "galéra",
+    "img": "image/galera__galley.png"
+  },
+  {
+    "en": "brig",
+    "cz": "briga",
+    "img": "image/briga__brig.png"
+  },
+  {
+    "en": "sloop",
+    "cz": "šalupa",
+    "img": "image/salupa__sloop.png"
+  },
+  {
+    "en": "submarine",
+    "cz": "ponorka",
+    "img": "image/ponorka__submarine.png"
+  },
+  {
+    "en": "aircraft carrier",
+    "cz": "letadlová loď",
+    "img": "image/letadlova_lod__aircraft_carrier.png"
+  },
+  {
+    "en": "battleship",
+    "cz": "bitevní loď",
+    "img": "image/bitevni_lod__battleship.png"
+  },
+  {
+    "en": "cruiser",
+    "cz": "křižník",
+    "img": "image/kriznik__cruiser.png"
+  },
+  {
+    "en": "destroyer",
+    "cz": "torpédoborec",
+    "img": "image/torpedoborec__destroyer.png"
+  },
+  {
+    "en": "canoe",
+    "cz": "kanoe",
+    "img": "image/kanoe__canoe.png"
+  },
+  {
+    "en": "catamaran",
+    "cz": "katamarán",
+    "img": "image/katamaran__catamaran.png"
+  },
+  {
+    "en": "ferry",
+    "cz": "převoz",
+    "img": "image/prevoz__ferry.png"
+  },
+  {
+    "en": "trawler",
+    "cz": "trauler",
+    "img": "image/trauler__trawler.png"
+  },
+  {
+    "en": "hovercraft",
+    "cz": "vznášedlo",
+    "img": "image/vznasedlo__hovercraft.png"
+  },
+  {
+    "en": "gondola",
+    "cz": "gondola",
+    "img": "image/gondola__gondola.png"
+  },
+  {
+    "en": "barge",
+    "cz": "člun",
+    "img": "image/clun__barge.png"
+  },
+  {
+    "en": "sailboat",
+    "cz": "plachetnice",
+    "img": "image/plachetnice__sailboat.png"
+  },
+  {
+    "en": "gazebo",
+    "cz": "altán",
+    "img": "image/altan__gazebo.png"
+  },
+  {
+    "en": "hotel",
+    "cz": "hotel",
+    "img": "image/hotel__hotel.png"
+  },
+  {
+    "en": "library",
+    "cz": "knihovna",
+    "img": "image/knihovna__library.png"
+  },
+  {
+    "en": "observatory",
+    "cz": "observatoř",
+    "img": "image/observator__observatory.png"
+  },
+  {
+    "en": "restaurant",
+    "cz": "restaurace",
+    "img": "image/restaurace__restaurant.png"
+  },
+  {
+    "en": "ruin",
+    "cz": "zřícenina",
+    "img": "image/zricenina__ruin.png"
+  },
+  {
+    "en": "school",
+    "cz": "škola",
+    "img": "image/skola__school.png"
+  },
+  {
+    "en": "skyscraper",
+    "cz": "mrakodrap",
+    "img": "image/mrakodrap__skyscraper.png"
+  },
+  {
+    "en": "theater",
+    "cz": "divadlo",
+    "img": "image/divadlo__theater.png"
+  },
+  {
+    "en": "bridge",
+    "cz": "most",
+    "img": "image/most__bridge.png"
+  },
+  {
+    "en": "building",
+    "cz": "stavba",
+    "img": "image/stavba__building.png"
+  },
+  {
+    "en": "church",
+    "cz": "kostel",
+    "img": "image/kostel__church.png"
+  },
+  {
+    "en": "hospital",
+    "cz": "nemocnice",
+    "img": "image/nemocnice__hospital.png"
+  },
+  {
+    "en": "house",
+    "cz": "dům",
+    "img": "image/dum__house.png"
+  },
+  {
+    "en": "shop",
+    "cz": "obchod",
+    "img": "image/obchod__shop.png"
+  },
+  {
+    "en": "station",
+    "cz": "stanice",
+    "img": "image/stanice__station.png"
+  },
+  {
+    "en": "castle",
+    "cz": "hrad",
+    "img": "image/hrad__castle.png"
+  },
+  {
+    "en": "university",
+    "cz": "univerzita",
+    "img": "image/univerzita__university.png"
+  },
+  {
+    "en": "mosque",
+    "cz": "mešita",
+    "img": "image/mesita__mosque.png"
+  },
+  {
+    "en": "palace",
+    "cz": "palác",
+    "img": "image/palac__palace.png"
+  },
+  {
+    "en": "cathedral",
+    "cz": "katedrála",
+    "img": "image/katedrala__cathedral.png"
+  },
+  {
+    "en": "beacon",
+    "cz": "maják",
+    "img": "image/majak__beacon.png"
+  },
+  {
+    "en": "tower",
+    "cz": "věž",
+    "img": "image/vez__tower.png"
+  },
+  {
+    "en": "garage",
+    "cz": "garáž",
+    "img": "image/garaz__garage.png"
+  },
+  {
+    "en": "aqueduct",
+    "cz": "akvadukt",
+    "img": "image/akvadukt__aqueduct.png"
+  },
+  {
+    "en": "stadium",
+    "cz": "stadion",
+    "img": "image/stadion__stadium.png"
+  },
+  {
+    "en": "amphitheatre",
+    "cz": "amfiteátr",
+    "img": "image/amfiteatr__amphitheatre.png"
+  },
+  {
+    "en": "supermarket",
+    "cz": "supermarket",
+    "img": "image/supermarket__supermarket.png"
+  },
+  {
+    "en": "pagoda",
+    "cz": "pagoda",
+    "img": "image/pagoda__pagoda.png"
+  },
+  {
+    "en": "chapel",
+    "cz": "kaple",
+    "img": "image/kaple__chapel.png"
+  },
+  {
+    "en": "hangar",
+    "cz": "hangár",
+    "img": "image/hangar__hangar.png"
+  },
+  {
+    "en": "bungalow",
+    "cz": "chalupa",
+    "img": "image/chalupa__bungalow.png"
+  },
+  {
+    "en": "igloo",
+    "cz": "iglú",
+    "img": "image/iglu__igloo.png"
+  },
+  {
+    "en": "bunker",
+    "cz": "bunkr",
+    "img": "image/bunkr__bunker.png"
+  },
+  {
+    "en": "yurt",
+    "cz": "jurta",
+    "img": "image/jurta__yurt.png"
+  },
+  {
+    "en": "mansion",
+    "cz": "rezidence",
+    "img": "image/rezidence__mansion.png"
+  },
+  {
+    "en": "tepee",
+    "cz": "vigvam",
+    "img": "image/vigvam__tepee.png"
+  },
+  {
+    "en": "gasoline station",
+    "cz": "benzínová stanice",
+    "img": "image/benzinova_stanice__gasoline_station.png"
+  },
+  {
+    "en": "business card",
+    "cz": "vizitka",
+    "img": "image/vizitka__business_card.png"
+  },
+  {
+    "en": "agreement",
+    "cz": "kontrakt",
+    "img": "image/kontrakt__agreement.png"
+  },
+  {
+    "en": "competition",
+    "cz": "konkurence",
+    "img": "image/konkurence__competition.png"
+  },
+  {
+    "en": "profit",
+    "cz": "výtěžek",
+    "img": "image/vytezek__profit.png"
+  },
+  {
+    "en": "marketplace",
+    "cz": "tržiště",
+    "img": "image/trziste__marketplace.png"
+  },
+  {
+    "en": "bargain",
+    "cz": "obchod",
+    "img": "image/obchod__bargain.png"
+  },
+  {
+    "en": "capital",
+    "cz": "kapitál",
+    "img": "image/kapital__capital.png"
+  },
+  {
+    "en": "firm",
+    "cz": "firma",
+    "img": "image/firma__firm.png"
+  },
+  {
+    "en": "company",
+    "cz": "podnik",
+    "img": "image/podnik__company.png"
+  },
+  {
+    "en": "invoice",
+    "cz": "faktura",
+    "img": "image/faktura__invoice.png"
+  },
+  {
+    "en": "banknote",
+    "cz": "bankovka",
+    "img": "image/bankovka__banknote.png"
+  },
+  {
+    "en": "debt",
+    "cz": "dluh",
+    "img": "image/dluh__debt.png"
+  },
+  {
+    "en": "income",
+    "cz": "výdělek",
+    "img": "image/vydelek__income.png"
+  },
+  {
+    "en": "money",
+    "cz": "peníze",
+    "img": "image/penize__money.png"
+  },
+  {
+    "en": "office",
+    "cz": "kancelář",
+    "img": "image/kancelar__office.png"
+  },
+  {
+    "en": "price",
+    "cz": "cena",
+    "img": "image/cena__price.png"
+  },
+  {
+    "en": "share",
+    "cz": "akcie",
+    "img": "image/akcie__share.png"
+  },
+  {
+    "en": "trade",
+    "cz": "obchod",
+    "img": "image/obchod__trade.png"
+  },
+  {
+    "en": "cheque",
+    "cz": "šek",
+    "img": "image/sek__cheque.png"
+  },
+  {
+    "en": "work",
+    "cz": "práce",
+    "img": "image/prace__work.png"
+  },
+  {
+    "en": "product",
+    "cz": "produkt",
+    "img": "image/produkt__product.png"
+  },
+  {
+    "en": "reward",
+    "cz": "odměna",
+    "img": "image/odmena__reward.png"
+  },
+  {
+    "en": "value",
+    "cz": "hodnota",
+    "img": "image/hodnota__value.png"
+  },
+  {
+    "en": "group",
+    "cz": "seskupení",
+    "img": "image/seskupeni__group.png"
+  },
+  {
+    "en": "industry",
+    "cz": "průmysl",
+    "img": "image/prumysl__industry.png"
+  },
+  {
+    "en": "design",
+    "cz": "návrh",
+    "img": "image/navrh__design.png"
+  },
+  {
+    "en": "help",
+    "cz": "pomoc",
+    "img": "image/pomoc__help.png"
+  },
+  {
+    "en": "meeting",
+    "cz": "setkání",
+    "img": "image/setkani__meeting.png"
+  },
+  {
+    "en": "table",
+    "cz": "tabulka",
+    "img": "image/tabulka__table.png"
+  },
+  {
+    "en": "committee",
+    "cz": "komise",
+    "img": "image/komise__committee.png"
+  },
+  {
+    "en": "material",
+    "cz": "materiál",
+    "img": "image/material__material.png"
+  },
+  {
+    "en": "telephone",
+    "cz": "telefon",
+    "img": "image/telefon__telephone.png"
+  },
+  {
+    "en": "diary",
+    "cz": "deník",
+    "img": "image/denik__diary.png"
+  },
+  {
+    "en": "truck",
+    "cz": "nákladní auto",
+    "img": "image/nakladni_auto__truck.png"
+  },
+  {
+    "en": "worker",
+    "cz": "pracovník",
+    "img": "image/pracovnik__worker.png"
+  },
+  {
+    "en": "driver",
+    "cz": "řidič",
+    "img": "image/ridic__driver.png"
+  },
+  {
+    "en": "budget",
+    "cz": "rozpočet",
+    "img": "image/rozpocet__budget.png"
+  },
+  {
+    "en": "complaint",
+    "cz": "stížnost",
+    "img": "image/stiznost__complaint.png"
+  },
+  {
+    "en": "signature",
+    "cz": "podpis",
+    "img": "image/podpis__signature.png"
+  },
+  {
+    "en": "team",
+    "cz": "družstvo",
+    "img": "image/druzstvo__team.png"
+  },
+  {
+    "en": "council",
+    "cz": "rada",
+    "img": "image/rada__council.png"
+  },
+  {
+    "en": "booklet",
+    "cz": "prospekt",
+    "img": "image/prospekt__booklet.png"
+  },
+  {
+    "en": "holiday",
+    "cz": "dovolená",
+    "img": "image/dovolena__holiday.png"
+  },
+  {
+    "en": "average",
+    "cz": "průměr",
+    "img": "image/prumer__average.png"
+  },
+  {
+    "en": "conference",
+    "cz": "konference",
+    "img": "image/konference__conference.png"
+  },
+  {
+    "en": "certificate",
+    "cz": "certifikát",
+    "img": "image/certifikat__certificate.png"
+  },
+  {
+    "en": "package",
+    "cz": "balík",
+    "img": "image/balik__package.png"
+  },
+  {
+    "en": "wheel",
+    "cz": "kolo",
+    "img": "image/kolo__wheel.png"
+  },
+  {
+    "en": "oil",
+    "cz": "olej",
+    "img": "image/olej__oil.png"
+  },
+  {
+    "en": "car",
+    "cz": "auto",
+    "img": "image/auto__car.png"
+  },
+  {
+    "en": "mirror",
+    "cz": "zrcadlo",
+    "img": "image/zrcadlo__mirror.png"
+  },
+  {
+    "en": "thermometer",
+    "cz": "teploměr",
+    "img": "image/teplomer__thermometer.png"
+  },
+  {
+    "en": "radio",
+    "cz": "rádio",
+    "img": "image/radio__radio.png"
+  },
+  {
+    "en": "carburetor",
+    "cz": "karburátor",
+    "img": "image/karburator__carburetor.png"
+  },
+  {
+    "en": "horn",
+    "cz": "klakson",
+    "img": "image/klakson__horn.png"
+  },
+  {
+    "en": "piston",
+    "cz": "píst",
+    "img": "image/pist__piston.png"
+  },
+  {
+    "en": "antenna",
+    "cz": "anténa",
+    "img": "image/antena__antenna.png"
+  },
+  {
+    "en": "fuse",
+    "cz": "pojistka",
+    "img": "image/pojistka__fuse.png"
+  },
+  {
+    "en": "heater",
+    "cz": "topení",
+    "img": "image/topeni__heater.png"
+  },
+  {
+    "en": "camshaft",
+    "cz": "vačkový hřídel",
+    "img": "image/vackovy_hridel__camshaft.png"
+  },
+  {
+    "en": "exhaust",
+    "cz": "výfuk",
+    "img": "image/vyfuk__exhaust.png"
+  },
+  {
+    "en": "odometer",
+    "cz": "počitadlo kilometrů",
+    "img": "image/pocitadlo_kilometru__odometer.png"
+  },
+  {
+    "en": "brake",
+    "cz": "brzda",
+    "img": "image/brzda__brake.png"
+  },
+  {
+    "en": "door",
+    "cz": "dveře",
+    "img": "image/dvere__door.png"
+  },
+  {
+    "en": "engine",
+    "cz": "motor",
+    "img": "image/motor__engine.png"
+  },
+  {
+    "en": "key",
+    "cz": "klíč",
+    "img": "image/klic__key.png"
+  },
+  {
+    "en": "nut",
+    "cz": "matice",
+    "img": "image/matice__nut.png"
+  },
+  {
+    "en": "steering wheel",
+    "cz": "volant",
+    "img": "image/volant__steering_wheel.png"
+  },
+  {
+    "en": "seat",
+    "cz": "místo",
+    "img": "image/misto__seat.png"
+  },
+  {
+    "en": "light",
+    "cz": "světlo",
+    "img": "image/svetlo__light.png"
+  },
+  {
+    "en": "gas",
+    "cz": "plyn",
+    "img": "image/plyn__gas.png"
+  },
+  {
+    "en": "volume",
+    "cz": "objem",
+    "img": "image/objem__volume.png"
+  },
+  {
+    "en": "battery",
+    "cz": "akumulátor",
+    "img": "image/akumulator__battery.png"
+  },
+  {
+    "en": "pressure",
+    "cz": "tlak",
+    "img": "image/tlak__pressure.png"
+  },
+  {
+    "en": "clutch",
+    "cz": "spojka",
+    "img": "image/spojka__clutch.png"
+  },
+  {
+    "en": "indicator",
+    "cz": "indikátor",
+    "img": "image/indikator__indicator.png"
+  },
+  {
+    "en": "axis",
+    "cz": "osa",
+    "img": "image/osa__axis.png"
+  },
+  {
+    "en": "chauffeur",
+    "cz": "šofér",
+    "img": "image/sofer__chauffeur.png"
+  },
+  {
+    "en": "tire",
+    "cz": "pneumatika",
+    "img": "image/pneumatika__tire.png"
+  },
+  {
+    "en": "speedometer",
+    "cz": "tachometr",
+    "img": "image/tachometr__speedometer.png"
+  },
+  {
+    "en": "radiator",
+    "cz": "radiátor",
+    "img": "image/radiator__radiator.png"
+  },
+  {
+    "en": "headlight",
+    "cz": "světlomet",
+    "img": "image/svetlomet__headlight.png"
+  },
+  {
+    "en": "wrench",
+    "cz": "klíč",
+    "img": "image/klic__wrench.png"
+  },
+  {
+    "en": "ignition",
+    "cz": "zážeh",
+    "img": "image/zazeh__ignition.png"
+  },
+  {
+    "en": "bumper",
+    "cz": "nárazník",
+    "img": "image/naraznik__bumper.png"
+  },
+  {
+    "en": "discus",
+    "cz": "disk",
+    "img": "image/disk__discus.png"
+  },
+  {
+    "en": "searchlight",
+    "cz": "reflektor",
+    "img": "image/reflektor__searchlight.png"
+  },
+  {
+    "en": "trailer",
+    "cz": "přívěs",
+    "img": "image/prives__trailer.png"
+  },
+  {
+    "en": "seat belt",
+    "cz": "bezpečnostní pás",
+    "img": "image/bezpecnostni_pas__seat_belt.png"
+  },
+  {
+    "en": "undercarriage",
+    "cz": "podvozek",
+    "img": "image/podvozek__undercarriage.png"
+  },
+  {
+    "en": "dashboard",
+    "cz": "palubní deska",
+    "img": "image/palubni_deska__dashboard.png"
+  },
+  {
+    "en": "impact",
+    "cz": "náraz",
+    "img": "image/naraz__impact.png"
+  },
+  {
+    "en": "taillight",
+    "cz": "koncové světlo",
+    "img": "image/koncove_svetlo__taillight.png"
+  },
+  {
+    "en": "kitten",
+    "cz": "kotě",
+    "img": "image/kote__kitten.png"
+  },
+  {
+    "en": "tiger",
+    "cz": "tygr",
+    "img": "image/tygr__tiger.png"
+  },
+  {
+    "en": "lion",
+    "cz": "lev",
+    "img": "image/lev__lion.png"
+  },
+  {
+    "en": "leopard",
+    "cz": "levhart",
+    "img": "image/levhart__leopard.png"
+  },
+  {
+    "en": "jaguar",
+    "cz": "jaguár",
+    "img": "image/jaguar__jaguar.png"
+  },
+  {
+    "en": "cougar",
+    "cz": "puma",
+    "img": "image/puma__cougar.png"
+  },
+  {
+    "en": "lynx",
+    "cz": "rys ostrovid",
+    "img": "image/rys_ostrovid__lynx.png"
+  },
+  {
+    "en": "serval",
+    "cz": "serval",
+    "img": "image/serval__serval.png"
+  },
+  {
+    "en": "caracal",
+    "cz": "karakal",
+    "img": "image/karakal__caracal.png"
+  },
+  {
+    "en": "ocelot",
+    "cz": "ocelot",
+    "img": "image/ocelot__ocelot.png"
+  },
+  {
+    "en": "sand cat",
+    "cz": "kočka pouštní",
+    "img": "image/kocka_poustni__sand_cat.png"
+  },
+  {
+    "en": "jungle cat",
+    "cz": "kočka bažinná",
+    "img": "image/kocka_bazinna__jungle_cat.png"
+  },
+  {
+    "en": "jaguarundi",
+    "cz": "jaguarundi",
+    "img": "image/jaguarundi__jaguarundi.png"
+  },
+  {
+    "en": "wildcat",
+    "cz": "kočka divoká",
+    "img": "image/kocka_divoka__wildcat.png"
+  },
+  {
+    "en": "liger",
+    "cz": "liger",
+    "img": "image/liger__liger.png"
+  },
+  {
+    "en": "leopard cat",
+    "cz": "kočka bengálská",
+    "img": "image/kocka_bengalska__leopard_cat.png"
+  },
+  {
+    "en": "manul",
+    "cz": "manul",
+    "img": "image/manul__manul.png"
+  },
+  {
+    "en": "Siamese cat",
+    "cz": "kočka siamská",
+    "img": "image/kocka_siamska__siamese_cat.png"
+  },
+  {
+    "en": "Abyssinian",
+    "cz": "Habešská kočka",
+    "img": "image/habesska_kocka__abyssinian.png"
+  },
+  {
+    "en": "Persian cat",
+    "cz": "kočka perská",
+    "img": "image/kocka_perska__persian_cat.png"
+  },
+  {
+    "en": "bobcat",
+    "cz": "rys červený",
+    "img": "image/rys_cerveny__bobcat.png"
+  },
+  {
+    "en": "zoo",
+    "cz": "zoologická zahrada",
+    "img": "image/zoologicka_zahrada__zoo.png"
+  },
+  {
+    "en": "statue",
+    "cz": "socha",
+    "img": "image/socha__statue.png"
+  },
+  {
+    "en": "pub",
+    "cz": "hospoda",
+    "img": "image/hospoda__pub.png"
+  },
+  {
+    "en": "promenade",
+    "cz": "korzo",
+    "img": "image/korzo__promenade.png"
+  },
+  {
+    "en": "parking lot",
+    "cz": "parkoviště",
+    "img": "image/parkoviste__parking_lot.png"
+  },
+  {
+    "en": "memorial",
+    "cz": "památník",
+    "img": "image/pamatnik__memorial.png"
+  },
+  {
+    "en": "basilica",
+    "cz": "bazilika",
+    "img": "image/bazilika__basilica.png"
+  },
+  {
+    "en": "village",
+    "cz": "vesnice",
+    "img": "image/vesnice__village.png"
+  },
+  {
+    "en": "ice rink",
+    "cz": "kluziště",
+    "img": "image/kluziste__ice_rink.png"
+  },
+  {
+    "en": "factory",
+    "cz": "továrna",
+    "img": "image/tovarna__factory.png"
+  },
+  {
+    "en": "structure",
+    "cz": "konstrukce",
+    "img": "image/konstrukce__structure.png"
+  },
+  {
+    "en": "airport",
+    "cz": "letiště",
+    "img": "image/letiste__airport.png"
+  },
+  {
+    "en": "seaport",
+    "cz": "přístav",
+    "img": "image/pristav__seaport.png"
+  },
+  {
+    "en": "bank",
+    "cz": "banka",
+    "img": "image/banka__bank.png"
+  },
+  {
+    "en": "cinema",
+    "cz": "kino",
+    "img": "image/kino__cinema.png"
+  },
+  {
+    "en": "factory",
+    "cz": "továrna",
+    "img": "image/tovarna__factory.png"
+  },
+  {
+    "en": "prison",
+    "cz": "vězení",
+    "img": "image/vezeni__prison.png"
+  },
+  {
+    "en": "street",
+    "cz": "ulice",
+    "img": "image/ulice__street.png"
+  },
+  {
+    "en": "park",
+    "cz": "park",
+    "img": "image/park__park.png"
+  },
+  {
+    "en": "flat",
+    "cz": "byt",
+    "img": "image/byt__flat.png"
+  },
+  {
+    "en": "capital",
+    "cz": "hlavní město",
+    "img": "image/hlavni_mesto__capital.png"
+  },
+  {
+    "en": "town",
+    "cz": "město",
+    "img": "image/mesto__town.png"
+  },
+  {
+    "en": "city",
+    "cz": "velkoměsto",
+    "img": "image/velkomesto__city.png"
+  },
+  {
+    "en": "intersection",
+    "cz": "křižovatka",
+    "img": "image/krizovatka__intersection.png"
+  },
+  {
+    "en": "road",
+    "cz": "silnice",
+    "img": "image/silnice__road.png"
+  },
+  {
+    "en": "highway",
+    "cz": "dálnice",
+    "img": "image/dalnice__highway.png"
+  },
+  {
+    "en": "expressway",
+    "cz": "magistrála",
+    "img": "image/magistrala__expressway.png"
+  },
+  {
+    "en": "pier",
+    "cz": "molo",
+    "img": "image/molo__pier.png"
+  },
+  {
+    "en": "subway",
+    "cz": "podzemní dráha",
+    "img": "image/podzemni_draha__subway.png"
+  },
+  {
+    "en": "dress",
+    "cz": "oděv",
+    "img": "image/odev__dress.png"
+  },
+  {
+    "en": "bow tie",
+    "cz": "motýlek",
+    "img": "image/motylek__bow_tie.png"
+  },
+  {
+    "en": "bowler hat",
+    "cz": "buřinka",
+    "img": "image/burinka__bowler_hat.png"
+  },
+  {
+    "en": "helmet",
+    "cz": "přílba",
+    "img": "image/prilba__helmet.png"
+  },
+  {
+    "en": "kimono",
+    "cz": "kimono",
+    "img": "image/kimono__kimono.png"
+  },
+  {
+    "en": "apron",
+    "cz": "zástěra",
+    "img": "image/zastera__apron.png"
+  },
+  {
+    "en": "turban",
+    "cz": "turban",
+    "img": "image/turban__turban.png"
+  },
+  {
+    "en": "toga",
+    "cz": "tóga",
+    "img": "image/toga__toga.png"
+  },
+  {
+    "en": "sari",
+    "cz": "sárí",
+    "img": "image/sari__sari.png"
+  },
+  {
+    "en": "miniskirt",
+    "cz": "minisukně",
+    "img": "image/minisukne__miniskirt.png"
+  },
+  {
+    "en": "sombrero",
+    "cz": "sombréro",
+    "img": "image/sombrero__sombrero.png"
+  },
+  {
+    "en": "pants",
+    "cz": "kalhotky",
+    "img": "image/kalhotky__pants.png"
+  },
+  {
+    "en": "button",
+    "cz": "knoflík",
+    "img": "image/knoflik__button.png"
+  },
+  {
+    "en": "blazer",
+    "cz": "blejzr",
+    "img": "image/blejzr__blazer.png"
+  },
+  {
+    "en": "fez",
+    "cz": "fez",
+    "img": "image/fez__fez.png"
+  },
+  {
+    "en": "clothes",
+    "cz": "oděv",
+    "img": "image/odev__clothes.png"
+  },
+  {
+    "en": "boot",
+    "cz": "bota",
+    "img": "image/bota__boot.png"
+  },
+  {
+    "en": "coat",
+    "cz": "kabát",
+    "img": "image/kabat__coat.png"
+  },
+  {
+    "en": "glove",
+    "cz": "rukavice",
+    "img": "image/rukavice__glove.png"
+  },
+  {
+    "en": "hat",
+    "cz": "klobouk",
+    "img": "image/klobouk__hat.png"
+  },
+  {
+    "en": "ring",
+    "cz": "prsten",
+    "img": "image/prsten__ring.png"
+  },
+  {
+    "en": "shirt",
+    "cz": "košile",
+    "img": "image/kosile__shirt.png"
+  },
+  {
+    "en": "shoe",
+    "cz": "střevíc",
+    "img": "image/strevic__shoe.png"
+  },
+  {
+    "en": "skirt",
+    "cz": "sukně",
+    "img": "image/sukne__skirt.png"
+  },
+  {
+    "en": "sock",
+    "cz": "ponožka",
+    "img": "image/ponozka__sock.png"
+  },
+  {
+    "en": "umbrella",
+    "cz": "deštník",
+    "img": "image/destnik__umbrella.png"
+  },
+  {
+    "en": "spectacles",
+    "cz": "brýle",
+    "img": "image/bryle__spectacles.png"
+  },
+  {
+    "en": "tie",
+    "cz": "kravata",
+    "img": "image/kravata__tie.png"
+  },
+  {
+    "en": "belt",
+    "cz": "opasek",
+    "img": "image/opasek__belt.png"
+  },
+  {
+    "en": "blouse",
+    "cz": "halenka",
+    "img": "image/halenka__blouse.png"
+  },
+  {
+    "en": "vest",
+    "cz": "vesta",
+    "img": "image/vesta__vest.png"
+  },
+  {
+    "en": "wallet",
+    "cz": "peněženka",
+    "img": "image/penezenka__wallet.png"
+  },
+  {
+    "en": "sandal",
+    "cz": "sandál",
+    "img": "image/sandal__sandal.png"
+  },
+  {
+    "en": "backpack",
+    "cz": "batoh",
+    "img": "image/batoh__backpack.png"
+  },
+  {
+    "en": "cap",
+    "cz": "čepice",
+    "img": "image/cepice__cap.png"
+  },
+  {
+    "en": "suit",
+    "cz": "oblek",
+    "img": "image/oblek__suit.png"
+  },
+  {
+    "en": "dress",
+    "cz": "oblek",
+    "img": "image/oblek__dress.png"
+  },
+  {
+    "en": "brassiere",
+    "cz": "podprsenka",
+    "img": "image/podprsenka__brassiere.png"
+  },
+  {
+    "en": "jacket",
+    "cz": "kabát",
+    "img": "image/kabat__jacket.png"
+  },
+  {
+    "en": "swimsuit",
+    "cz": "plavky",
+    "img": "image/plavky__swimsuit.png"
+  },
+  {
+    "en": "scarf",
+    "cz": "šála",
+    "img": "image/sala__scarf.png"
+  },
+  {
+    "en": "earring",
+    "cz": "náušnice",
+    "img": "image/nausnice__earring.png"
+  },
+  {
+    "en": "bag",
+    "cz": "kabelka",
+    "img": "image/kabelka__bag.png"
+  },
+  {
+    "en": "wristband",
+    "cz": "náramek",
+    "img": "image/naramek__wristband.png"
+  },
+  {
+    "en": "sunglasses",
+    "cz": "sluneční brýle",
+    "img": "image/slunecni_bryle__sunglasses.png"
+  },
+  {
+    "en": "windbreaker",
+    "cz": "větrovka",
+    "img": "image/vetrovka__windbreaker.png"
+  },
+  {
+    "en": "suitcase",
+    "cz": "kufr",
+    "img": "image/kufr__suitcase.png"
+  },
+  {
+    "en": "T-shirt",
+    "cz": "tričko",
+    "img": "image/tricko__t-shirt.png"
+  },
+  {
+    "en": "briefcase",
+    "cz": "aktovka",
+    "img": "image/aktovka__briefcase.png"
+  },
+  {
+    "en": "bathrobe",
+    "cz": "župan",
+    "img": "image/zupan__bathrobe.png"
+  },
+  {
+    "en": "blue",
+    "cz": "modrý",
+    "img": "image/modry__blue.png"
+  },
+  {
+    "en": "golden",
+    "cz": "zlatý",
+    "img": "image/zlaty__golden.png"
+  },
+  {
+    "en": "brown",
+    "cz": "hnědý",
+    "img": "image/hnedy__brown.png"
+  },
+  {
+    "en": "green",
+    "cz": "zelený",
+    "img": "image/zeleny__green.png"
+  },
+  {
+    "en": "orange",
+    "cz": "oranžový",
+    "img": "image/oranzovy__orange.png"
+  },
+  {
+    "en": "red",
+    "cz": "červený",
+    "img": "image/cerveny__red.png"
+  },
+  {
+    "en": "yellow",
+    "cz": "žlutý",
+    "img": "image/zluty__yellow.png"
+  },
+  {
+    "en": "gray",
+    "cz": "šedý",
+    "img": "image/sedy__gray.png"
+  },
+  {
+    "en": "black",
+    "cz": "černý",
+    "img": "image/cerny__black.png"
+  },
+  {
+    "en": "white",
+    "cz": "bílý",
+    "img": "image/bily__white.png"
+  },
+  {
+    "en": "pink",
+    "cz": "růžový",
+    "img": "image/ruzovy__pink.png"
+  },
+  {
+    "en": "violet",
+    "cz": "fialový",
+    "img": "image/fialovy__violet.png"
+  },
+  {
+    "en": "rose",
+    "cz": "růžový",
+    "img": "image/ruzovy__rose.png"
+  },
+  {
+    "en": "central processor",
+    "cz": "procesor",
+    "img": "image/procesor__central_processor.png"
+  },
+  {
+    "en": "printer",
+    "cz": "tiskárna",
+    "img": "image/tiskarna__printer.png"
+  },
+  {
+    "en": "letter",
+    "cz": "písmeno",
+    "img": "image/pismeno__letter.png"
+  },
+  {
+    "en": "amplifier",
+    "cz": "zesilovač",
+    "img": "image/zesilovac__amplifier.png"
+  },
+  {
+    "en": "scanner",
+    "cz": "skener",
+    "img": "image/skener__scanner.png"
+  },
+  {
+    "en": "display",
+    "cz": "displej",
+    "img": "image/displej__display.png"
+  },
+  {
+    "en": "question",
+    "cz": "otázka",
+    "img": "image/otazka__question.png"
+  },
+  {
+    "en": "hard disk",
+    "cz": "pevný disk",
+    "img": "image/pevny_disk__hard_disk.png"
+  },
+  {
+    "en": "flow chart",
+    "cz": "vývojový diagram",
+    "img": "image/vyvojovy_diagram__flow_chart.png"
+  },
+  {
+    "en": "keyboard",
+    "cz": "klávesnice",
+    "img": "image/klavesnice__keyboard.png"
+  },
+  {
+    "en": "modem",
+    "cz": "modem",
+    "img": "image/modem__modem.png"
+  },
+  {
+    "en": "calculator",
+    "cz": "počítačka",
+    "img": "image/pocitacka__calculator.png"
+  },
+  {
+    "en": "cellular phone",
+    "cz": "mobilní telefon",
+    "img": "image/mobilni_telefon__cellular_phone.png"
+  },
+  {
+    "en": "computer",
+    "cz": "počítač",
+    "img": "image/pocitac__computer.png"
+  },
+  {
+    "en": "diskette",
+    "cz": "disketa",
+    "img": "image/disketa__diskette.png"
+  },
+  {
+    "en": "integrated circuit",
+    "cz": "mikroobvod",
+    "img": "image/mikroobvod__integrated_circuit.png"
+  },
+  {
+    "en": "joystick",
+    "cz": "pákový ovladač",
+    "img": "image/pakovy_ovladac__joystick.png"
+  },
+  {
+    "en": "microphone",
+    "cz": "mikrofon",
+    "img": "image/mikrofon__microphone.png"
+  },
+  {
+    "en": "monitor",
+    "cz": "monitor",
+    "img": "image/monitor__monitor.png"
+  },
+  {
+    "en": "personal digital assistant",
+    "cz": "personal digital assistant",
+    "img": "image/personal_digital_assistant__personal_digital_assistant.png"
+  },
+  {
+    "en": "random-access memory",
+    "cz": "paměť RAM",
+    "img": "image/pamet_ram__random-access_memory.png"
+  },
+  {
+    "en": "recursion",
+    "cz": "rekurze",
+    "img": "image/rekurze__recursion.png"
+  },
+  {
+    "en": "window",
+    "cz": "okno",
+    "img": "image/okno__window.png"
+  },
+  {
+    "en": "word",
+    "cz": "slovo",
+    "img": "image/slovo__word.png"
+  },
+  {
+    "en": "copier",
+    "cz": "kopírka",
+    "img": "image/kopirka__copier.png"
+  },
+  {
+    "en": "remote control",
+    "cz": "ovladač",
+    "img": "image/ovladac__remote_control.png"
+  },
+  {
+    "en": "camera",
+    "cz": "fotoaparát",
+    "img": "image/fotoaparat__camera.png"
+  },
+  {
+    "en": "tape",
+    "cz": "páska",
+    "img": "image/paska__tape.png"
+  },
+  {
+    "en": "bar code",
+    "cz": "čárový kód",
+    "img": "image/carovy_kod__bar_code.png"
+  },
+  {
+    "en": "browse",
+    "cz": "brouzdat",
+    "img": "image/brouzdat__browse.png"
+  },
+  {
+    "en": "download",
+    "cz": "stáhnout",
+    "img": "image/stahnout__download.png"
+  },
+  {
+    "en": "algorithm",
+    "cz": "algoritmus",
+    "img": "image/algoritmus__algorithm.png"
+  },
+  {
+    "en": "Global Positioning System",
+    "cz": "Global Positioning System",
+    "img": "image/global_positioning_system__global_positioning_system.png"
+  },
+  {
+    "en": "loudspeaker",
+    "cz": "reproduktor",
+    "img": "image/reproduktor__loudspeaker.png"
+  },
+  {
+    "en": "information",
+    "cz": "informace",
+    "img": "image/informace__information.png"
+  },
+  {
+    "en": "laser",
+    "cz": "laser",
+    "img": "image/laser__laser.png"
+  },
+  {
+    "en": "plug",
+    "cz": "zástrčka",
+    "img": "image/zastrcka__plug.png"
+  },
+  {
+    "en": "canister",
+    "cz": "plechovka",
+    "img": "image/plechovka__canister.png"
+  },
+  {
+    "en": "barrel",
+    "cz": "barel",
+    "img": "image/barel__barrel.png"
+  },
+  {
+    "en": "vase",
+    "cz": "váza",
+    "img": "image/vaza__vase.png"
+  },
+  {
+    "en": "teapot",
+    "cz": "konvice na čaj",
+    "img": "image/konvice_na_caj__teapot.png"
+  },
+  {
+    "en": "pouch",
+    "cz": "váček",
+    "img": "image/vacek__pouch.png"
+  },
+  {
+    "en": "pot",
+    "cz": "hrnec",
+    "img": "image/hrnec__pot.png"
+  },
+  {
+    "en": "pan",
+    "cz": "pánev",
+    "img": "image/panev__pan.png"
+  },
+  {
+    "en": "kettle",
+    "cz": "kotlík",
+    "img": "image/kotlik__kettle.png"
+  },
+  {
+    "en": "keg",
+    "cz": "soudek",
+    "img": "image/soudek__keg.png"
+  },
+  {
+    "en": "jug",
+    "cz": "džbán",
+    "img": "image/dzban__jug.png"
+  },
+  {
+    "en": "bucket",
+    "cz": "kbelík",
+    "img": "image/kbelik__bucket.png"
+  },
+  {
+    "en": "chest",
+    "cz": "truhla",
+    "img": "image/truhla__chest.png"
+  },
+  {
+    "en": "cup",
+    "cz": "šálek",
+    "img": "image/salek__cup.png"
+  },
+  {
+    "en": "can",
+    "cz": "plechovka",
+    "img": "image/plechovka__can.png"
+  },
+  {
+    "en": "bag",
+    "cz": "pytel",
+    "img": "image/pytel__bag.png"
+  },
+  {
+    "en": "glass",
+    "cz": "sklenice",
+    "img": "image/sklenice__glass.png"
+  },
+  {
+    "en": "plate",
+    "cz": "talíř",
+    "img": "image/talir__plate.png"
+  },
+  {
+    "en": "mug",
+    "cz": "hrneček",
+    "img": "image/hrnecek__mug.png"
+  },
+  {
+    "en": "wok",
+    "cz": "wok",
+    "img": "image/wok__wok.png"
+  },
+  {
+    "en": "box",
+    "cz": "krabice",
+    "img": "image/krabice__box.png"
+  },
+  {
+    "en": "bottle",
+    "cz": "láhev",
+    "img": "image/lahev__bottle.png"
+  },
+  {
+    "en": "ladle",
+    "cz": "naběračka",
+    "img": "image/naberacka__ladle.png"
+  },
+  {
+    "en": "bowl",
+    "cz": "miska",
+    "img": "image/miska__bowl.png"
+  },
+  {
+    "en": "pitcher",
+    "cz": "džbánek",
+    "img": "image/dzbanek__pitcher.png"
+  },
+  {
+    "en": "vessel",
+    "cz": "nádoba",
+    "img": "image/nadoba__vessel.png"
+  },
+  {
+    "en": "test tube",
+    "cz": "zkumavka",
+    "img": "image/zkumavka__test_tube.png"
+  },
+  {
+    "en": "tankard",
+    "cz": "konvice",
+    "img": "image/konvice__tankard.png"
+  },
+  {
+    "en": "basket",
+    "cz": "košík",
+    "img": "image/kosik__basket.png"
+  },
+  {
+    "en": "drawer",
+    "cz": "zásuvka",
+    "img": "image/zasuvka__drawer.png"
+  },
+  {
+    "en": "bathtub",
+    "cz": "koupací vana",
+    "img": "image/koupaci_vana__bathtub.png"
+  },
+  {
+    "en": "envelope",
+    "cz": "obálka",
+    "img": "image/obalka__envelope.png"
+  },
+  {
+    "en": "trunk",
+    "cz": "kufr",
+    "img": "image/kufr__trunk.png"
+  },
+  {
+    "en": "saucer",
+    "cz": "podšálek",
+    "img": "image/podsalek__saucer.png"
+  },
+  {
+    "en": "amphora",
+    "cz": "amfora",
+    "img": "image/amfora__amphora.png"
+  },
+  {
+    "en": "baggage",
+    "cz": "zavazadla",
+    "img": "image/zavazadla__baggage.png"
+  },
+  {
+    "en": "pod",
+    "cz": "lusk",
+    "img": "image/lusk__pod.png"
+  },
+  {
+    "en": "ashcan",
+    "cz": "popelnice",
+    "img": "image/popelnice__ashcan.png"
+  },
+  {
+    "en": "cassette",
+    "cz": "kazeta",
+    "img": "image/kazeta__cassette.png"
+  },
+  {
+    "en": "watering can",
+    "cz": "kropáč",
+    "img": "image/kropac__watering_can.png"
+  },
+  {
+    "en": "webcam",
+    "cz": "webová kamera",
+    "img": "image/webova_kamera__webcam.png"
+  },
+  {
+    "en": "vacuum",
+    "cz": "vysavač",
+    "img": "image/vysavac__vacuum.png"
+  },
+  {
+    "en": "toaster",
+    "cz": "opékač topinek",
+    "img": "image/opekac_topinek__toaster.png"
+  },
+  {
+    "en": "typewriter",
+    "cz": "psací stroj",
+    "img": "image/psaci_stroj__typewriter.png"
+  },
+  {
+    "en": "sewing machine",
+    "cz": "šicí stroj",
+    "img": "image/sici_stroj__sewing_machine.png"
+  },
+  {
+    "en": "projector",
+    "cz": "projektor",
+    "img": "image/projektor__projector.png"
+  },
+  {
+    "en": "chain saw",
+    "cz": "řetězová pila",
+    "img": "image/retezova_pila__chain_saw.png"
+  },
+  {
+    "en": "earphone",
+    "cz": "sluchátka",
+    "img": "image/sluchatka__earphone.png"
+  },
+  {
+    "en": "gramophone",
+    "cz": "gramofon",
+    "img": "image/gramofon__gramophone.png"
+  },
+  {
+    "en": "pneumatic hammer",
+    "cz": "pneumatické kladivo",
+    "img": "image/pneumaticke_kladivo__pneumatic_hammer.png"
+  },
+  {
+    "en": "facsimile",
+    "cz": "telefax",
+    "img": "image/telefax__facsimile.png"
+  },
+  {
+    "en": "excavator",
+    "cz": "rypadlo",
+    "img": "image/rypadlo__excavator.png"
+  },
+  {
+    "en": "escalator",
+    "cz": "eskalátor",
+    "img": "image/eskalator__escalator.png"
+  },
+  {
+    "en": "dishwasher",
+    "cz": "myčka",
+    "img": "image/mycka__dishwasher.png"
+  },
+  {
+    "en": "blowtorch",
+    "cz": "letovací lampa",
+    "img": "image/letovaci_lampa__blowtorch.png"
+  },
+  {
+    "en": "blender",
+    "cz": "mixér",
+    "img": "image/mixer__blender.png"
+  },
+  {
+    "en": "alarm clock",
+    "cz": "budík",
+    "img": "image/budik__alarm_clock.png"
+  },
+  {
+    "en": "scuba",
+    "cz": "akvalung",
+    "img": "image/akvalung__scuba.png"
+  },
+  {
+    "en": "fire extinguisher",
+    "cz": "hasicí přístroj",
+    "img": "image/hasici_pristroj__fire_extinguisher.png"
+  },
+  {
+    "en": "washer",
+    "cz": "pračka",
+    "img": "image/pracka__washer.png"
+  },
+  {
+    "en": "pulley",
+    "cz": "kladka",
+    "img": "image/kladka__pulley.png"
+  },
+  {
+    "en": "boiler",
+    "cz": "bojler",
+    "img": "image/bojler__boiler.png"
+  },
+  {
+    "en": "television",
+    "cz": "televize",
+    "img": "image/televize__television.png"
+  },
+  {
+    "en": "bookshelf",
+    "cz": "police",
+    "img": "image/police__bookshelf.png"
+  },
+  {
+    "en": "light bulb",
+    "cz": "žárovka",
+    "img": "image/zarovka__light_bulb.png"
+  },
+  {
+    "en": "circular saw",
+    "cz": "kotoučová pila",
+    "img": "image/kotoucova_pila__circular_saw.png"
+  },
+  {
+    "en": "computer",
+    "cz": "počtář",
+    "img": "image/poctar__computer.png"
+  },
+  {
+    "en": "camera",
+    "cz": "kamera",
+    "img": "image/kamera__camera.png"
+  },
+  {
+    "en": "clock",
+    "cz": "hodiny",
+    "img": "image/hodiny__clock.png"
+  },
+  {
+    "en": "gear",
+    "cz": "ozubené kolo",
+    "img": "image/ozubene_kolo__gear.png"
+  },
+  {
+    "en": "stove",
+    "cz": "sporák",
+    "img": "image/sporak__stove.png"
+  },
+  {
+    "en": "crane",
+    "cz": "jeřáb",
+    "img": "image/jerab__crane__2.png"
+  },
+  {
+    "en": "handcuff",
+    "cz": "pouta",
+    "img": "image/pouta__handcuff.png"
+  },
+  {
+    "en": "dryer",
+    "cz": "sušička",
+    "img": "image/susicka__dryer.png"
+  },
+  {
+    "en": "drill",
+    "cz": "vrtačka",
+    "img": "image/vrtacka__drill.png"
+  },
+  {
+    "en": "elevator",
+    "cz": "elevátor",
+    "img": "image/elevator__elevator.png"
+  },
+  {
+    "en": "fan",
+    "cz": "ventilátor",
+    "img": "image/ventilator__fan.png"
+  },
+  {
+    "en": "gyroscope",
+    "cz": "setrvačník",
+    "img": "image/setrvacnik__gyroscope.png"
+  },
+  {
+    "en": "bullterrier",
+    "cz": "anglický bulteriér",
+    "img": "image/anglicky_bulterier__bullterrier.png"
+  },
+  {
+    "en": "Staffordshire bullterrier",
+    "cz": "Stafordšírský bulteriér",
+    "img": "image/stafordsirsky_bulterier__staffordshire_bullterrier.png"
+  },
+  {
+    "en": "Samoyed",
+    "cz": "Samojed",
+    "img": "image/samojed__samoyed.png"
+  },
+  {
+    "en": "mastiff",
+    "cz": "mastif",
+    "img": "image/mastif__mastiff.png"
+  },
+  {
+    "en": "malamute",
+    "cz": "malamut",
+    "img": "image/malamut__malamute.png"
+  },
+  {
+    "en": "Irish wolfhound",
+    "cz": "Irský vlkodav",
+    "img": "image/irsky_vlkodav__irish_wolfhound.png"
+  },
+  {
+    "en": "fox terrier",
+    "cz": "foxteriér",
+    "img": "image/foxterier__fox_terrier.png"
+  },
+  {
+    "en": "cocker spaniel",
+    "cz": "anglický kokršpaněl",
+    "img": "image/anglicky_kokrspanel__cocker_spaniel.png"
+  },
+  {
+    "en": "dingo",
+    "cz": "pes dingo",
+    "img": "image/pes_dingo__dingo.png"
+  },
+  {
+    "en": "Afghan hound",
+    "cz": "Afgánský chrt",
+    "img": "image/afgansky_chrt__afghan_hound.png"
+  },
+  {
+    "en": "dachshund",
+    "cz": "jezevčík",
+    "img": "image/jezevcik__dachshund.png"
+  },
+  {
+    "en": "basenji",
+    "cz": "basenji",
+    "img": "image/basenji__basenji.png"
+  },
+  {
+    "en": "beagle",
+    "cz": "beagel",
+    "img": "image/beagel__beagle.png"
+  },
+  {
+    "en": "dog",
+    "cz": "pes",
+    "img": "image/pes__dog.png"
+  },
+  {
+    "en": "collie",
+    "cz": "kolie",
+    "img": "image/kolie__collie.png"
+  },
+  {
+    "en": "hybrid",
+    "cz": "kříženec",
+    "img": "image/krizenec__hybrid.png"
+  },
+  {
+    "en": "Great Dane",
+    "cz": "doga",
+    "img": "image/doga__great_dane.png"
+  },
+  {
+    "en": "greyhound",
+    "cz": "chrt",
+    "img": "image/chrt__greyhound.png"
+  },
+  {
+    "en": "watchdog",
+    "cz": "hlídací pes",
+    "img": "image/hlidaci_pes__watchdog.png"
+  },
+  {
+    "en": "poodle",
+    "cz": "pudl",
+    "img": "image/pudl__poodle.png"
+  },
+  {
+    "en": "pug",
+    "cz": "mops",
+    "img": "image/mops__pug.png"
+  },
+  {
+    "en": "Rottweiler",
+    "cz": "Rotvajler",
+    "img": "image/rotvajler__rottweiler.png"
+  },
+  {
+    "en": "shepherd dog",
+    "cz": "ovčácký pes",
+    "img": "image/ovcacky_pes__shepherd_dog.png"
+  },
+  {
+    "en": "Siberian husky",
+    "cz": "Sibiřský husky",
+    "img": "image/sibirsky_husky__siberian_husky.png"
+  },
+  {
+    "en": "terrier",
+    "cz": "teriér",
+    "img": "image/terier__terrier.png"
+  },
+  {
+    "en": "Eskimo dog",
+    "cz": "eskymácký pes",
+    "img": "image/eskymacky_pes__eskimo_dog.png"
+  },
+  {
+    "en": "Cognac",
+    "cz": "koňak",
+    "img": "image/konak__cognac.png"
+  },
+  {
+    "en": "cappuccino",
+    "cz": "kapučíno",
+    "img": "image/kapucino__cappuccino.png"
+  },
+  {
+    "en": "whiskey",
+    "cz": "whiskey",
+    "img": "image/whiskey__whiskey.png"
+  },
+  {
+    "en": "sake",
+    "cz": "saké",
+    "img": "image/sake__sake.png"
+  },
+  {
+    "en": "lager",
+    "cz": "ležák",
+    "img": "image/lezak__lager.png"
+  },
+  {
+    "en": "champagne",
+    "cz": "šampaňské",
+    "img": "image/sampanske__champagne.png"
+  },
+  {
+    "en": "beer",
+    "cz": "pivo",
+    "img": "image/pivo__beer.png"
+  },
+  {
+    "en": "alcohol",
+    "cz": "alkohol",
+    "img": "image/alkohol__alcohol.png"
+  },
+  {
+    "en": "milk",
+    "cz": "mléko",
+    "img": "image/mleko__milk.png"
+  },
+  {
+    "en": "milk",
+    "cz": "mléko",
+    "img": "image/mleko__milk__2.png"
+  },
+  {
+    "en": "wine",
+    "cz": "víno",
+    "img": "image/vino__wine.png"
+  },
+  {
+    "en": "absinth",
+    "cz": "absinth",
+    "img": "image/absinth__absinth.png"
+  },
+  {
+    "en": "cider",
+    "cz": "jablečné víno",
+    "img": "image/jablecne_vino__cider.png"
+  },
+  {
+    "en": "coffee",
+    "cz": "káva",
+    "img": "image/kava__coffee.png"
+  },
+  {
+    "en": "gin",
+    "cz": "džin",
+    "img": "image/dzin__gin.png"
+  },
+  {
+    "en": "milkshake",
+    "cz": "mléčný koktejl",
+    "img": "image/mlecny_koktejl__milkshake.png"
+  },
+  {
+    "en": "tea",
+    "cz": "čaj",
+    "img": "image/caj__tea.png"
+  },
+  {
+    "en": "tequila",
+    "cz": "tequilla",
+    "img": "image/tequilla__tequila.png"
+  },
+  {
+    "en": "soda",
+    "cz": "sodovka",
+    "img": "image/sodovka__soda.png"
+  },
+  {
+    "en": "cola",
+    "cz": "kola",
+    "img": "image/kola__cola.png"
+  },
+  {
+    "en": "brandy",
+    "cz": "pálenka",
+    "img": "image/palenka__brandy.png"
+  },
+  {
+    "en": "drink",
+    "cz": "nápoj",
+    "img": "image/napoj__drink.png"
+  },
+  {
+    "en": "juice",
+    "cz": "džus",
+    "img": "image/dzus__juice.png"
+  },
+  {
+    "en": "anode",
+    "cz": "anoda",
+    "img": "image/anoda__anode.png"
+  },
+  {
+    "en": "cathode",
+    "cz": "katoda",
+    "img": "image/katoda__cathode.png"
+  },
+  {
+    "en": "circuit",
+    "cz": "obvod",
+    "img": "image/obvod__circuit.png"
+  },
+  {
+    "en": "voltage",
+    "cz": "napětí",
+    "img": "image/napeti__voltage.png"
+  },
+  {
+    "en": "switch",
+    "cz": "vypínač",
+    "img": "image/vypinac__switch.png"
+  },
+  {
+    "en": "net",
+    "cz": "síť",
+    "img": "image/sit__net.png"
+  },
+  {
+    "en": "pylon",
+    "cz": "stožár",
+    "img": "image/stozar__pylon.png"
+  },
+  {
+    "en": "resistor",
+    "cz": "rezistor",
+    "img": "image/rezistor__resistor.png"
+  },
+  {
+    "en": "socket",
+    "cz": "zásuvka",
+    "img": "image/zasuvka__socket.png"
+  },
+  {
+    "en": "transformer",
+    "cz": "transformátor",
+    "img": "image/transformator__transformer.png"
+  },
+  {
+    "en": "transistor",
+    "cz": "tranzistor",
+    "img": "image/tranzistor__transistor.png"
+  },
+  {
+    "en": "electricity",
+    "cz": "elektřina",
+    "img": "image/elektrina__electricity.png"
+  },
+  {
+    "en": "electronics",
+    "cz": "elektronika",
+    "img": "image/elektronika__electronics.png"
+  },
+  {
+    "en": "measurement",
+    "cz": "měření",
+    "img": "image/mereni__measurement.png"
+  },
+  {
+    "en": "amplitude",
+    "cz": "amplituda",
+    "img": "image/amplituda__amplitude.png"
+  },
+  {
+    "en": "trout",
+    "cz": "pstruh",
+    "img": "image/pstruh__trout.png"
+  },
+  {
+    "en": "sturgeon",
+    "cz": "jeseter",
+    "img": "image/jeseter__sturgeon.png"
+  },
+  {
+    "en": "sawfish",
+    "cz": "piloun",
+    "img": "image/piloun__sawfish.png"
+  },
+  {
+    "en": "salmon",
+    "cz": "losos",
+    "img": "image/losos__salmon.png"
+  },
+  {
+    "en": "rainbow trout",
+    "cz": "pstruh duhový",
+    "img": "image/pstruh_duhovy__rainbow_trout.png"
+  },
+  {
+    "en": "piranha",
+    "cz": "piraňa",
+    "img": "image/pirana__piranha.png"
+  },
+  {
+    "en": "pike",
+    "cz": "štika",
+    "img": "image/stika__pike.png"
+  },
+  {
+    "en": "perch",
+    "cz": "okoun",
+    "img": "image/okoun__perch.png"
+  },
+  {
+    "en": "mackerel",
+    "cz": "makrela",
+    "img": "image/makrela__mackerel.png"
+  },
+  {
+    "en": "lamprey",
+    "cz": "mihule",
+    "img": "image/mihule__lamprey.png"
+  },
+  {
+    "en": "herring",
+    "cz": "sleď",
+    "img": "image/sled__herring.png"
+  },
+  {
+    "en": "hammerhead",
+    "cz": "kladivoun",
+    "img": "image/kladivoun__hammerhead.png"
+  },
+  {
+    "en": "haddock",
+    "cz": "treska",
+    "img": "image/treska__haddock.png"
+  },
+  {
+    "en": "cod",
+    "cz": "treska",
+    "img": "image/treska__cod.png"
+  },
+  {
+    "en": "eel",
+    "cz": "úhoř",
+    "img": "image/uhor__eel.png"
+  },
+  {
+    "en": "flying fish",
+    "cz": "létající ryba",
+    "img": "image/letajici_ryba__flying_fish.png"
+  },
+  {
+    "en": "fish",
+    "cz": "ryba",
+    "img": "image/ryba__fish.png"
+  },
+  {
+    "en": "basking shark",
+    "cz": "žralok veliký",
+    "img": "image/zralok_veliky__basking_shark.png"
+  },
+  {
+    "en": "Amur",
+    "cz": "Amur",
+    "img": "image/amur__amur.png"
+  },
+  {
+    "en": "dolphin",
+    "cz": "delfín",
+    "img": "image/delfin__dolphin.png"
+  },
+  {
+    "en": "lionfish",
+    "cz": "perutýn",
+    "img": "image/perutyn__lionfish.png"
+  },
+  {
+    "en": "sunfish",
+    "cz": "měsíčník svítivý",
+    "img": "image/mesicnik_svitivy__sunfish.png"
+  },
+  {
+    "en": "tench",
+    "cz": "lín",
+    "img": "image/lin__tench.png"
+  },
+  {
+    "en": "swordfish",
+    "cz": "mečoun",
+    "img": "image/mecoun__swordfish.png"
+  },
+  {
+    "en": "crocus",
+    "cz": "krokus",
+    "img": "image/krokus__crocus.png"
+  },
+  {
+    "en": "daisy",
+    "cz": "sedmikráska",
+    "img": "image/sedmikraska__daisy.png"
+  },
+  {
+    "en": "lotus",
+    "cz": "lotos",
+    "img": "image/lotos__lotus.png"
+  },
+  {
+    "en": "fuchsia",
+    "cz": "fuchsie",
+    "img": "image/fuchsie__fuchsia.png"
+  },
+  {
+    "en": "hyacinth",
+    "cz": "hyacint",
+    "img": "image/hyacint__hyacinth.png"
+  },
+  {
+    "en": "lavender",
+    "cz": "levandule",
+    "img": "image/levandule__lavender.png"
+  },
+  {
+    "en": "bouquet",
+    "cz": "kytice",
+    "img": "image/kytice__bouquet.png"
+  },
+  {
+    "en": "wreath",
+    "cz": "girlanda",
+    "img": "image/girlanda__wreath.png"
+  },
+  {
+    "en": "peony",
+    "cz": "pivoňka",
+    "img": "image/pivonka__peony.png"
+  },
+  {
+    "en": "wallflower",
+    "cz": "chejr",
+    "img": "image/chejr__wallflower.png"
+  },
+  {
+    "en": "poppy",
+    "cz": "mák",
+    "img": "image/mak__poppy.png"
+  },
+  {
+    "en": "aster",
+    "cz": "astra",
+    "img": "image/astra__aster.png"
+  },
+  {
+    "en": "chrysanthemum",
+    "cz": "chryzantéma",
+    "img": "image/chryzantema__chrysanthemum.png"
+  },
+  {
+    "en": "sunflower",
+    "cz": "slunečnice",
+    "img": "image/slunecnice__sunflower.png"
+  },
+  {
+    "en": "edelweiss",
+    "cz": "plesnivec alpský",
+    "img": "image/plesnivec_alpsky__edelweiss.png"
+  },
+  {
+    "en": "oxeye daisy",
+    "cz": "kopretina",
+    "img": "image/kopretina__oxeye_daisy.png"
+  },
+  {
+    "en": "marigold",
+    "cz": "měsíček",
+    "img": "image/mesicek__marigold.png"
+  },
+  {
+    "en": "zinnia",
+    "cz": "cínie",
+    "img": "image/cinie__zinnia.png"
+  },
+  {
+    "en": "orchid",
+    "cz": "orchidea",
+    "img": "image/orchidea__orchid.png"
+  },
+  {
+    "en": "begonia",
+    "cz": "begónie",
+    "img": "image/begonie__begonia.png"
+  },
+  {
+    "en": "petunia",
+    "cz": "petúnie",
+    "img": "image/petunie__petunia.png"
+  },
+  {
+    "en": "tulip",
+    "cz": "tulipán",
+    "img": "image/tulipan__tulip.png"
+  },
+  {
+    "en": "primrose",
+    "cz": "prvosenka",
+    "img": "image/prvosenka__primrose.png"
+  },
+  {
+    "en": "anemone",
+    "cz": "sasanka",
+    "img": "image/sasanka__anemone.png"
+  },
+  {
+    "en": "rose",
+    "cz": "růže",
+    "img": "image/ruze__rose.png"
+  },
+  {
+    "en": "Convallaria",
+    "cz": "Konvalinka vonná",
+    "img": "image/konvalinka_vonna__convallaria.png"
+  },
+  {
+    "en": "pansy",
+    "cz": "maceška",
+    "img": "image/maceska__pansy.png"
+  },
+  {
+    "en": "violet",
+    "cz": "fialka",
+    "img": "image/fialka__violet.png"
+  },
+  {
+    "en": "daffodil",
+    "cz": "narcis",
+    "img": "image/narcis__daffodil.png"
+  },
+  {
+    "en": "flower",
+    "cz": "květina",
+    "img": "image/kvetina__flower.png"
+  },
+  {
+    "en": "dandelion",
+    "cz": "pampeliška",
+    "img": "image/pampeliska__dandelion.png"
+  },
+  {
+    "en": "saffron",
+    "cz": "šafrán",
+    "img": "image/safran__saffron.png"
+  },
+  {
+    "en": "lilac",
+    "cz": "šeřík",
+    "img": "image/serik__lilac.png"
+  },
+  {
+    "en": "bilberry",
+    "cz": "borůvka",
+    "img": "image/boruvka__bilberry.png"
+  },
+  {
+    "en": "azalea",
+    "cz": "azalka",
+    "img": "image/azalka__azalea.png"
+  },
+  {
+    "en": "rhododendron",
+    "cz": "rododendron",
+    "img": "image/rododendron__rhododendron.png"
+  },
+  {
+    "en": "myrtle",
+    "cz": "myrta",
+    "img": "image/myrta__myrtle.png"
+  },
+  {
+    "en": "hawthorn",
+    "cz": "hloh",
+    "img": "image/hloh__hawthorn.png"
+  },
+  {
+    "en": "gardenia",
+    "cz": "gardénie",
+    "img": "image/gardenie__gardenia.png"
+  },
+  {
+    "en": "gladiolus",
+    "cz": "gladiola",
+    "img": "image/gladiola__gladiolus.png"
+  },
+  {
+    "en": "acanthus",
+    "cz": "akant",
+    "img": "image/akant__acanthus.png"
+  },
+  {
+    "en": "jonquil",
+    "cz": "narcis",
+    "img": "image/narcis__jonquil.png"
+  },
+  {
+    "en": "jasmine",
+    "cz": "jasmín",
+    "img": "image/jasmin__jasmine.png"
+  },
+  {
+    "en": "forget-me-not",
+    "cz": "pomněnka",
+    "img": "image/pomnenka__forget-me-not.png"
+  },
+  {
+    "en": "hibiscus",
+    "cz": "ibišek",
+    "img": "image/ibisek__hibiscus.png"
+  },
+  {
+    "en": "doughnut",
+    "cz": "kobliha",
+    "img": "image/kobliha__doughnut.png"
+  },
+  {
+    "en": "curry",
+    "cz": "kari",
+    "img": "image/kari__curry.png"
+  },
+  {
+    "en": "bratwurst",
+    "cz": "klobása",
+    "img": "image/klobasa__bratwurst.png"
+  },
+  {
+    "en": "barbecue",
+    "cz": "rožeň",
+    "img": "image/rozen__barbecue.png"
+  },
+  {
+    "en": "baguet",
+    "cz": "bageta",
+    "img": "image/bageta__baguet.png"
+  },
+  {
+    "en": "applesauce",
+    "cz": "jablečný protlak",
+    "img": "image/jablecny_protlak__applesauce.png"
+  },
+  {
+    "en": "veal",
+    "cz": "telecí maso",
+    "img": "image/teleci_maso__veal.png"
+  },
+  {
+    "en": "toast",
+    "cz": "topinka",
+    "img": "image/topinka__toast.png"
+  },
+  {
+    "en": "sushi",
+    "cz": "suši",
+    "img": "image/susi__sushi.png"
+  },
+  {
+    "en": "ice-cream sundae",
+    "cz": "zmrzlinový pohár",
+    "img": "image/zmrzlinovy_pohar__ice-cream_sundae.png"
+  },
+  {
+    "en": "steak",
+    "cz": "biftek",
+    "img": "image/biftek__steak.png"
+  },
+  {
+    "en": "spaghetti",
+    "cz": "špagety",
+    "img": "image/spagety__spaghetti.png"
+  },
+  {
+    "en": "soup",
+    "cz": "polévka",
+    "img": "image/polevka__soup.png"
+  },
+  {
+    "en": "sausage",
+    "cz": "uzenka",
+    "img": "image/uzenka__sausage.png"
+  },
+  {
+    "en": "sauerkraut",
+    "cz": "kyselé zelí",
+    "img": "image/kysele_zeli__sauerkraut.png"
+  },
+  {
+    "en": "sandwich",
+    "cz": "sendvič",
+    "img": "image/sendvic__sandwich.png"
+  },
+  {
+    "en": "salami",
+    "cz": "salám",
+    "img": "image/salam__salami.png"
+  },
+  {
+    "en": "pretzel",
+    "cz": "preclík",
+    "img": "image/preclik__pretzel.png"
+  },
+  {
+    "en": "popcorn",
+    "cz": "pražená kukuřice",
+    "img": "image/prazena_kukurice__popcorn.png"
+  },
+  {
+    "en": "pickle",
+    "cz": "okurky",
+    "img": "image/okurky__pickle.png"
+  },
+  {
+    "en": "pie",
+    "cz": "koláč",
+    "img": "image/kolac__pie.png"
+  },
+  {
+    "en": "pastry",
+    "cz": "pečivo",
+    "img": "image/pecivo__pastry.png"
+  },
+  {
+    "en": "pancake",
+    "cz": "palačinka",
+    "img": "image/palacinka__pancake.png"
+  },
+  {
+    "en": "oatmeal",
+    "cz": "ovesná kaše",
+    "img": "image/ovesna_kase__oatmeal.png"
+  },
+  {
+    "en": "sauce",
+    "cz": "omáčka",
+    "img": "image/omacka__sauce.png"
+  },
+  {
+    "en": "noodle",
+    "cz": "nudle",
+    "img": "image/nudle__noodle.png"
+  },
+  {
+    "en": "lollipop",
+    "cz": "lízátko",
+    "img": "image/lizatko__lollipop.png"
+  },
+  {
+    "en": "licorice",
+    "cz": "lékořice",
+    "img": "image/lekorice__licorice.png"
+  },
+  {
+    "en": "catsup",
+    "cz": "kečup",
+    "img": "image/kecup__catsup.png"
+  },
+  {
+    "en": "kabob",
+    "cz": "kebab",
+    "img": "image/kebab__kabob.png"
+  },
+  {
+    "en": "cheesecake",
+    "cz": "sýrový koláč",
+    "img": "image/syrovy_kolac__cheesecake.png"
+  },
+  {
+    "en": "cheeseburger",
+    "cz": "cheeseburger",
+    "img": "image/cheeseburger__cheeseburger.png"
+  },
+  {
+    "en": "cheddar",
+    "cz": "čedar",
+    "img": "image/cedar__cheddar.png"
+  },
+  {
+    "en": "ham",
+    "cz": "šunka",
+    "img": "image/sunka__ham.png"
+  },
+  {
+    "en": "hamburger",
+    "cz": "hamburger",
+    "img": "image/hamburger__hamburger.png"
+  },
+  {
+    "en": "Gouda",
+    "cz": "gouda",
+    "img": "image/gouda__gouda.png"
+  },
+  {
+    "en": "dinner",
+    "cz": "večeře",
+    "img": "image/vecere__dinner.png"
+  },
+  {
+    "en": "cookie",
+    "cz": "sušenka",
+    "img": "image/susenka__cookie.png"
+  },
+  {
+    "en": "chocolate",
+    "cz": "čokoláda",
+    "img": "image/cokolada__chocolate.png"
+  },
+  {
+    "en": "bread",
+    "cz": "chléb",
+    "img": "image/chleb__bread.png"
+  },
+  {
+    "en": "salad",
+    "cz": "salát",
+    "img": "image/salat__salad.png"
+  },
+  {
+    "en": "yogurt",
+    "cz": "jogurt",
+    "img": "image/jogurt__yogurt.png"
+  },
+  {
+    "en": "cheese",
+    "cz": "sýr",
+    "img": "image/syr__cheese.png"
+  },
+  {
+    "en": "egg",
+    "cz": "vejce",
+    "img": "image/vejce__egg.png"
+  },
+  {
+    "en": "meal",
+    "cz": "jídlo",
+    "img": "image/jidlo__meal.png"
+  },
+  {
+    "en": "cake",
+    "cz": "zákusek",
+    "img": "image/zakusek__cake.png"
+  },
+  {
+    "en": "gelatin",
+    "cz": "rosol",
+    "img": "image/rosol__gelatin.png"
+  },
+  {
+    "en": "meat",
+    "cz": "maso",
+    "img": "image/maso__meat.png"
+  },
+  {
+    "en": "salt",
+    "cz": "sůl",
+    "img": "image/sul__salt.png"
+  },
+  {
+    "en": "mango",
+    "cz": "mango",
+    "img": "image/mango__mango.png"
+  },
+  {
+    "en": "apple",
+    "cz": "jablko",
+    "img": "image/jablko__apple.png"
+  },
+  {
+    "en": "orange",
+    "cz": "pomeranč",
+    "img": "image/pomeranc__orange.png"
+  },
+  {
+    "en": "lemon",
+    "cz": "citrón",
+    "img": "image/citron__lemon.png"
+  },
+  {
+    "en": "plum",
+    "cz": "bluma",
+    "img": "image/bluma__plum.png"
+  },
+  {
+    "en": "strawberry",
+    "cz": "jahoda",
+    "img": "image/jahoda__strawberry.png"
+  },
+  {
+    "en": "peach",
+    "cz": "broskev",
+    "img": "image/broskev__peach.png"
+  },
+  {
+    "en": "banana",
+    "cz": "banán",
+    "img": "image/banan__banana.png"
+  },
+  {
+    "en": "apricot",
+    "cz": "meruňka",
+    "img": "image/merunka__apricot.png"
+  },
+  {
+    "en": "pear",
+    "cz": "hruška",
+    "img": "image/hruska__pear.png"
+  },
+  {
+    "en": "pineapple",
+    "cz": "ananas",
+    "img": "image/ananas__pineapple.png"
+  },
+  {
+    "en": "cherry",
+    "cz": "třešeň",
+    "img": "image/tresen__cherry.png"
+  },
+  {
+    "en": "blackberry",
+    "cz": "ostružina",
+    "img": "image/ostruzina__blackberry.png"
+  },
+  {
+    "en": "raspberry",
+    "cz": "malina",
+    "img": "image/malina__raspberry.png"
+  },
+  {
+    "en": "avocado",
+    "cz": "avokádo",
+    "img": "image/avokado__avocado.png"
+  },
+  {
+    "en": "pomegranate",
+    "cz": "granátové jablko",
+    "img": "image/granatove_jablko__pomegranate.png"
+  },
+  {
+    "en": "melon",
+    "cz": "meloun",
+    "img": "image/meloun__melon.png"
+  },
+  {
+    "en": "watermelon",
+    "cz": "meloun",
+    "img": "image/meloun__watermelon.png"
+  },
+  {
+    "en": "grapefruit",
+    "cz": "grapefruit",
+    "img": "image/grapefruit__grapefruit.png"
+  },
+  {
+    "en": "gooseberry",
+    "cz": "angrešt",
+    "img": "image/angrest__gooseberry.png"
+  },
+  {
+    "en": "quince",
+    "cz": "kdoule",
+    "img": "image/kdoule__quince.png"
+  },
+  {
+    "en": "grape",
+    "cz": "hroznové víno",
+    "img": "image/hroznove_vino__grape.png"
+  },
+  {
+    "en": "blueberry",
+    "cz": "borůvka",
+    "img": "image/boruvka__blueberry.png"
+  },
+  {
+    "en": "cranberry",
+    "cz": "brusinka",
+    "img": "image/brusinka__cranberry.png"
+  },
+  {
+    "en": "kiwi",
+    "cz": "kiwi",
+    "img": "image/kiwi__kiwi.png"
+  },
+  {
+    "en": "coconut",
+    "cz": "kokos",
+    "img": "image/kokos__coconut.png"
+  },
+  {
+    "en": "tangerine",
+    "cz": "mandarinka",
+    "img": "image/mandarinka__tangerine.png"
+  },
+  {
+    "en": "lime",
+    "cz": "limetka",
+    "img": "image/limetka__lime.png"
+  },
+  {
+    "en": "berry",
+    "cz": "bobule",
+    "img": "image/bobule__berry.png"
+  },
+  {
+    "en": "nut",
+    "cz": "ořech",
+    "img": "image/orech__nut.png"
+  },
+  {
+    "en": "bidet",
+    "cz": "bidet",
+    "img": "image/bidet__bidet.png"
+  },
+  {
+    "en": "bench",
+    "cz": "lavička",
+    "img": "image/lavicka__bench.png"
+  },
+  {
+    "en": "secretary",
+    "cz": "sekretář",
+    "img": "image/sekretar__secretary.png"
+  },
+  {
+    "en": "lamp",
+    "cz": "lampa",
+    "img": "image/lampa__lamp.png"
+  },
+  {
+    "en": "furniture",
+    "cz": "nábytek",
+    "img": "image/nabytek__furniture.png"
+  },
+  {
+    "en": "chandelier",
+    "cz": "lustr",
+    "img": "image/lustr__chandelier.png"
+  },
+  {
+    "en": "filing cabinet",
+    "cz": "kartotéka",
+    "img": "image/kartoteka__filing_cabinet.png"
+  },
+  {
+    "en": "rocking chair",
+    "cz": "houpací křeslo",
+    "img": "image/houpaci_kreslo__rocking_chair.png"
+  },
+  {
+    "en": "bed",
+    "cz": "lůžko",
+    "img": "image/luzko__bed.png"
+  },
+  {
+    "en": "curtain",
+    "cz": "závěs",
+    "img": "image/zaves__curtain.png"
+  },
+  {
+    "en": "shelf",
+    "cz": "police",
+    "img": "image/police__shelf.png"
+  },
+  {
+    "en": "table",
+    "cz": "stůl",
+    "img": "image/stul__table.png"
+  },
+  {
+    "en": "chair",
+    "cz": "židle",
+    "img": "image/zidle__chair.png"
+  },
+  {
+    "en": "carpet",
+    "cz": "koberec",
+    "img": "image/koberec__carpet.png"
+  },
+  {
+    "en": "cupboard",
+    "cz": "skříň",
+    "img": "image/skrin__cupboard.png"
+  },
+  {
+    "en": "sofa",
+    "cz": "pohovka",
+    "img": "image/pohovka__sofa.png"
+  },
+  {
+    "en": "desk",
+    "cz": "psací stůl",
+    "img": "image/psaci_stul__desk.png"
+  },
+  {
+    "en": "stool",
+    "cz": "stolička",
+    "img": "image/stolicka__stool.png"
+  },
+  {
+    "en": "bookcase",
+    "cz": "knihovna",
+    "img": "image/knihovna__bookcase.png"
+  },
+  {
+    "en": "wardrobe",
+    "cz": "šatník",
+    "img": "image/satnik__wardrobe.png"
+  },
+  {
+    "en": "cabinet",
+    "cz": "uzamykatelná skříňka",
+    "img": "image/uzamykatelna_skrinka__cabinet.png"
+  },
+  {
+    "en": "chest of drawers",
+    "cz": "prádelník",
+    "img": "image/pradelnik__chest_of_drawers.png"
+  },
+  {
+    "en": "sink",
+    "cz": "dřez",
+    "img": "image/drez__sink.png"
+  },
+  {
+    "en": "seat",
+    "cz": "křeslo",
+    "img": "image/kreslo__seat.png"
+  },
+  {
+    "en": "armchair",
+    "cz": "lenoška",
+    "img": "image/lenoska__armchair.png"
+  },
+  {
+    "en": "atoll",
+    "cz": "korálový ostrov",
+    "img": "image/koralovy_ostrov__atoll.png"
+  },
+  {
+    "en": "wetland",
+    "cz": "mokřina",
+    "img": "image/mokrina__wetland.png"
+  },
+  {
+    "en": "wadi",
+    "cz": "vádí",
+    "img": "image/vadi__wadi.png"
+  },
+  {
+    "en": "direction",
+    "cz": "směr",
+    "img": "image/smer__direction.png"
+  },
+  {
+    "en": "east",
+    "cz": "východ",
+    "img": "image/vychod__east.png"
+  },
+  {
+    "en": "north",
+    "cz": "sever",
+    "img": "image/sever__north.png"
+  },
+  {
+    "en": "south",
+    "cz": "jih",
+    "img": "image/jih__south.png"
+  },
+  {
+    "en": "west",
+    "cz": "západ",
+    "img": "image/zapad__west.png"
+  },
+  {
+    "en": "bed",
+    "cz": "dno",
+    "img": "image/dno__bed.png"
+  },
+  {
+    "en": "valley",
+    "cz": "údolí",
+    "img": "image/udoli__valley.png"
+  },
+  {
+    "en": "bank",
+    "cz": "břeh",
+    "img": "image/breh__bank.png"
+  },
+  {
+    "en": "beach",
+    "cz": "pláž",
+    "img": "image/plaz__beach.png"
+  },
+  {
+    "en": "hill",
+    "cz": "pahorek",
+    "img": "image/pahorek__hill.png"
+  },
+  {
+    "en": "island",
+    "cz": "ostrov",
+    "img": "image/ostrov__island.png"
+  },
+  {
+    "en": "lake",
+    "cz": "jezero",
+    "img": "image/jezero__lake.png"
+  },
+  {
+    "en": "land",
+    "cz": "pevnina",
+    "img": "image/pevnina__land.png"
+  },
+  {
+    "en": "Moon",
+    "cz": "měsíc",
+    "img": "image/mesic__moon.png"
+  },
+  {
+    "en": "river",
+    "cz": "řeka",
+    "img": "image/reka__river.png"
+  },
+  {
+    "en": "sea",
+    "cz": "moře",
+    "img": "image/more__sea.png"
+  },
+  {
+    "en": "sun",
+    "cz": "slunce",
+    "img": "image/slunce__sun.png"
+  },
+  {
+    "en": "mountain",
+    "cz": "pohoří",
+    "img": "image/pohori__mountain.png"
+  },
+  {
+    "en": "waterfall",
+    "cz": "vodopád",
+    "img": "image/vodopad__waterfall.png"
+  },
+  {
+    "en": "shore",
+    "cz": "břeh",
+    "img": "image/breh__shore.png"
+  },
+  {
+    "en": "reef",
+    "cz": "útes",
+    "img": "image/utes__reef.png"
+  },
+  {
+    "en": "archipelago",
+    "cz": "souostroví",
+    "img": "image/souostrovi__archipelago.png"
+  },
+  {
+    "en": "glacier",
+    "cz": "ledovec",
+    "img": "image/ledovec__glacier.png"
+  },
+  {
+    "en": "peninsula",
+    "cz": "poloostrov",
+    "img": "image/poloostrov__peninsula.png"
+  },
+  {
+    "en": "ocean",
+    "cz": "oceán",
+    "img": "image/ocean__ocean.png"
+  },
+  {
+    "en": "current",
+    "cz": "tok",
+    "img": "image/tok__current.png"
+  },
+  {
+    "en": "Africa",
+    "cz": "Afrika",
+    "img": "image/afrika__africa.png"
+  },
+  {
+    "en": "geography",
+    "cz": "geografie",
+    "img": "image/geografie__geography.png"
+  },
+  {
+    "en": "Europe",
+    "cz": "Evropa",
+    "img": "image/evropa__europe.png"
+  },
+  {
+    "en": "continent",
+    "cz": "kontinent",
+    "img": "image/kontinent__continent.png"
+  },
+  {
+    "en": "geology",
+    "cz": "geologie",
+    "img": "image/geologie__geology.png"
+  },
+  {
+    "en": "desert",
+    "cz": "poušť",
+    "img": "image/poust__desert.png"
+  },
+  {
+    "en": "Antarctica",
+    "cz": "Antarktida",
+    "img": "image/antarktida__antarctica.png"
+  },
+  {
+    "en": "volcano",
+    "cz": "sopka",
+    "img": "image/sopka__volcano.png"
+  },
+  {
+    "en": "Australia",
+    "cz": "Austrálie",
+    "img": "image/australie__australia.png"
+  },
+  {
+    "en": "cave",
+    "cz": "jeskyně",
+    "img": "image/jeskyne__cave.png"
+  },
+  {
+    "en": "dune",
+    "cz": "duna",
+    "img": "image/duna__dune.png"
+  },
+  {
+    "en": "seashore",
+    "cz": "mořské pobřeží",
+    "img": "image/morske_pobrezi__seashore.png"
+  },
+  {
+    "en": "ground",
+    "cz": "zemina",
+    "img": "image/zemina__ground.png"
+  },
+  {
+    "en": "latitude",
+    "cz": "zeměpisná šířka",
+    "img": "image/zemepisna_sirka__latitude.png"
+  },
+  {
+    "en": "angle",
+    "cz": "úhel",
+    "img": "image/uhel__angle.png"
+  },
+  {
+    "en": "circle",
+    "cz": "kruh",
+    "img": "image/kruh__circle.png"
+  },
+  {
+    "en": "decagon",
+    "cz": "desetiúhelník",
+    "img": "image/desetiuhelnik__decagon.png"
+  },
+  {
+    "en": "point",
+    "cz": "tečka",
+    "img": "image/tecka__point.png"
+  },
+  {
+    "en": "ellipsoid",
+    "cz": "elipsoid",
+    "img": "image/elipsoid__ellipsoid.png"
+  },
+  {
+    "en": "hyperbola",
+    "cz": "hyperbola",
+    "img": "image/hyperbola__hyperbola.png"
+  },
+  {
+    "en": "octahedron",
+    "cz": "osmistěn",
+    "img": "image/osmisten__octahedron.png"
+  },
+  {
+    "en": "parallel",
+    "cz": "rovnoběžný",
+    "img": "image/rovnobezny__parallel.png"
+  },
+  {
+    "en": "pentagon",
+    "cz": "pětiúhelník",
+    "img": "image/petiuhelnik__pentagon.png"
+  },
+  {
+    "en": "polygon",
+    "cz": "mnohoúhelník",
+    "img": "image/mnohouhelnik__polygon.png"
+  },
+  {
+    "en": "rectangle",
+    "cz": "pravoúhelník",
+    "img": "image/pravouhelnik__rectangle.png"
+  },
+  {
+    "en": "tetrahedron",
+    "cz": "čtyřstěn",
+    "img": "image/ctyrsten__tetrahedron.png"
+  },
+  {
+    "en": "torus",
+    "cz": "torus",
+    "img": "image/torus__torus.png"
+  },
+  {
+    "en": "triangle",
+    "cz": "trojúhelník",
+    "img": "image/trojuhelnik__triangle.png"
+  },
+  {
+    "en": "wedge",
+    "cz": "klín",
+    "img": "image/klin__wedge.png"
+  },
+  {
+    "en": "epicycloid",
+    "cz": "epicykloida",
+    "img": "image/epicykloida__epicycloid.png"
+  },
+  {
+    "en": "square",
+    "cz": "čtverec",
+    "img": "image/ctverec__square.png"
+  },
+  {
+    "en": "heptagon",
+    "cz": "sedmiúhelník",
+    "img": "image/sedmiuhelnik__heptagon.png"
+  },
+  {
+    "en": "octagon",
+    "cz": "osmiúhelník",
+    "img": "image/osmiuhelnik__octagon.png"
+  },
+  {
+    "en": "parabola",
+    "cz": "parabola",
+    "img": "image/parabola__parabola.png"
+  },
+  {
+    "en": "trapezoid",
+    "cz": "lichoběžník",
+    "img": "image/lichobeznik__trapezoid.png"
+  },
+  {
+    "en": "curve",
+    "cz": "křivka",
+    "img": "image/krivka__curve.png"
+  },
+  {
+    "en": "block",
+    "cz": "krychle",
+    "img": "image/krychle__block.png"
+  },
+  {
+    "en": "cone",
+    "cz": "kužel",
+    "img": "image/kuzel__cone.png"
+  },
+  {
+    "en": "cylinder",
+    "cz": "váleček",
+    "img": "image/valecek__cylinder.png"
+  },
+  {
+    "en": "wall",
+    "cz": "stěna",
+    "img": "image/stena__wall.png"
+  },
+  {
+    "en": "room",
+    "cz": "místnost",
+    "img": "image/mistnost__room.png"
+  },
+  {
+    "en": "roof",
+    "cz": "střecha",
+    "img": "image/strecha__roof.png"
+  },
+  {
+    "en": "workshop",
+    "cz": "dílna",
+    "img": "image/dilna__workshop.png"
+  },
+  {
+    "en": "garden",
+    "cz": "zahrada",
+    "img": "image/zahrada__garden.png"
+  },
+  {
+    "en": "bathroom",
+    "cz": "koupelna",
+    "img": "image/koupelna__bathroom.png"
+  },
+  {
+    "en": "toilet",
+    "cz": "záchod",
+    "img": "image/zachod__toilet.png"
+  },
+  {
+    "en": "hallway",
+    "cz": "chodba",
+    "img": "image/chodba__hallway.png"
+  },
+  {
+    "en": "kitchen",
+    "cz": "kuchyně",
+    "img": "image/kuchyne__kitchen.png"
+  },
+  {
+    "en": "stairway",
+    "cz": "schodiště",
+    "img": "image/schodiste__stairway.png"
+  },
+  {
+    "en": "brick",
+    "cz": "cihla",
+    "img": "image/cihla__brick.png"
+  },
+  {
+    "en": "floor",
+    "cz": "patro",
+    "img": "image/patro__floor.png"
+  },
+  {
+    "en": "floor",
+    "cz": "podlaha",
+    "img": "image/podlaha__floor.png"
+  },
+  {
+    "en": "step",
+    "cz": "schod",
+    "img": "image/schod__step.png"
+  },
+  {
+    "en": "fireplace",
+    "cz": "krb",
+    "img": "image/krb__fireplace.png"
+  },
+  {
+    "en": "gate",
+    "cz": "brána",
+    "img": "image/brana__gate.png"
+  },
+  {
+    "en": "ladder",
+    "cz": "žebřík",
+    "img": "image/zebrik__ladder.png"
+  },
+  {
+    "en": "candle",
+    "cz": "svíčka",
+    "img": "image/svicka__candle.png"
+  },
+  {
+    "en": "shrub",
+    "cz": "křoví",
+    "img": "image/krovi__shrub.png"
+  },
+  {
+    "en": "towel",
+    "cz": "ručník",
+    "img": "image/rucnik__towel.png"
+  },
+  {
+    "en": "pick",
+    "cz": "krumpáč",
+    "img": "image/krumpac__pick.png"
+  },
+  {
+    "en": "tap",
+    "cz": "kohoutek",
+    "img": "image/kohoutek__tap.png"
+  },
+  {
+    "en": "tile",
+    "cz": "obkládačka",
+    "img": "image/obkladacka__tile.png"
+  },
+  {
+    "en": "hammock",
+    "cz": "síť na spaní",
+    "img": "image/sit_na_spani__hammock.png"
+  },
+  {
+    "en": "toolbox",
+    "cz": "bedna na nářadí",
+    "img": "image/bedna_na_naradi__toolbox.png"
+  },
+  {
+    "en": "rake",
+    "cz": "hrábě",
+    "img": "image/hrabe__rake.png"
+  },
+  {
+    "en": "ladybug",
+    "cz": "slunéčko sedmitečné",
+    "img": "image/slunecko_sedmitecne__ladybug.png"
+  },
+  {
+    "en": "louse",
+    "cz": "veš",
+    "img": "image/ves__louse.png"
+  },
+  {
+    "en": "flea",
+    "cz": "blecha",
+    "img": "image/blecha__flea.png"
+  },
+  {
+    "en": "mosquito",
+    "cz": "moskyt",
+    "img": "image/moskyt__mosquito.png"
+  },
+  {
+    "en": "termite",
+    "cz": "termit",
+    "img": "image/termit__termite.png"
+  },
+  {
+    "en": "grasshopper",
+    "cz": "koník",
+    "img": "image/konik__grasshopper.png"
+  },
+  {
+    "en": "bug",
+    "cz": "hmyz",
+    "img": "image/hmyz__bug.png"
+  },
+  {
+    "en": "cicada",
+    "cz": "cikáda",
+    "img": "image/cikada__cicada.png"
+  },
+  {
+    "en": "mayfly",
+    "cz": "jepice",
+    "img": "image/jepice__mayfly.png"
+  },
+  {
+    "en": "ant lion",
+    "cz": "mravkolev",
+    "img": "image/mravkolev__ant_lion.png"
+  },
+  {
+    "en": "moth",
+    "cz": "můra",
+    "img": "image/mura__moth.png"
+  },
+  {
+    "en": "cockchafer",
+    "cz": "chroust",
+    "img": "image/chroust__cockchafer.png"
+  },
+  {
+    "en": "rove beetle",
+    "cz": "drabčíkovití",
+    "img": "image/drabcikoviti__rove_beetle.png"
+  },
+  {
+    "en": "wasp",
+    "cz": "vosa",
+    "img": "image/vosa__wasp.png"
+  },
+  {
+    "en": "hornet",
+    "cz": "sršeň",
+    "img": "image/srsen__hornet.png"
+  },
+  {
+    "en": "earwig",
+    "cz": "škvor",
+    "img": "image/skvor__earwig.png"
+  },
+  {
+    "en": "diamond",
+    "cz": "diamant",
+    "img": "image/diamant__diamond.png"
+  },
+  {
+    "en": "pearl",
+    "cz": "perla",
+    "img": "image/perla__pearl.png"
+  },
+  {
+    "en": "emerald",
+    "cz": "smaragd",
+    "img": "image/smaragd__emerald.png"
+  },
+  {
+    "en": "ruby",
+    "cz": "rubín",
+    "img": "image/rubin__ruby.png"
+  },
+  {
+    "en": "necklace",
+    "cz": "náhrdelník",
+    "img": "image/nahrdelnik__necklace.png"
+  },
+  {
+    "en": "amethyst",
+    "cz": "ametyst",
+    "img": "image/ametyst__amethyst.png"
+  },
+  {
+    "en": "sapphire",
+    "cz": "safír",
+    "img": "image/safir__sapphire.png"
+  },
+  {
+    "en": "aquamarine",
+    "cz": "akvamarín",
+    "img": "image/akvamarin__aquamarine.png"
+  },
+  {
+    "en": "jewelry",
+    "cz": "klenoty",
+    "img": "image/klenoty__jewelry.png"
+  },
+  {
+    "en": "jewel",
+    "cz": "skvost",
+    "img": "image/skvost__jewel.png"
+  },
+  {
+    "en": "jade",
+    "cz": "jadeit",
+    "img": "image/jadeit__jade.png"
+  },
+  {
+    "en": "tiara",
+    "cz": "tiára",
+    "img": "image/tiara__tiara.png"
+  },
+  {
+    "en": "amber",
+    "cz": "jantar",
+    "img": "image/jantar__amber.png"
+  },
+  {
+    "en": "beryl",
+    "cz": "beryl",
+    "img": "image/beryl__beryl.png"
+  },
+  {
+    "en": "crystal",
+    "cz": "křišťál",
+    "img": "image/kristal__crystal.png"
+  },
+  {
+    "en": "pendant",
+    "cz": "přívěsek",
+    "img": "image/privesek__pendant.png"
+  },
+  {
+    "en": "brooch",
+    "cz": "brož",
+    "img": "image/broz__brooch.png"
+  },
+  {
+    "en": "corkscrew",
+    "cz": "vývrtka",
+    "img": "image/vyvrtka__corkscrew.png"
+  },
+  {
+    "en": "pestle",
+    "cz": "palička",
+    "img": "image/palicka__pestle.png"
+  },
+  {
+    "en": "spatula",
+    "cz": "špachtle",
+    "img": "image/spachtle__spatula.png"
+  },
+  {
+    "en": "cooker",
+    "cz": "sporák",
+    "img": "image/sporak__cooker.png"
+  },
+  {
+    "en": "cook",
+    "cz": "kuchařka",
+    "img": "image/kucharka__cook.png"
+  },
+  {
+    "en": "garbage",
+    "cz": "odpadky",
+    "img": "image/odpadky__garbage.png"
+  },
+  {
+    "en": "casserole",
+    "cz": "kastrol",
+    "img": "image/kastrol__casserole.png"
+  },
+  {
+    "en": "can opener",
+    "cz": "otvírák",
+    "img": "image/otvirak__can_opener.png"
+  },
+  {
+    "en": "fork",
+    "cz": "vidlička",
+    "img": "image/vidlicka__fork.png"
+  },
+  {
+    "en": "knife",
+    "cz": "nůž",
+    "img": "image/nuz__knife.png"
+  },
+  {
+    "en": "napkin",
+    "cz": "ubrousek",
+    "img": "image/ubrousek__napkin.png"
+  },
+  {
+    "en": "spoon",
+    "cz": "lžíce",
+    "img": "image/lzice__spoon.png"
+  },
+  {
+    "en": "oven",
+    "cz": "trouba",
+    "img": "image/trouba__oven.png"
+  },
+  {
+    "en": "refrigerator",
+    "cz": "chladnička",
+    "img": "image/chladnicka__refrigerator.png"
+  },
+  {
+    "en": "cutlery",
+    "cz": "příbor",
+    "img": "image/pribor__cutlery.png"
+  },
+  {
+    "en": "funnel",
+    "cz": "trychtýř",
+    "img": "image/trychtyr__funnel.png"
+  },
+  {
+    "en": "grater",
+    "cz": "struhadlo",
+    "img": "image/struhadlo__grater.png"
+  },
+  {
+    "en": "mixer",
+    "cz": "mixér",
+    "img": "image/mixer__mixer.png"
+  },
+  {
+    "en": "rolling pin",
+    "cz": "váleček",
+    "img": "image/valecek__rolling_pin.png"
+  },
+  {
+    "en": "microwave",
+    "cz": "mikrovlnná trouba",
+    "img": "image/mikrovlnna_trouba__microwave.png"
+  },
+  {
+    "en": "bitumen",
+    "cz": "bitumen",
+    "img": "image/bitumen__bitumen.png"
+  },
+  {
+    "en": "plastic",
+    "cz": "umělá hmota",
+    "img": "image/umela_hmota__plastic.png"
+  },
+  {
+    "en": "denim",
+    "cz": "džínovina",
+    "img": "image/dzinovina__denim.png"
+  },
+  {
+    "en": "silk",
+    "cz": "hedvábí",
+    "img": "image/hedvabi__silk.png"
+  },
+  {
+    "en": "wool",
+    "cz": "vlna",
+    "img": "image/vlna__wool__2.png"
+  },
+  {
+    "en": "mineral",
+    "cz": "minerál",
+    "img": "image/mineral__mineral.png"
+  },
+  {
+    "en": "abrasive",
+    "cz": "brusivo",
+    "img": "image/brusivo__abrasive.png"
+  },
+  {
+    "en": "chemical",
+    "cz": "chemikálie",
+    "img": "image/chemikalie__chemical.png"
+  },
+  {
+    "en": "earth",
+    "cz": "zemina",
+    "img": "image/zemina__earth.png"
+  },
+  {
+    "en": "waste",
+    "cz": "odpad",
+    "img": "image/odpad__waste.png"
+  },
+  {
+    "en": "acid",
+    "cz": "kyselina",
+    "img": "image/kyselina__acid.png"
+  },
+  {
+    "en": "coal",
+    "cz": "uhlí",
+    "img": "image/uhli__coal.png"
+  },
+  {
+    "en": "dust",
+    "cz": "prach",
+    "img": "image/prach__dust.png"
+  },
+  {
+    "en": "cloth",
+    "cz": "látka",
+    "img": "image/latka__cloth.png"
+  },
+  {
+    "en": "fat",
+    "cz": "tuk",
+    "img": "image/tuk__fat.png"
+  },
+  {
+    "en": "glass",
+    "cz": "sklo",
+    "img": "image/sklo__glass.png"
+  },
+  {
+    "en": "ice",
+    "cz": "led",
+    "img": "image/led__ice.png"
+  },
+  {
+    "en": "ink",
+    "cz": "inkoust",
+    "img": "image/inkoust__ink.png"
+  },
+  {
+    "en": "iron",
+    "cz": "železo",
+    "img": "image/zelezo__iron.png"
+  },
+  {
+    "en": "leather",
+    "cz": "kůže",
+    "img": "image/kuze__leather.png"
+  },
+  {
+    "en": "matter",
+    "cz": "hmota",
+    "img": "image/hmota__matter.png"
+  },
+  {
+    "en": "metallic element",
+    "cz": "kov",
+    "img": "image/kov__metallic_element.png"
+  },
+  {
+    "en": "oil",
+    "cz": "ropa",
+    "img": "image/ropa__oil.png"
+  },
+  {
+    "en": "poison",
+    "cz": "jed",
+    "img": "image/jed__poison.png"
+  },
+  {
+    "en": "powder",
+    "cz": "prach",
+    "img": "image/prach__powder.png"
+  },
+  {
+    "en": "sand",
+    "cz": "písek",
+    "img": "image/pisek__sand.png"
+  },
+  {
+    "en": "soap",
+    "cz": "mýdlo",
+    "img": "image/mydlo__soap.png"
+  },
+  {
+    "en": "steel",
+    "cz": "ocel",
+    "img": "image/ocel__steel.png"
+  },
+  {
+    "en": "thread",
+    "cz": "vlákno",
+    "img": "image/vlakno__thread.png"
+  },
+  {
+    "en": "wax",
+    "cz": "vosk",
+    "img": "image/vosk__wax.png"
+  },
+  {
+    "en": "wood",
+    "cz": "dřevo",
+    "img": "image/drevo__wood.png"
+  },
+  {
+    "en": "glue",
+    "cz": "klíh",
+    "img": "image/klih__glue.png"
+  },
+  {
+    "en": "liquid",
+    "cz": "tekutina",
+    "img": "image/tekutina__liquid.png"
+  },
+  {
+    "en": "latex",
+    "cz": "latex",
+    "img": "image/latex__latex.png"
+  },
+  {
+    "en": "brass",
+    "cz": "mosaz",
+    "img": "image/mosaz__brass.png"
+  },
+  {
+    "en": "copper",
+    "cz": "měď",
+    "img": "image/med__copper.png"
+  },
+  {
+    "en": "gold",
+    "cz": "zlato",
+    "img": "image/zlato__gold.png"
+  },
+  {
+    "en": "silver",
+    "cz": "stříbro",
+    "img": "image/stribro__silver.png"
+  },
+  {
+    "en": "lead",
+    "cz": "olovo",
+    "img": "image/olovo__lead.png"
+  },
+  {
+    "en": "aluminum",
+    "cz": "hliník",
+    "img": "image/hlinik__aluminum.png"
+  },
+  {
+    "en": "americium",
+    "cz": "americium",
+    "img": "image/americium__americium.png"
+  },
+  {
+    "en": "beryllium",
+    "cz": "berylium",
+    "img": "image/berylium__beryllium.png"
+  },
+  {
+    "en": "bismuth",
+    "cz": "bismut",
+    "img": "image/bismut__bismuth.png"
+  },
+  {
+    "en": "cadmium",
+    "cz": "kadmium",
+    "img": "image/kadmium__cadmium.png"
+  },
+  {
+    "en": "calcium",
+    "cz": "vápník",
+    "img": "image/vapnik__calcium.png"
+  },
+  {
+    "en": "chromium",
+    "cz": "chrom",
+    "img": "image/chrom__chromium.png"
+  },
+  {
+    "en": "cobalt",
+    "cz": "kobalt",
+    "img": "image/kobalt__cobalt.png"
+  },
+  {
+    "en": "gallium",
+    "cz": "galium",
+    "img": "image/galium__gallium.png"
+  },
+  {
+    "en": "lithium",
+    "cz": "lithium",
+    "img": "image/lithium__lithium.png"
+  },
+  {
+    "en": "manganese",
+    "cz": "mangan",
+    "img": "image/mangan__manganese.png"
+  },
+  {
+    "en": "mercury",
+    "cz": "rtuť",
+    "img": "image/rtut__mercury.png"
+  },
+  {
+    "en": "tin",
+    "cz": "cín",
+    "img": "image/cin__tin.png"
+  },
+  {
+    "en": "titanium",
+    "cz": "titan",
+    "img": "image/titan__titanium.png"
+  },
+  {
+    "en": "tungsten",
+    "cz": "wolfram",
+    "img": "image/wolfram__tungsten.png"
+  },
+  {
+    "en": "uranium",
+    "cz": "uran",
+    "img": "image/uran__uranium.png"
+  },
+  {
+    "en": "vanadium",
+    "cz": "vanad",
+    "img": "image/vanad__vanadium.png"
+  },
+  {
+    "en": "zinc",
+    "cz": "zinek",
+    "img": "image/zinek__zinc.png"
+  },
+  {
+    "en": "amalgam",
+    "cz": "amalgám",
+    "img": "image/amalgam__amalgam.png"
+  },
+  {
+    "en": "bazooka",
+    "cz": "pancéřová pěst",
+    "img": "image/pancerova_pest__bazooka.png"
+  },
+  {
+    "en": "dynamite",
+    "cz": "dynamit",
+    "img": "image/dynamit__dynamite.png"
+  },
+  {
+    "en": "war",
+    "cz": "válka",
+    "img": "image/valka__war.png"
+  },
+  {
+    "en": "plane",
+    "cz": "letadlo",
+    "img": "image/letadlo__plane.png"
+  },
+  {
+    "en": "aircraft",
+    "cz": "letadlo",
+    "img": "image/letadlo__aircraft.png"
+  },
+  {
+    "en": "airfield",
+    "cz": "letiště",
+    "img": "image/letiste__airfield.png"
+  },
+  {
+    "en": "pilot",
+    "cz": "pilot",
+    "img": "image/pilot__pilot.png"
+  },
+  {
+    "en": "ammunition",
+    "cz": "střelivo",
+    "img": "image/strelivo__ammunition.png"
+  },
+  {
+    "en": "date",
+    "cz": "schůzka",
+    "img": "image/schuzka__date.png"
+  },
+  {
+    "en": "weapon",
+    "cz": "zbraň",
+    "img": "image/zbran__weapon.png"
+  },
+  {
+    "en": "armor",
+    "cz": "brnění",
+    "img": "image/brneni__armor.png"
+  },
+  {
+    "en": "tank",
+    "cz": "tank",
+    "img": "image/tank__tank.png"
+  },
+  {
+    "en": "army",
+    "cz": "armáda",
+    "img": "image/armada__army.png"
+  },
+  {
+    "en": "artillery",
+    "cz": "dělostřelectvo",
+    "img": "image/delostrelectvo__artillery.png"
+  },
+  {
+    "en": "fighter",
+    "cz": "stíhačka",
+    "img": "image/stihacka__fighter.png"
+  },
+  {
+    "en": "government",
+    "cz": "vláda",
+    "img": "image/vlada__government.png"
+  },
+  {
+    "en": "barrel",
+    "cz": "hlaveň",
+    "img": "image/hlaven__barrel.png"
+  },
+  {
+    "en": "battle",
+    "cz": "bitva",
+    "img": "image/bitva__battle.png"
+  },
+  {
+    "en": "bayonet",
+    "cz": "bajonet",
+    "img": "image/bajonet__bayonet.png"
+  },
+  {
+    "en": "camp",
+    "cz": "tábor",
+    "img": "image/tabor__camp.png"
+  },
+  {
+    "en": "sword",
+    "cz": "meč",
+    "img": "image/mec__sword.png"
+  },
+  {
+    "en": "blockade",
+    "cz": "blokáda",
+    "img": "image/blokada__blockade.png"
+  },
+  {
+    "en": "bomb",
+    "cz": "bomba",
+    "img": "image/bomba__bomb.png"
+  },
+  {
+    "en": "bullet",
+    "cz": "projektil",
+    "img": "image/projektil__bullet.png"
+  },
+  {
+    "en": "target",
+    "cz": "terč",
+    "img": "image/terc__target.png"
+  },
+  {
+    "en": "disguise",
+    "cz": "maskování",
+    "img": "image/maskovani__disguise.png"
+  },
+  {
+    "en": "cannon",
+    "cz": "dělo",
+    "img": "image/delo__cannon.png"
+  },
+  {
+    "en": "chaplain",
+    "cz": "kaplan",
+    "img": "image/kaplan__chaplain.png"
+  },
+  {
+    "en": "helicopter",
+    "cz": "helikoptéra",
+    "img": "image/helikoptera__helicopter.png"
+  },
+  {
+    "en": "secret",
+    "cz": "tajný",
+    "img": "image/tajny__secret.png"
+  },
+  {
+    "en": "commando",
+    "cz": "komando",
+    "img": "image/komando__commando.png"
+  },
+  {
+    "en": "dead",
+    "cz": "mrtvý",
+    "img": "image/mrtvy__dead.png"
+  },
+  {
+    "en": "diver",
+    "cz": "potápěč",
+    "img": "image/potapec__diver.png"
+  },
+  {
+    "en": "fleet",
+    "cz": "flotila",
+    "img": "image/flotila__fleet.png"
+  },
+  {
+    "en": "infantry",
+    "cz": "pěchota",
+    "img": "image/pechota__infantry.png"
+  },
+  {
+    "en": "formation",
+    "cz": "formace",
+    "img": "image/formace__formation.png"
+  },
+  {
+    "en": "general",
+    "cz": "generál",
+    "img": "image/general__general.png"
+  },
+  {
+    "en": "hydrogen bomb",
+    "cz": "vodíková bomba",
+    "img": "image/vodikova_bomba__hydrogen_bomb.png"
+  },
+  {
+    "en": "grenade",
+    "cz": "granát",
+    "img": "image/granat__grenade.png"
+  },
+  {
+    "en": "gun",
+    "cz": "zbraň",
+    "img": "image/zbran__gun.png"
+  },
+  {
+    "en": "pistol",
+    "cz": "pistole",
+    "img": "image/pistole__pistol.png"
+  },
+  {
+    "en": "mortar",
+    "cz": "houfnice",
+    "img": "image/houfnice__mortar.png"
+  },
+  {
+    "en": "informant",
+    "cz": "informátor",
+    "img": "image/informator__informant.png"
+  },
+  {
+    "en": "line",
+    "cz": "linie",
+    "img": "image/linie__line.png"
+  },
+  {
+    "en": "tactics",
+    "cz": "taktika",
+    "img": "image/taktika__tactics.png"
+  },
+  {
+    "en": "basalt",
+    "cz": "čedič",
+    "img": "image/cedic__basalt.png"
+  },
+  {
+    "en": "chalcopyrite",
+    "cz": "chalkopyrit",
+    "img": "image/chalkopyrit__chalcopyrite.png"
+  },
+  {
+    "en": "cinnabar",
+    "cz": "cinabarit",
+    "img": "image/cinabarit__cinnabar.png"
+  },
+  {
+    "en": "crystal",
+    "cz": "krystal",
+    "img": "image/krystal__crystal.png"
+  },
+  {
+    "en": "spodumene",
+    "cz": "spodumen",
+    "img": "image/spodumen__spodumene.png"
+  },
+  {
+    "en": "stone",
+    "cz": "kámen",
+    "img": "image/kamen__stone.png"
+  },
+  {
+    "en": "anthophyllite",
+    "cz": "antofylit",
+    "img": "image/antofylit__anthophyllite.png"
+  },
+  {
+    "en": "bagpipe",
+    "cz": "dudy",
+    "img": "image/dudy__bagpipe.png"
+  },
+  {
+    "en": "kettledrum",
+    "cz": "tympán",
+    "img": "image/tympan__kettledrum.png"
+  },
+  {
+    "en": "violin",
+    "cz": "housle",
+    "img": "image/housle__violin.png"
+  },
+  {
+    "en": "piano",
+    "cz": "klavír",
+    "img": "image/klavir__piano.png"
+  },
+  {
+    "en": "guitar",
+    "cz": "kytara",
+    "img": "image/kytara__guitar.png"
+  },
+  {
+    "en": "drum",
+    "cz": "buben",
+    "img": "image/buben__drum.png"
+  },
+  {
+    "en": "clarinet",
+    "cz": "klarinet",
+    "img": "image/klarinet__clarinet.png"
+  },
+  {
+    "en": "trumpet",
+    "cz": "trumpeta",
+    "img": "image/trumpeta__trumpet.png"
+  },
+  {
+    "en": "musician",
+    "cz": "muzikant",
+    "img": "image/muzikant__musician.png"
+  },
+  {
+    "en": "harp",
+    "cz": "harfa",
+    "img": "image/harfa__harp.png"
+  },
+  {
+    "en": "flute",
+    "cz": "flétna",
+    "img": "image/fletna__flute.png"
+  },
+  {
+    "en": "ballet",
+    "cz": "balet",
+    "img": "image/balet__ballet.png"
+  },
+  {
+    "en": "oboe",
+    "cz": "hoboj",
+    "img": "image/hoboj__oboe.png"
+  },
+  {
+    "en": "sax",
+    "cz": "saxofon",
+    "img": "image/saxofon__sax.png"
+  },
+  {
+    "en": "viola",
+    "cz": "viola",
+    "img": "image/viola__viola.png"
+  },
+  {
+    "en": "bassoon",
+    "cz": "fagot",
+    "img": "image/fagot__bassoon.png"
+  },
+  {
+    "en": "trombone",
+    "cz": "pozoun",
+    "img": "image/pozoun__trombone.png"
+  },
+  {
+    "en": "singer",
+    "cz": "zpěvák",
+    "img": "image/zpevak__singer.png"
+  },
+  {
+    "en": "marimba",
+    "cz": "xylofon",
+    "img": "image/xylofon__marimba.png"
+  },
+  {
+    "en": "electric guitar",
+    "cz": "elektrická kytara",
+    "img": "image/elektricka_kytara__electric_guitar.png"
+  },
+  {
+    "en": "lute",
+    "cz": "loutna",
+    "img": "image/loutna__lute.png"
+  },
+  {
+    "en": "double bass",
+    "cz": "kontrabas",
+    "img": "image/kontrabas__double_bass.png"
+  },
+  {
+    "en": "tuba",
+    "cz": "tuba",
+    "img": "image/tuba__tuba.png"
+  },
+  {
+    "en": "harmonica",
+    "cz": "harmonika",
+    "img": "image/harmonika__harmonica.png"
+  },
+  {
+    "en": "lyre",
+    "cz": "lyra",
+    "img": "image/lyra__lyre.png"
+  },
+  {
+    "en": "banjo",
+    "cz": "banjo",
+    "img": "image/banjo__banjo.png"
+  },
+  {
+    "en": "tambourine",
+    "cz": "tamburína",
+    "img": "image/tamburina__tambourine.png"
+  },
+  {
+    "en": "gong",
+    "cz": "gong",
+    "img": "image/gong__gong.png"
+  },
+  {
+    "en": "recorder",
+    "cz": "zobcová flétna",
+    "img": "image/zobcova_fletna__recorder.png"
+  },
+  {
+    "en": "sitar",
+    "cz": "sitar",
+    "img": "image/sitar__sitar.png"
+  },
+  {
+    "en": "ocarina",
+    "cz": "okarína",
+    "img": "image/okarina__ocarina.png"
+  },
+  {
+    "en": "uke",
+    "cz": "ukulele",
+    "img": "image/ukulele__uke.png"
+  },
+  {
+    "en": "zither",
+    "cz": "citera",
+    "img": "image/citera__zither.png"
+  },
+  {
+    "en": "vibraphone",
+    "cz": "vibrafon",
+    "img": "image/vibrafon__vibraphone.png"
+  },
+  {
+    "en": "piccolo",
+    "cz": "pikola",
+    "img": "image/pikola__piccolo.png"
+  },
+  {
+    "en": "kazoo",
+    "cz": "dětská hudební hračka",
+    "img": "image/detska_hudebni_hracka__kazoo.png"
+  },
+  {
+    "en": "euphonium",
+    "cz": "eufonium",
+    "img": "image/eufonium__euphonium.png"
+  },
+  {
+    "en": "accordion",
+    "cz": "akordeon",
+    "img": "image/akordeon__accordion.png"
+  },
+  {
+    "en": "balalaika",
+    "cz": "balalajka",
+    "img": "image/balalajka__balalaika.png"
+  },
+  {
+    "en": "baton",
+    "cz": "taktovka",
+    "img": "image/taktovka__baton.png"
+  },
+  {
+    "en": "bell",
+    "cz": "zvon",
+    "img": "image/zvon__bell.png"
+  },
+  {
+    "en": "castanets",
+    "cz": "kastaněty",
+    "img": "image/kastanety__castanets.png"
+  },
+  {
+    "en": "bugle",
+    "cz": "polnice",
+    "img": "image/polnice__bugle.png"
+  },
+  {
+    "en": "cello",
+    "cz": "violoncello",
+    "img": "image/violoncello__cello.png"
+  },
+  {
+    "en": "clef",
+    "cz": "notový klíč",
+    "img": "image/notovy_klic__clef.png"
+  },
+  {
+    "en": "concertina",
+    "cz": "harmonika",
+    "img": "image/harmonika__concertina.png"
+  },
+  {
+    "en": "centaur",
+    "cz": "kentaur",
+    "img": "image/kentaur__centaur.png"
+  },
+  {
+    "en": "Harpy",
+    "cz": "harpyje",
+    "img": "image/harpyje__harpy.png"
+  },
+  {
+    "en": "nymph",
+    "cz": "nymfa",
+    "img": "image/nymfa__nymph.png"
+  },
+  {
+    "en": "Hermes",
+    "cz": "Hermés",
+    "img": "image/hermes__hermes.png"
+  },
+  {
+    "en": "bogeyman",
+    "cz": "strašidlo",
+    "img": "image/strasidlo__bogeyman.png"
+  },
+  {
+    "en": "devil",
+    "cz": "čert",
+    "img": "image/cert__devil.png"
+  },
+  {
+    "en": "dragon",
+    "cz": "drak",
+    "img": "image/drak__dragon.png"
+  },
+  {
+    "en": "enchantress",
+    "cz": "čarodějnice",
+    "img": "image/carodejnice__enchantress.png"
+  },
+  {
+    "en": "fairy",
+    "cz": "skřítek",
+    "img": "image/skritek__fairy.png"
+  },
+  {
+    "en": "ghost",
+    "cz": "strašidlo",
+    "img": "image/strasidlo__ghost.png"
+  },
+  {
+    "en": "gryphon",
+    "cz": "gryf",
+    "img": "image/gryf__gryphon.png"
+  },
+  {
+    "en": "hero",
+    "cz": "hrdina",
+    "img": "image/hrdina__hero.png"
+  },
+  {
+    "en": "vampire",
+    "cz": "upír",
+    "img": "image/upir__vampire.png"
+  },
+  {
+    "en": "leviathan",
+    "cz": "monstrum",
+    "img": "image/monstrum__leviathan.png"
+  },
+  {
+    "en": "zombie",
+    "cz": "zombie",
+    "img": "image/zombie__zombie.png"
+  },
+  {
+    "en": "magic",
+    "cz": "kouzla",
+    "img": "image/kouzla__magic.png"
+  },
+  {
+    "en": "sorcerer",
+    "cz": "kouzelník",
+    "img": "image/kouzelnik__sorcerer.png"
+  },
+  {
+    "en": "monster",
+    "cz": "nestvůra",
+    "img": "image/nestvura__monster.png"
+  },
+  {
+    "en": "ogre",
+    "cz": "obr",
+    "img": "image/obr__ogre.png"
+  },
+  {
+    "en": "unicorn",
+    "cz": "jednorožec",
+    "img": "image/jednorozec__unicorn.png"
+  },
+  {
+    "en": "Aphrodite",
+    "cz": "Afrodita",
+    "img": "image/afrodita__aphrodite.png"
+  },
+  {
+    "en": "avalanche",
+    "cz": "lavina",
+    "img": "image/lavina__avalanche.png"
+  },
+  {
+    "en": "typhoon",
+    "cz": "tajfun",
+    "img": "image/tajfun__typhoon.png"
+  },
+  {
+    "en": "tsunami",
+    "cz": "tsunami",
+    "img": "image/tsunami__tsunami.png"
+  },
+  {
+    "en": "lightning",
+    "cz": "blesk",
+    "img": "image/blesk__lightning.png"
+  },
+  {
+    "en": "geyser",
+    "cz": "gejzír",
+    "img": "image/gejzir__geyser.png"
+  },
+  {
+    "en": "evolution",
+    "cz": "evoluce",
+    "img": "image/evoluce__evolution.png"
+  },
+  {
+    "en": "air",
+    "cz": "vzduch",
+    "img": "image/vzduch__air.png"
+  },
+  {
+    "en": "flood",
+    "cz": "potopa",
+    "img": "image/potopa__flood.png"
+  },
+  {
+    "en": "animal",
+    "cz": "zvíře",
+    "img": "image/zvire__animal.png"
+  },
+  {
+    "en": "aurora",
+    "cz": "polární záře",
+    "img": "image/polarni_zare__aurora.png"
+  },
+  {
+    "en": "dawn",
+    "cz": "úsvit",
+    "img": "image/usvit__dawn.png"
+  },
+  {
+    "en": "bacteria",
+    "cz": "baktérie",
+    "img": "image/bakterie__bacteria.png"
+  },
+  {
+    "en": "birth",
+    "cz": "narození",
+    "img": "image/narozeni__birth.png"
+  },
+  {
+    "en": "bog",
+    "cz": "bažina",
+    "img": "image/bazina__bog.png"
+  },
+  {
+    "en": "branch",
+    "cz": "větev",
+    "img": "image/vetev__branch.png"
+  },
+  {
+    "en": "brook",
+    "cz": "potok",
+    "img": "image/potok__brook.png"
+  },
+  {
+    "en": "cell",
+    "cz": "buňka",
+    "img": "image/bunka__cell.png"
+  },
+  {
+    "en": "corrosion",
+    "cz": "koroze",
+    "img": "image/koroze__corrosion.png"
+  },
+  {
+    "en": "twilight",
+    "cz": "setmění",
+    "img": "image/setmeni__twilight.png"
+  },
+  {
+    "en": "stream",
+    "cz": "proud",
+    "img": "image/proud__stream.png"
+  },
+  {
+    "en": "dam",
+    "cz": "hráz",
+    "img": "image/hraz__dam.png"
+  },
+  {
+    "en": "death",
+    "cz": "úmrtí",
+    "img": "image/umrti__death.png"
+  },
+  {
+    "en": "erosion",
+    "cz": "eroze",
+    "img": "image/eroze__erosion.png"
+  },
+  {
+    "en": "volcanic eruption",
+    "cz": "erupce",
+    "img": "image/erupce__volcanic_eruption.png"
+  },
+  {
+    "en": "fire",
+    "cz": "požár",
+    "img": "image/pozar__fire.png"
+  },
+  {
+    "en": "fire",
+    "cz": "oheň",
+    "img": "image/ohen__fire.png"
+  },
+  {
+    "en": "plant",
+    "cz": "rostlina",
+    "img": "image/rostlina__plant.png"
+  },
+  {
+    "en": "leaf",
+    "cz": "list",
+    "img": "image/list__leaf.png"
+  },
+  {
+    "en": "atom",
+    "cz": "atom",
+    "img": "image/atom__atom.png"
+  },
+  {
+    "en": "magnet",
+    "cz": "magnet",
+    "img": "image/magnet__magnet.png"
+  },
+  {
+    "en": "quark",
+    "cz": "kvark",
+    "img": "image/kvark__quark.png"
+  },
+  {
+    "en": "adhesiveness",
+    "cz": "přilnavost",
+    "img": "image/prilnavost__adhesiveness.png"
+  },
+  {
+    "en": "balance",
+    "cz": "rovnováha",
+    "img": "image/rovnovaha__balance.png"
+  },
+  {
+    "en": "center of mass",
+    "cz": "těžiště",
+    "img": "image/teziste__center_of_mass.png"
+  },
+  {
+    "en": "compass",
+    "cz": "buzola",
+    "img": "image/buzola__compass.png"
+  },
+  {
+    "en": "level",
+    "cz": "vodováha",
+    "img": "image/vodovaha__level.png"
+  },
+  {
+    "en": "microscope",
+    "cz": "mikroskop",
+    "img": "image/mikroskop__microscope.png"
+  },
+  {
+    "en": "movement",
+    "cz": "pohyb",
+    "img": "image/pohyb__movement.png"
+  },
+  {
+    "en": "wave",
+    "cz": "vlna",
+    "img": "image/vlna__wave.png"
+  },
+  {
+    "en": "physics",
+    "cz": "fyzika",
+    "img": "image/fyzika__physics.png"
+  },
+  {
+    "en": "optics",
+    "cz": "optika",
+    "img": "image/optika__optics.png"
+  },
+  {
+    "en": "plasma",
+    "cz": "plazma",
+    "img": "image/plazma__plasma.png"
+  },
+  {
+    "en": "radiation",
+    "cz": "radioaktivita",
+    "img": "image/radioaktivita__radiation.png"
+  },
+  {
+    "en": "reflection",
+    "cz": "reflekce",
+    "img": "image/reflekce__reflection.png"
+  },
+  {
+    "en": "sound",
+    "cz": "zvuk",
+    "img": "image/zvuk__sound.png"
+  },
+  {
+    "en": "smoke",
+    "cz": "kouř",
+    "img": "image/kour__smoke.png"
+  },
+  {
+    "en": "steam",
+    "cz": "pára",
+    "img": "image/para__steam.png"
+  },
+  {
+    "en": "bomber",
+    "cz": "bombardovací letoun",
+    "img": "image/bombardovaci_letoun__bomber.png"
+  },
+  {
+    "en": "glider",
+    "cz": "kluzák",
+    "img": "image/kluzak__glider.png"
+  },
+  {
+    "en": "zeppelin",
+    "cz": "vzducholoď",
+    "img": "image/vzducholod__zeppelin.png"
+  },
+  {
+    "en": "seaplane",
+    "cz": "hydroplán",
+    "img": "image/hydroplan__seaplane.png"
+  },
+  {
+    "en": "chives",
+    "cz": "pažitka",
+    "img": "image/pazitka__chives.png"
+  },
+  {
+    "en": "ivy",
+    "cz": "břečťan",
+    "img": "image/brectan__ivy.png"
+  },
+  {
+    "en": "juniper",
+    "cz": "jalovec",
+    "img": "image/jalovec__juniper.png"
+  },
+  {
+    "en": "larch",
+    "cz": "modřín",
+    "img": "image/modrin__larch.png"
+  },
+  {
+    "en": "leek",
+    "cz": "pórek",
+    "img": "image/porek__leek.png"
+  },
+  {
+    "en": "lettuce",
+    "cz": "hlávkový salát",
+    "img": "image/hlavkovy_salat__lettuce.png"
+  },
+  {
+    "en": "lichen",
+    "cz": "lišejník",
+    "img": "image/lisejnik__lichen.png"
+  },
+  {
+    "en": "licorice",
+    "cz": "lékořice lysá",
+    "img": "image/lekorice_lysa__licorice.png"
+  },
+  {
+    "en": "mistletoe",
+    "cz": "jmelí",
+    "img": "image/jmeli__mistletoe.png"
+  },
+  {
+    "en": "nettle",
+    "cz": "kopřiva",
+    "img": "image/kopriva__nettle.png"
+  },
+  {
+    "en": "oak",
+    "cz": "dub",
+    "img": "image/dub__oak.png"
+  },
+  {
+    "en": "onion",
+    "cz": "cibule",
+    "img": "image/cibule__onion.png"
+  },
+  {
+    "en": "palm",
+    "cz": "palma",
+    "img": "image/palma__palm.png"
+  },
+  {
+    "en": "parsley",
+    "cz": "petržel",
+    "img": "image/petrzel__parsley.png"
+  },
+  {
+    "en": "parsnip",
+    "cz": "pastiňák",
+    "img": "image/pastinak__parsnip.png"
+  },
+  {
+    "en": "pea",
+    "cz": "hrách",
+    "img": "image/hrach__pea.png"
+  },
+  {
+    "en": "peanut",
+    "cz": "podzemnice olejná",
+    "img": "image/podzemnice_olejna__peanut.png"
+  },
+  {
+    "en": "peppermint",
+    "cz": "máta peprná",
+    "img": "image/mata_peprna__peppermint.png"
+  },
+  {
+    "en": "paprika",
+    "cz": "paprika",
+    "img": "image/paprika__paprika.png"
+  },
+  {
+    "en": "poplar",
+    "cz": "topol",
+    "img": "image/topol__poplar.png"
+  },
+  {
+    "en": "reed",
+    "cz": "rákos",
+    "img": "image/rakos__reed.png"
+  },
+  {
+    "en": "rowan",
+    "cz": "jeřabina",
+    "img": "image/jerabina__rowan.png"
+  },
+  {
+    "en": "seaweed",
+    "cz": "mořská řasa",
+    "img": "image/morska_rasa__seaweed.png"
+  },
+  {
+    "en": "sesame",
+    "cz": "sezam",
+    "img": "image/sezam__sesame.png"
+  },
+  {
+    "en": "shamrock",
+    "cz": "jetel",
+    "img": "image/jetel__shamrock.png"
+  },
+  {
+    "en": "blackthorn",
+    "cz": "trnka",
+    "img": "image/trnka__blackthorn.png"
+  },
+  {
+    "en": "sorghum",
+    "cz": "čirok",
+    "img": "image/cirok__sorghum.png"
+  },
+  {
+    "en": "oxalis",
+    "cz": "šťovík",
+    "img": "image/stovik__oxalis.png"
+  },
+  {
+    "en": "spearmint",
+    "cz": "máta klasnatá",
+    "img": "image/mata_klasnata__spearmint.png"
+  },
+  {
+    "en": "tea",
+    "cz": "čaj",
+    "img": "image/caj__tea__2.png"
+  },
+  {
+    "en": "thistle",
+    "cz": "bodlák",
+    "img": "image/bodlak__thistle.png"
+  },
+  {
+    "en": "tomato",
+    "cz": "rajče",
+    "img": "image/rajce__tomato.png"
+  },
+  {
+    "en": "leader",
+    "cz": "vůdce",
+    "img": "image/vudce__leader.png"
+  },
+  {
+    "en": "judge",
+    "cz": "soudce",
+    "img": "image/soudce__judge.png"
+  },
+  {
+    "en": "secretary",
+    "cz": "sekretářka",
+    "img": "image/sekretarka__secretary.png"
+  },
+  {
+    "en": "servant",
+    "cz": "služebník",
+    "img": "image/sluzebnik__servant.png"
+  },
+  {
+    "en": "doctor",
+    "cz": "doktor",
+    "img": "image/doktor__doctor.png"
+  },
+  {
+    "en": "actor",
+    "cz": "herec",
+    "img": "image/herec__actor.png"
+  },
+  {
+    "en": "teacher",
+    "cz": "instruktor",
+    "img": "image/instruktor__teacher.png"
+  },
+  {
+    "en": "student",
+    "cz": "student",
+    "img": "image/student__student.png"
+  },
+  {
+    "en": "writer",
+    "cz": "spisovatel",
+    "img": "image/spisovatel__writer.png"
+  },
+  {
+    "en": "soldier",
+    "cz": "voják",
+    "img": "image/vojak__soldier.png"
+  },
+  {
+    "en": "architect",
+    "cz": "architektka",
+    "img": "image/architektka__architect.png"
+  },
+  {
+    "en": "waiter",
+    "cz": "číšník",
+    "img": "image/cisnik__waiter.png"
+  },
+  {
+    "en": "journalist",
+    "cz": "žurnalista",
+    "img": "image/zurnalista__journalist.png"
+  },
+  {
+    "en": "fireman",
+    "cz": "požárník",
+    "img": "image/pozarnik__fireman.png"
+  },
+  {
+    "en": "policeman",
+    "cz": "policista",
+    "img": "image/policista__policeman.png"
+  },
+  {
+    "en": "politician",
+    "cz": "politik",
+    "img": "image/politik__politician.png"
+  },
+  {
+    "en": "nurse",
+    "cz": "ošetřovatelka",
+    "img": "image/osetrovatelka__nurse.png"
+  },
+  {
+    "en": "photographer",
+    "cz": "fotograf",
+    "img": "image/fotograf__photographer.png"
+  },
+  {
+    "en": "butcher",
+    "cz": "řezník",
+    "img": "image/reznik__butcher.png"
+  },
+  {
+    "en": "baker",
+    "cz": "pekař",
+    "img": "image/pekar__baker.png"
+  },
+  {
+    "en": "mailman",
+    "cz": "listonoš",
+    "img": "image/listonos__mailman.png"
+  },
+  {
+    "en": "actress",
+    "cz": "herečka",
+    "img": "image/herecka__actress.png"
+  },
+  {
+    "en": "guard",
+    "cz": "stráž",
+    "img": "image/straz__guard.png"
+  },
+  {
+    "en": "hairdresser",
+    "cz": "kadeřník",
+    "img": "image/kadernik__hairdresser.png"
+  },
+  {
+    "en": "cowboy",
+    "cz": "chovatel dobytka",
+    "img": "image/chovatel_dobytka__cowboy.png"
+  },
+  {
+    "en": "nanny",
+    "cz": "chůva",
+    "img": "image/chuva__nanny.png"
+  },
+  {
+    "en": "potter",
+    "cz": "hrnčíř",
+    "img": "image/hrncir__potter.png"
+  },
+  {
+    "en": "waitress",
+    "cz": "servírka",
+    "img": "image/servirka__waitress.png"
+  },
+  {
+    "en": "welder",
+    "cz": "svářeč",
+    "img": "image/svarec__welder.png"
+  },
+  {
+    "en": "lifeguard",
+    "cz": "plavčík",
+    "img": "image/plavcik__lifeguard.png"
+  },
+  {
+    "en": "acrobat",
+    "cz": "akrobat",
+    "img": "image/akrobat__acrobat.png"
+  },
+  {
+    "en": "stewardess",
+    "cz": "stevardka",
+    "img": "image/stevardka__stewardess.png"
+  },
+  {
+    "en": "alchemist",
+    "cz": "alchymista",
+    "img": "image/alchymista__alchemist.png"
+  },
+  {
+    "en": "maid",
+    "cz": "služebná",
+    "img": "image/sluzebna__maid.png"
+  },
+  {
+    "en": "archeologist",
+    "cz": "archeolog",
+    "img": "image/archeolog__archeologist.png"
+  },
+  {
+    "en": "archbishop",
+    "cz": "arcibiskup",
+    "img": "image/arcibiskup__archbishop.png"
+  },
+  {
+    "en": "athlete",
+    "cz": "sportovec",
+    "img": "image/sportovec__athlete.png"
+  },
+  {
+    "en": "mechanic",
+    "cz": "mechanik",
+    "img": "image/mechanik__mechanic.png"
+  },
+  {
+    "en": "bird of prey",
+    "cz": "dravec",
+    "img": "image/dravec__bird_of_prey.png"
+  },
+  {
+    "en": "secretary bird",
+    "cz": "hadilov písař",
+    "img": "image/hadilov_pisar__secretary_bird.png"
+  },
+  {
+    "en": "goshawk",
+    "cz": "jestřáb lesní",
+    "img": "image/jestrab_lesni__goshawk.png"
+  },
+  {
+    "en": "marsh hawk",
+    "cz": "moták pilich",
+    "img": "image/motak_pilich__marsh_hawk.png"
+  },
+  {
+    "en": "peregrine falcon",
+    "cz": "sokol stěhovavý",
+    "img": "image/sokol_stehovavy__peregrine_falcon.png"
+  },
+  {
+    "en": "gyrfalcon",
+    "cz": "raroh lovecký",
+    "img": "image/raroh_lovecky__gyrfalcon.png"
+  },
+  {
+    "en": "kestrel",
+    "cz": "poštolka",
+    "img": "image/postolka__kestrel.png"
+  },
+  {
+    "en": "Andean condor",
+    "cz": "Kondor andský",
+    "img": "image/kondor_andsky__andean_condor.png"
+  },
+  {
+    "en": "kite",
+    "cz": "luňák",
+    "img": "image/lunak__kite.png"
+  },
+  {
+    "en": "snake",
+    "cz": "had",
+    "img": "image/had__snake.png"
+  },
+  {
+    "en": "crocodile",
+    "cz": "krokodýl",
+    "img": "image/krokodyl__crocodile.png"
+  },
+  {
+    "en": "tortoise",
+    "cz": "želva",
+    "img": "image/zelva__tortoise.png"
+  },
+  {
+    "en": "lizard",
+    "cz": "ještěr",
+    "img": "image/jester__lizard.png"
+  },
+  {
+    "en": "cobra",
+    "cz": "kobra",
+    "img": "image/kobra__cobra.png"
+  },
+  {
+    "en": "turtle",
+    "cz": "želva",
+    "img": "image/zelva__turtle.png"
+  },
+  {
+    "en": "reptile",
+    "cz": "plaz",
+    "img": "image/plaz__reptile.png"
+  },
+  {
+    "en": "python",
+    "cz": "hroznýš",
+    "img": "image/hroznys__python.png"
+  },
+  {
+    "en": "rattlesnake",
+    "cz": "chřestýš",
+    "img": "image/chrestys__rattlesnake.png"
+  },
+  {
+    "en": "Komodo dragon",
+    "cz": "varan",
+    "img": "image/varan__komodo_dragon.png"
+  },
+  {
+    "en": "iguana",
+    "cz": "leguán",
+    "img": "image/leguan__iguana.png"
+  },
+  {
+    "en": "sea turtle",
+    "cz": "mořská želva",
+    "img": "image/morska_zelva__sea_turtle.png"
+  },
+  {
+    "en": "tuatara",
+    "cz": "hatérie novozélandská",
+    "img": "image/haterie_novozelandska__tuatara.png"
+  },
+  {
+    "en": "chameleon",
+    "cz": "chameleon",
+    "img": "image/chameleon__chameleon.png"
+  },
+  {
+    "en": "adder",
+    "cz": "zmije",
+    "img": "image/zmije__adder.png"
+  },
+  {
+    "en": "gecko",
+    "cz": "gekon",
+    "img": "image/gekon__gecko.png"
+  },
+  {
+    "en": "loggerhead",
+    "cz": "kareta",
+    "img": "image/kareta__loggerhead.png"
+  },
+  {
+    "en": "leatherback turtle",
+    "cz": "kožatka velká",
+    "img": "image/kozatka_velka__leatherback_turtle.png"
+  },
+  {
+    "en": "coral snake",
+    "cz": "korálovec",
+    "img": "image/koralovec__coral_snake.png"
+  },
+  {
+    "en": "hamadryad",
+    "cz": "kobra královská",
+    "img": "image/kobra_kralovska__hamadryad.png"
+  },
+  {
+    "en": "copperhead",
+    "cz": "ploskolebec",
+    "img": "image/ploskolebec__copperhead.png"
+  },
+  {
+    "en": "menu",
+    "cz": "jídelní lístek",
+    "img": "image/jidelni_listek__menu.png"
+  },
+  {
+    "en": "food",
+    "cz": "potravina",
+    "img": "image/potravina__food.png"
+  },
+  {
+    "en": "breakfast",
+    "cz": "snídaně",
+    "img": "image/snidane__breakfast.png"
+  },
+  {
+    "en": "pepper",
+    "cz": "pepř",
+    "img": "image/pepr__pepper.png"
+  },
+  {
+    "en": "pizza",
+    "cz": "pizza",
+    "img": "image/pizza__pizza.png"
+  },
+  {
+    "en": "olive",
+    "cz": "oliva",
+    "img": "image/oliva__olive.png"
+  },
+  {
+    "en": "dessert",
+    "cz": "dezert",
+    "img": "image/dezert__dessert.png"
+  },
+  {
+    "en": "spice",
+    "cz": "koření",
+    "img": "image/koreni__spice.png"
+  },
+  {
+    "en": "ashtray",
+    "cz": "popelník",
+    "img": "image/popelnik__ashtray.png"
+  },
+  {
+    "en": "chef",
+    "cz": "šéfkuchař",
+    "img": "image/sefkuchar__chef.png"
+  },
+  {
+    "en": "tablecloth",
+    "cz": "ubrus",
+    "img": "image/ubrus__tablecloth.png"
+  },
+  {
+    "en": "examination",
+    "cz": "zkouška",
+    "img": "image/zkouska__examination.png"
+  },
+  {
+    "en": "issue",
+    "cz": "problém",
+    "img": "image/problem__issue.png"
+  },
+  {
+    "en": "trouble",
+    "cz": "problém",
+    "img": "image/problem__trouble.png"
+  },
+  {
+    "en": "comparison",
+    "cz": "porovnání",
+    "img": "image/porovnani__comparison.png"
+  },
+  {
+    "en": "production",
+    "cz": "produkce",
+    "img": "image/produkce__production.png"
+  },
+  {
+    "en": "chemistry",
+    "cz": "chemie",
+    "img": "image/chemie__chemistry.png"
+  },
+  {
+    "en": "technology",
+    "cz": "technologie",
+    "img": "image/technologie__technology.png"
+  },
+  {
+    "en": "lab",
+    "cz": "laboratoř",
+    "img": "image/laborator__lab.png"
+  },
+  {
+    "en": "equation",
+    "cz": "rovnice",
+    "img": "image/rovnice__equation.png"
+  },
+  {
+    "en": "book",
+    "cz": "kniha",
+    "img": "image/kniha__book.png"
+  },
+  {
+    "en": "instrument",
+    "cz": "nástroj",
+    "img": "image/nastroj__instrument.png"
+  },
+  {
+    "en": "machine",
+    "cz": "stroj",
+    "img": "image/stroj__machine.png"
+  },
+  {
+    "en": "education",
+    "cz": "vzdělání",
+    "img": "image/vzdelani__education.png"
+  },
+  {
+    "en": "mathematics",
+    "cz": "matematika",
+    "img": "image/matematika__mathematics.png"
+  },
+  {
+    "en": "robot",
+    "cz": "robot",
+    "img": "image/robot__robot.png"
+  },
+  {
+    "en": "test",
+    "cz": "zkoušení",
+    "img": "image/zkouseni__test.png"
+  },
+  {
+    "en": "mechanism",
+    "cz": "mechanismus",
+    "img": "image/mechanismus__mechanism.png"
+  },
+  {
+    "en": "superconductivity",
+    "cz": "supravodivost",
+    "img": "image/supravodivost__superconductivity.png"
+  },
+  {
+    "en": "chart",
+    "cz": "tabulka",
+    "img": "image/tabulka__chart.png"
+  },
+  {
+    "en": "clone",
+    "cz": "klon",
+    "img": "image/klon__clone.png"
+  },
+  {
+    "en": "graph",
+    "cz": "graf",
+    "img": "image/graf__graph.png"
+  },
+  {
+    "en": "genetics",
+    "cz": "genetika",
+    "img": "image/genetika__genetics.png"
+  },
+  {
+    "en": "bowling",
+    "cz": "bowling",
+    "img": "image/bowling__bowling.png"
+  },
+  {
+    "en": "billiards",
+    "cz": "kulečník",
+    "img": "image/kulecnik__billiards.png"
+  },
+  {
+    "en": "badminton",
+    "cz": "badminton",
+    "img": "image/badminton__badminton.png"
+  },
+  {
+    "en": "tennis",
+    "cz": "tenis",
+    "img": "image/tenis__tennis.png"
+  },
+  {
+    "en": "tennis ball",
+    "cz": "tenisový míč",
+    "img": "image/tenisovy_mic__tennis_ball.png"
+  },
+  {
+    "en": "slalom",
+    "cz": "slalom",
+    "img": "image/slalom__slalom.png"
+  },
+  {
+    "en": "rock climbing",
+    "cz": "horolezectví",
+    "img": "image/horolezectvi__rock_climbing.png"
+  },
+  {
+    "en": "referee",
+    "cz": "rozhodčí",
+    "img": "image/rozhodci__referee.png"
+  },
+  {
+    "en": "racket",
+    "cz": "raketa",
+    "img": "image/raketa__racket.png"
+  },
+  {
+    "en": "contest",
+    "cz": "soutěž",
+    "img": "image/soutez__contest.png"
+  },
+  {
+    "en": "puck",
+    "cz": "puk",
+    "img": "image/puk__puck.png"
+  },
+  {
+    "en": "jump",
+    "cz": "skákat",
+    "img": "image/skakat__jump.png"
+  },
+  {
+    "en": "jump",
+    "cz": "skok",
+    "img": "image/skok__jump.png"
+  },
+  {
+    "en": "hurdle",
+    "cz": "překážka",
+    "img": "image/prekazka__hurdle.png"
+  },
+  {
+    "en": "hurdle race",
+    "cz": "překážkový běh",
+    "img": "image/prekazkovy_beh__hurdle_race.png"
+  },
+  {
+    "en": "gymnast",
+    "cz": "gymnasta",
+    "img": "image/gymnasta__gymnast.png"
+  },
+  {
+    "en": "goalkeeper",
+    "cz": "brankář",
+    "img": "image/brankar__goalkeeper.png"
+  },
+  {
+    "en": "golfer",
+    "cz": "golfista",
+    "img": "image/golfista__golfer.png"
+  },
+  {
+    "en": "golf course",
+    "cz": "golfové hřiště",
+    "img": "image/golfove_hriste__golf_course.png"
+  },
+  {
+    "en": "fencing",
+    "cz": "šerm",
+    "img": "image/serm__fencing.png"
+  },
+  {
+    "en": "bike",
+    "cz": "jízdní kolo",
+    "img": "image/jizdni_kolo__bike.png"
+  },
+  {
+    "en": "bat",
+    "cz": "pálka",
+    "img": "image/palka__bat.png"
+  },
+  {
+    "en": "cup",
+    "cz": "pohár",
+    "img": "image/pohar__cup.png"
+  },
+  {
+    "en": "forehand",
+    "cz": "forhend",
+    "img": "image/forhend__forehand.png"
+  },
+  {
+    "en": "gear",
+    "cz": "výstroj",
+    "img": "image/vystroj__gear.png"
+  },
+  {
+    "en": "baseball",
+    "cz": "baseball",
+    "img": "image/baseball__baseball.png"
+  },
+  {
+    "en": "basketball",
+    "cz": "košíková",
+    "img": "image/kosikova__basketball.png"
+  },
+  {
+    "en": "boxer",
+    "cz": "boxer",
+    "img": "image/boxer__boxer.png"
+  },
+  {
+    "en": "goal",
+    "cz": "gól",
+    "img": "image/gol__goal.png"
+  },
+  {
+    "en": "lacrosse",
+    "cz": "lakros",
+    "img": "image/lakros__lacrosse.png"
+  },
+  {
+    "en": "match",
+    "cz": "zápas",
+    "img": "image/zapas__match.png"
+  },
+  {
+    "en": "player",
+    "cz": "hráč",
+    "img": "image/hrac__player.png"
+  },
+  {
+    "en": "pole vault",
+    "cz": "skok o tyči",
+    "img": "image/skok_o_tyci__pole_vault.png"
+  },
+  {
+    "en": "protest",
+    "cz": "protest",
+    "img": "image/protest__protest.png"
+  },
+  {
+    "en": "run",
+    "cz": "běžet",
+    "img": "image/bezet__run.png"
+  },
+  {
+    "en": "winner",
+    "cz": "vítěz",
+    "img": "image/vitez__winner.png"
+  },
+  {
+    "en": "weightlift",
+    "cz": "vzpírání",
+    "img": "image/vzpirani__weightlift.png"
+  },
+  {
+    "en": "win",
+    "cz": "vítězství",
+    "img": "image/vitezstvi__win.png"
+  },
+  {
+    "en": "win",
+    "cz": "zvítězit",
+    "img": "image/zvitezit__win.png"
+  },
+  {
+    "en": "football",
+    "cz": "fotbal",
+    "img": "image/fotbal__football.png"
+  },
+  {
+    "en": "golf",
+    "cz": "golf",
+    "img": "image/golf__golf.png"
+  },
+  {
+    "en": "goal",
+    "cz": "cíl",
+    "img": "image/cil__goal.png"
+  },
+  {
+    "en": "competitor",
+    "cz": "rival",
+    "img": "image/rival__competitor.png"
+  },
+  {
+    "en": "broom",
+    "cz": "pometlo",
+    "img": "image/pometlo__broom.png"
+  },
+  {
+    "en": "vise",
+    "cz": "svěrák",
+    "img": "image/sverak__vise.png"
+  },
+  {
+    "en": "barrow",
+    "cz": "kolečko",
+    "img": "image/kolecko__barrow.png"
+  },
+  {
+    "en": "wagon",
+    "cz": "vůz",
+    "img": "image/vuz__wagon.png"
+  },
+  {
+    "en": "whistle",
+    "cz": "píšťala",
+    "img": "image/pistala__whistle.png"
+  },
+  {
+    "en": "whip",
+    "cz": "bič",
+    "img": "image/bic__whip.png"
+  },
+  {
+    "en": "whisk",
+    "cz": "šlehač",
+    "img": "image/slehac__whisk.png"
+  },
+  {
+    "en": "utensil",
+    "cz": "nářadí",
+    "img": "image/naradi__utensil.png"
+  },
+  {
+    "en": "screw",
+    "cz": "šroub",
+    "img": "image/sroub__screw.png"
+  },
+  {
+    "en": "screwdriver",
+    "cz": "šroubovák",
+    "img": "image/sroubovak__screwdriver.png"
+  },
+  {
+    "en": "scissors",
+    "cz": "nůžky",
+    "img": "image/nuzky__scissors.png"
+  },
+  {
+    "en": "scalpel",
+    "cz": "skalpel",
+    "img": "image/skalpel__scalpel.png"
+  },
+  {
+    "en": "rope",
+    "cz": "lano",
+    "img": "image/lano__rope.png"
+  },
+  {
+    "en": "putty knife",
+    "cz": "špachtle",
+    "img": "image/spachtle__putty_knife.png"
+  },
+  {
+    "en": "thumbtack",
+    "cz": "připínáček",
+    "img": "image/pripinacek__thumbtack.png"
+  },
+  {
+    "en": "paperclip",
+    "cz": "sponka",
+    "img": "image/sponka__paperclip.png"
+  },
+  {
+    "en": "pencil",
+    "cz": "tužka",
+    "img": "image/tuzka__pencil.png"
+  },
+  {
+    "en": "oar",
+    "cz": "veslo",
+    "img": "image/veslo__oar.png"
+  },
+  {
+    "en": "needle",
+    "cz": "jehlice",
+    "img": "image/jehlice__needle.png"
+  },
+  {
+    "en": "meat grinder",
+    "cz": "mlýnek na maso",
+    "img": "image/mlynek_na_maso__meat_grinder.png"
+  },
+  {
+    "en": "lighter",
+    "cz": "zapalovač",
+    "img": "image/zapalovac__lighter.png"
+  },
+  {
+    "en": "lens",
+    "cz": "čočka",
+    "img": "image/cocka__lens.png"
+  },
+  {
+    "en": "horseshoe",
+    "cz": "podkova",
+    "img": "image/podkova__horseshoe.png"
+  },
+  {
+    "en": "hourglass",
+    "cz": "přesýpací hodiny",
+    "img": "image/presypaci_hodiny__hourglass.png"
+  },
+  {
+    "en": "hook",
+    "cz": "háček",
+    "img": "image/hacek__hook.png"
+  },
+  {
+    "en": "hairbrush",
+    "cz": "kartáč na vlasy",
+    "img": "image/kartac_na_vlasy__hairbrush.png"
+  },
+  {
+    "en": "paintbrush",
+    "cz": "štětec",
+    "img": "image/stetec__paintbrush.png"
+  },
+  {
+    "en": "toothbrush",
+    "cz": "kartáček na zuby",
+    "img": "image/kartacek_na_zuby__toothbrush.png"
+  },
+  {
+    "en": "gasmask",
+    "cz": "plynová maska",
+    "img": "image/plynova_maska__gasmask.png"
+  },
+  {
+    "en": "hammer",
+    "cz": "kladívko",
+    "img": "image/kladivko__hammer.png"
+  },
+  {
+    "en": "nail",
+    "cz": "hřeb",
+    "img": "image/hreb__nail.png"
+  },
+  {
+    "en": "ropeway",
+    "cz": "lanovka",
+    "img": "image/lanovka__ropeway.png"
+  },
+  {
+    "en": "roller coaster",
+    "cz": "horská dráha",
+    "img": "image/horska_draha__roller_coaster.png"
+  },
+  {
+    "en": "camping",
+    "cz": "táboření",
+    "img": "image/taboreni__camping.png"
+  },
+  {
+    "en": "cash",
+    "cz": "hotové peníze",
+    "img": "image/hotove_penize__cash.png"
+  },
+  {
+    "en": "credit card",
+    "cz": "kreditní karta",
+    "img": "image/kreditni_karta__credit_card.png"
+  },
+  {
+    "en": "tent",
+    "cz": "stan",
+    "img": "image/stan__tent.png"
+  },
+  {
+    "en": "expensive",
+    "cz": "drahý",
+    "img": "image/drahy__expensive.png"
+  },
+  {
+    "en": "family",
+    "cz": "rodina",
+    "img": "image/rodina__family.png"
+  },
+  {
+    "en": "home",
+    "cz": "domov",
+    "img": "image/domov__home.png"
+  },
+  {
+    "en": "souvenir",
+    "cz": "suvenýr",
+    "img": "image/suvenyr__souvenir.png"
+  },
+  {
+    "en": "sidewalk",
+    "cz": "chodník",
+    "img": "image/chodnik__sidewalk.png"
+  },
+  {
+    "en": "playground",
+    "cz": "hřiště",
+    "img": "image/hriste__playground.png"
+  },
+  {
+    "en": "reading",
+    "cz": "čtení",
+    "img": "image/cteni__reading.png"
+  },
+  {
+    "en": "rowing",
+    "cz": "veslování",
+    "img": "image/veslovani__rowing.png"
+  },
+  {
+    "en": "sailing",
+    "cz": "plachtění",
+    "img": "image/plachteni__sailing.png"
+  },
+  {
+    "en": "motor scooter",
+    "cz": "skútr",
+    "img": "image/skutr__motor_scooter.png"
+  },
+  {
+    "en": "jinrikisha",
+    "cz": "rikša",
+    "img": "image/riksa__jinrikisha.png"
+  },
+  {
+    "en": "monorail",
+    "cz": "jednokolejka",
+    "img": "image/jednokolejka__monorail.png"
+  },
+  {
+    "en": "motorcycle",
+    "cz": "motocykl",
+    "img": "image/motocykl__motorcycle.png"
+  },
+  {
+    "en": "car",
+    "cz": "vagón",
+    "img": "image/vagon__car.png"
+  },
+  {
+    "en": "carriage",
+    "cz": "kočár",
+    "img": "image/kocar__carriage.png"
+  },
+  {
+    "en": "train",
+    "cz": "vlak",
+    "img": "image/vlak__train.png"
+  },
+  {
+    "en": "station wagon",
+    "cz": "kombi",
+    "img": "image/kombi__station_wagon.png"
+  },
+  {
+    "en": "cab",
+    "cz": "kabriolet",
+    "img": "image/kabriolet__cab.png"
+  },
+  {
+    "en": "convertible",
+    "cz": "kabriolet",
+    "img": "image/kabriolet__convertible.png"
+  },
+  {
+    "en": "locomotive",
+    "cz": "lokomotiva",
+    "img": "image/lokomotiva__locomotive.png"
+  },
+  {
+    "en": "minibike",
+    "cz": "motorka",
+    "img": "image/motorka__minibike.png"
+  },
+  {
+    "en": "pickup",
+    "cz": "pick-up",
+    "img": "image/pick-up__pickup.png"
+  },
+  {
+    "en": "van",
+    "cz": "dodávka",
+    "img": "image/dodavka__van.png"
+  },
+  {
+    "en": "bus",
+    "cz": "autobus",
+    "img": "image/autobus__bus.png"
+  },
+  {
+    "en": "cab",
+    "cz": "taxi",
+    "img": "image/taxi__cab.png"
+  },
+  {
+    "en": "cable railway",
+    "cz": "lanovka",
+    "img": "image/lanovka__cable_railway.png"
+  },
+  {
+    "en": "handcart",
+    "cz": "vozík",
+    "img": "image/vozik__handcart.png"
+  },
+  {
+    "en": "unicycle",
+    "cz": "monocykl",
+    "img": "image/monocykl__unicycle.png"
+  },
+  {
+    "en": "scooter",
+    "cz": "koloběžka",
+    "img": "image/kolobezka__scooter.png"
+  },
+  {
+    "en": "sports car",
+    "cz": "sportovní vůz",
+    "img": "image/sportovni_vuz__sports_car.png"
+  },
+  {
+    "en": "streetcar",
+    "cz": "tramvaj",
+    "img": "image/tramvaj__streetcar.png"
+  },
+  {
+    "en": "tricycle",
+    "cz": "tříkolka",
+    "img": "image/trikolka__tricycle.png"
+  },
+  {
+    "en": "express",
+    "cz": "rychlík",
+    "img": "image/rychlik__express.png"
+  },
+  {
+    "en": "accident",
+    "cz": "nehoda",
+    "img": "image/nehoda__accident.png"
+  },
+  {
+    "en": "ambulance",
+    "cz": "ambulance",
+    "img": "image/ambulance__ambulance.png"
+  },
+  {
+    "en": "willow",
+    "cz": "vrba",
+    "img": "image/vrba__willow.png"
+  },
+  {
+    "en": "beech",
+    "cz": "buk",
+    "img": "image/buk__beech.png"
+  },
+  {
+    "en": "ash",
+    "cz": "jasan",
+    "img": "image/jasan__ash.png"
+  },
+  {
+    "en": "elm",
+    "cz": "jilm",
+    "img": "image/jilm__elm.png"
+  },
+  {
+    "en": "coconut palm",
+    "cz": "kokosová palma",
+    "img": "image/kokosova_palma__coconut_palm.png"
+  },
+  {
+    "en": "eucalyptus",
+    "cz": "eukalypt",
+    "img": "image/eukalypt__eucalyptus.png"
+  },
+  {
+    "en": "birch",
+    "cz": "bříza",
+    "img": "image/briza__birch.png"
+  },
+  {
+    "en": "chestnut",
+    "cz": "kaštan",
+    "img": "image/kastan__chestnut.png"
+  },
+  {
+    "en": "aspen",
+    "cz": "osika",
+    "img": "image/osika__aspen.png"
+  },
+  {
+    "en": "linden",
+    "cz": "lípa",
+    "img": "image/lipa__linden.png"
+  },
+  {
+    "en": "holly",
+    "cz": "cesmína",
+    "img": "image/cesmina__holly.png"
+  },
+  {
+    "en": "tree",
+    "cz": "strom",
+    "img": "image/strom__tree.png"
+  },
+  {
+    "en": "yew",
+    "cz": "tis",
+    "img": "image/tis__yew.png"
+  },
+  {
+    "en": "baobab",
+    "cz": "baobab",
+    "img": "image/baobab__baobab.png"
+  },
+  {
+    "en": "cacao",
+    "cz": "kakao",
+    "img": "image/kakao__cacao.png"
+  },
+  {
+    "en": "bonsai",
+    "cz": "bonsai",
+    "img": "image/bonsai__bonsai.png"
+  },
+  {
+    "en": "potato",
+    "cz": "brambor",
+    "img": "image/brambor__potato.png"
+  },
+  {
+    "en": "carrot",
+    "cz": "mrkev",
+    "img": "image/mrkev__carrot.png"
+  },
+  {
+    "en": "garlic",
+    "cz": "česnek",
+    "img": "image/cesnek__garlic.png"
+  },
+  {
+    "en": "cucumber",
+    "cz": "okurka",
+    "img": "image/okurka__cucumber.png"
+  },
+  {
+    "en": "cabbage",
+    "cz": "kapusta",
+    "img": "image/kapusta__cabbage.png"
+  },
+  {
+    "en": "radish",
+    "cz": "ředkvička",
+    "img": "image/redkvicka__radish.png"
+  },
+  {
+    "en": "pea",
+    "cz": "hrách",
+    "img": "image/hrach__pea__2.png"
+  },
+  {
+    "en": "bean",
+    "cz": "fazole",
+    "img": "image/fazole__bean.png"
+  },
+  {
+    "en": "tomato",
+    "cz": "rajské jablíčko",
+    "img": "image/rajske_jablicko__tomato.png"
+  },
+  {
+    "en": "asparagus",
+    "cz": "chřest",
+    "img": "image/chrest__asparagus.png"
+  },
+  {
+    "en": "eggplant",
+    "cz": "baklažán",
+    "img": "image/baklazan__eggplant.png"
+  },
+  {
+    "en": "celery",
+    "cz": "celer",
+    "img": "image/celer__celery.png"
+  },
+  {
+    "en": "pumpkin",
+    "cz": "dýně",
+    "img": "image/dyne__pumpkin.png"
+  },
+  {
+    "en": "artichoke",
+    "cz": "artyčok",
+    "img": "image/artycok__artichoke.png"
+  },
+  {
+    "en": "peanut",
+    "cz": "burák",
+    "img": "image/burak__peanut.png"
+  },
+  {
+    "en": "chili",
+    "cz": "chilli paprika",
+    "img": "image/chilli_paprika__chili.png"
+  },
+  {
+    "en": "squash",
+    "cz": "dýně",
+    "img": "image/dyne__squash.png"
+  },
+  {
+    "en": "catapult",
+    "cz": "katapult",
+    "img": "image/katapult__catapult.png"
+  },
+  {
+    "en": "arrow",
+    "cz": "šíp",
+    "img": "image/sip__arrow.png"
+  },
+  {
+    "en": "ax",
+    "cz": "sekera",
+    "img": "image/sekera__ax.png"
+  },
+  {
+    "en": "blowpipe",
+    "cz": "foukačka",
+    "img": "image/foukacka__blowpipe.png"
+  },
+  {
+    "en": "boomerang",
+    "cz": "bumerang",
+    "img": "image/bumerang__boomerang.png"
+  },
+  {
+    "en": "slingshot",
+    "cz": "prak",
+    "img": "image/prak__slingshot.png"
+  },
+  {
+    "en": "club",
+    "cz": "obušek",
+    "img": "image/obusek__club.png"
+  },
+  {
+    "en": "crossbow",
+    "cz": "samostříl",
+    "img": "image/samostril__crossbow.png"
+  },
+  {
+    "en": "dagger",
+    "cz": "dýka",
+    "img": "image/dyka__dagger.png"
+  },
+  {
+    "en": "firearm",
+    "cz": "střelná zbraň",
+    "img": "image/strelna_zbran__firearm.png"
+  },
+  {
+    "en": "tomahawk",
+    "cz": "tomahawk",
+    "img": "image/tomahawk__tomahawk.png"
+  },
+  {
+    "en": "spear",
+    "cz": "oštěp",
+    "img": "image/ostep__spear.png"
+  },
+  {
+    "en": "machine gun",
+    "cz": "kulomet",
+    "img": "image/kulomet__machine_gun.png"
+  },
+  {
+    "en": "missile",
+    "cz": "raketa",
+    "img": "image/raketa__missile.png"
+  },
+  {
+    "en": "rapier",
+    "cz": "rapír",
+    "img": "image/rapir__rapier.png"
+  },
+  {
+    "en": "rifle",
+    "cz": "puška",
+    "img": "image/puska__rifle.png"
+  },
+  {
+    "en": "saber",
+    "cz": "šavle",
+    "img": "image/savle__saber.png"
+  },
+  {
+    "en": "shotgun",
+    "cz": "brokovnice",
+    "img": "image/brokovnice__shotgun.png"
+  },
+  {
+    "en": "mine",
+    "cz": "mina",
+    "img": "image/mina__mine.png"
+  },
+  {
+    "en": "torpedo",
+    "cz": "torpédo",
+    "img": "image/torpedo__torpedo.png"
+  },
+  {
+    "en": "revolver",
+    "cz": "revolver",
+    "img": "image/revolver__revolver.png"
+  },
+  {
+    "en": "musket",
+    "cz": "mušketa",
+    "img": "image/musketa__musket.png"
+  },
+  {
+    "en": "trident",
+    "cz": "trojzubec",
+    "img": "image/trojzubec__trident.png"
+  },
+  {
+    "en": "stiletto",
+    "cz": "úzká dýka",
+    "img": "image/uzka_dyka__stiletto.png"
+  },
+  {
+    "en": "foil",
+    "cz": "fleret",
+    "img": "image/fleret__foil.png"
+  },
+  {
+    "en": "blade",
+    "cz": "čepel",
+    "img": "image/cepel__blade.png"
+  },
+  {
+    "en": "storm",
+    "cz": "bouřka",
+    "img": "image/bourka__storm.png"
+  },
+  {
+    "en": "frost",
+    "cz": "jinovatka",
+    "img": "image/jinovatka__frost.png"
+  },
+  {
+    "en": "rainbow",
+    "cz": "duha",
+    "img": "image/duha__rainbow.png"
+  },
+  {
+    "en": "fog",
+    "cz": "mlha",
+    "img": "image/mlha__fog.png"
+  },
+  {
+    "en": "tornado",
+    "cz": "tornádo",
+    "img": "image/tornado__tornado.png"
+  },
+  {
+    "en": "mist",
+    "cz": "mlha",
+    "img": "image/mlha__mist.png"
+  },
+  {
+    "en": "snowflake",
+    "cz": "sněhová vločka",
+    "img": "image/snehova_vlocka__snowflake.png"
+  },
+  {
+    "en": "cyclone",
+    "cz": "větrná smršť",
+    "img": "image/vetrna_smrst__cyclone.png"
+  },
+  {
+    "en": "freeze",
+    "cz": "mráz",
+    "img": "image/mraz__freeze.png"
+  },
+  {
+    "en": "autumn",
+    "cz": "podzim",
+    "img": "image/podzim__autumn.png"
+  },
+  {
+    "en": "barometer",
+    "cz": "tlakoměr",
+    "img": "image/tlakomer__barometer.png"
+  },
+  {
+    "en": "cirrus",
+    "cz": "cirus",
+    "img": "image/cirus__cirrus.png"
+  },
+  {
+    "en": "cloudy",
+    "cz": "oblačný",
+    "img": "image/oblacny__cloudy.png"
+  },
+  {
+    "en": "cumulus",
+    "cz": "kumulus",
+    "img": "image/kumulus__cumulus.png"
+  },
+  {
+    "en": "dust storm",
+    "cz": "písečná bouře",
+    "img": "image/pisecna_boure__dust_storm.png"
+  },
+  {
+    "en": "fog",
+    "cz": "mlha",
+    "img": "image/mlha__fog__2.png"
+  },
+  {
+    "en": "hail",
+    "cz": "krupobití",
+    "img": "image/krupobiti__hail.png"
+  },
+  {
+    "en": "hailstone",
+    "cz": "kroupa",
+    "img": "image/kroupa__hailstone.png"
+  },
+  {
+    "en": "hurricane",
+    "cz": "hurikán",
+    "img": "image/hurikan__hurricane.png"
+  },
+  {
+    "en": "moisture",
+    "cz": "vlhkost",
+    "img": "image/vlhkost__moisture.png"
+  },
+  {
+    "en": "rain",
+    "cz": "déšť",
+    "img": "image/dest__rain.png"
+  },
+  {
+    "en": "smog",
+    "cz": "smog",
+    "img": "image/smog__smog.png"
+  },
+  {
+    "en": "snow",
+    "cz": "sníh",
+    "img": "image/snih__snow.png"
+  },
+  {
+    "en": "spring",
+    "cz": "jaro",
+    "img": "image/jaro__spring.png"
+  },
+  {
+    "en": "summer",
+    "cz": "léto",
+    "img": "image/leto__summer.png"
+  },
+  {
+    "en": "cloud",
+    "cz": "oblak",
+    "img": "image/oblak__cloud.png"
+  },
+  {
+    "en": "biosphere",
+    "cz": "biosféra",
+    "img": "image/biosfera__biosphere.png"
+  },
+  {
+    "en": "sunset",
+    "cz": "západ slunce",
+    "img": "image/zapad_slunce__sunset.png"
+  },
+  {
+    "en": "sunrise",
+    "cz": "východ slunce",
+    "img": "image/vychod_slunce__sunrise.png"
+  },
+  {
+    "en": "icicle",
+    "cz": "rampouch",
+    "img": "image/rampouch__icicle.png"
+  },
+  {
+    "en": "turbulence",
+    "cz": "turbulence",
+    "img": "image/turbulence__turbulence.png"
+  },
+  {
+    "en": "contrail",
+    "cz": "kondenzační stopa",
+    "img": "image/kondenzacni_stopa__contrail.png"
+  },
+  {
+    "en": "board",
+    "cz": "deska",
+    "img": "image/deska__board.png"
+  },
+  {
+    "en": "chain",
+    "cz": "řetěz",
+    "img": "image/retez__chain.png"
+  },
+  {
+    "en": "pipe",
+    "cz": "trubka",
+    "img": "image/trubka__pipe.png"
+  },
+  {
+    "en": "wire",
+    "cz": "drát",
+    "img": "image/drat__wire.png"
+  },
+  {
+    "en": "tool",
+    "cz": "nástroj",
+    "img": "image/nastroj__tool.png"
+  },
+  {
+    "en": "concrete",
+    "cz": "beton",
+    "img": "image/beton__concrete.png"
+  },
+  {
+    "en": "saw",
+    "cz": "pila",
+    "img": "image/pila__saw.png"
+  },
+  {
+    "en": "board",
+    "cz": "prkno",
+    "img": "image/prkno__board.png"
+  },
+  {
+    "en": "roller",
+    "cz": "váleček",
+    "img": "image/valecek__roller.png"
+  },
+  {
+    "en": "rule",
+    "cz": "pravítko",
+    "img": "image/pravitko__rule.png"
+  },
+  {
+    "en": "anvil",
+    "cz": "kovadlina",
+    "img": "image/kovadlina__anvil.png"
+  },
+  {
+    "en": "pliers",
+    "cz": "kleště",
+    "img": "image/kleste__pliers.png"
+  },
+  {
+    "en": "rivet",
+    "cz": "nýt",
+    "img": "image/nyt__rivet.png"
+  },
+  {
+    "en": "clamp",
+    "cz": "svorka",
+    "img": "image/svorka__clamp.png"
+  },
+  {
+    "en": "tongs",
+    "cz": "kleště",
+    "img": "image/kleste__tongs.png"
+  },
+  {
+    "en": "protractor",
+    "cz": "úhloměr",
+    "img": "image/uhlomer__protractor.png"
+  },
+  {
+    "en": "bolt",
+    "cz": "šroub",
+    "img": "image/sroub__bolt.png"
+  },
+  {
+    "en": "weld",
+    "cz": "svářet",
+    "img": "image/svaret__weld.png"
+  },
+  {
+    "en": "wire",
+    "cz": "drát",
+    "img": "image/drat__wire__2.png"
+  }
+]
